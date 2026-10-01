@@ -7,17 +7,53 @@
   "id": 10090200735,
   "name": "RobloxIndonesia_old",
   "displayName": "Roblox_Indonesia",
-  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-/4CEE05D73379B57FD09097664E7753AE-Png/720/720/Avatar/Webp/noFilter",
-  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4CEE05D73379B57FD09097664E7753AE-Png/720/720/AvatarHeadshot/Png/noFilter",
-  "friendsCount": 301,
-  "followersCount": 152,
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-75B4D45B53B588F6B00EA77FF72C52F1-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75B4D45B53B588F6B00EA77FF72C52F1-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 304,
+  "followersCount": 153,
   "followingCount": 16,
   "communities": [
     {
+      "id": 25,
+      "name": "Plaything Games",
+      "memberCount": 2401222,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 18432491,
+        "name": "gamers",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ca9a11000666da6a02a59ae608e97042/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3441009,
+      "name": "Bloxy News Community",
+      "memberCount": 11338,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 23702819,
+        "name": "Community",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4abc2810504980913c8b380c1a436af4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 459291258,
+      "name": "Muffin Interactive",
+      "memberCount": 10021225,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 636597126,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-034f2ae80067d5fb0e1e05370dfeb8fc/150/150/Image/Png/noFilter"
+    },
+    {
       "id": 180466034,
       "name": "Grow a Chicken Fighter",
-      "memberCount": 6666070,
-      "hasVerifiedBadge": false,
+      "memberCount": 7785326,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
         "name": "Member",
@@ -28,7 +64,7 @@
     {
       "id": 671794443,
       "name": "Kin Atelier",
-      "memberCount": 433077,
+      "memberCount": 440489,
       "hasVerifiedBadge": true,
       "role": {
         "id": 586888010,
@@ -40,7 +76,7 @@
     {
       "id": 1074557114,
       "name": "SecretVerse Studio",
-      "memberCount": 122963709,
+      "memberCount": 133289344,
       "hasVerifiedBadge": true,
       "role": {
         "id": 574302045,
@@ -52,7 +88,7 @@
     {
       "id": 300088521,
       "name": "Scary Tower Games",
-      "memberCount": 4070100,
+      "memberCount": 4223567,
       "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
@@ -64,7 +100,7 @@
     {
       "id": 69239448,
       "name": "Dimsum Studios",
-      "memberCount": 80039,
+      "memberCount": 79350,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -76,7 +112,7 @@
     {
       "id": 643624063,
       "name": "Dusk's Studios.",
-      "memberCount": 452070,
+      "memberCount": 473598,
       "hasVerifiedBadge": false,
       "role": {
         "id": 610818051,
@@ -88,7 +124,7 @@
     {
       "id": 34369315,
       "name": "35px",
-      "memberCount": 932305,
+      "memberCount": 950615,
       "hasVerifiedBadge": true,
       "role": {
         "id": 134784578,
@@ -100,7 +136,7 @@
     {
       "id": 469782201,
       "name": "By Roblox Indonesia",
-      "memberCount": 102,
+      "memberCount": 101,
       "hasVerifiedBadge": false,
       "role": {
         "id": 714741079,
@@ -112,7 +148,7 @@
     {
       "id": 15102943,
       "name": "Catalog Avatar Creator",
-      "memberCount": 40760697,
+      "memberCount": 42773326,
       "hasVerifiedBadge": true,
       "role": {
         "id": 85245797,
@@ -124,7 +160,7 @@
     {
       "id": 240322339,
       "name": "Juan Rajawil Community",
-      "memberCount": 6734598,
+      "memberCount": 6869257,
       "hasVerifiedBadge": false,
       "role": {
         "id": 606246092,
@@ -136,7 +172,7 @@
     {
       "id": 35669818,
       "name": "크롱 스튜디오",
-      "memberCount": 55065391,
+      "memberCount": 56295029,
       "hasVerifiedBadge": true,
       "role": {
         "id": 290676163,
@@ -148,7 +184,7 @@
     {
       "id": 460048752,
       "name": "Dawn Digital",
-      "memberCount": 4324445,
+      "memberCount": 4317518,
       "hasVerifiedBadge": true,
       "role": {
         "id": 596148048,
@@ -160,7 +196,7 @@
     {
       "id": 3104358,
       "name": "Brookhaven by Voldex",
-      "memberCount": 12005405,
+      "memberCount": 12244114,
       "hasVerifiedBadge": false,
       "role": {
         "id": 21339070,
@@ -172,7 +208,7 @@
     {
       "id": 7070794,
       "name": "HaYoGo Team",
-      "memberCount": 597873,
+      "memberCount": 598917,
       "hasVerifiedBadge": false,
       "role": {
         "id": 44780815,
@@ -184,7 +220,7 @@
     {
       "id": 340445664,
       "name": "Bocchi Space",
-      "memberCount": 3668188,
+      "memberCount": 3743803,
       "hasVerifiedBadge": true,
       "role": {
         "id": 606822028,
@@ -196,7 +232,7 @@
     {
       "id": 34925158,
       "name": "Studio Lite - Official Community",
-      "memberCount": 51446,
+      "memberCount": 52273,
       "hasVerifiedBadge": false,
       "role": {
         "id": 147030215,
@@ -208,7 +244,7 @@
     {
       "id": 10884667,
       "name": "CDID Studio Official Group",
-      "memberCount": 433619,
+      "memberCount": 438859,
       "hasVerifiedBadge": true,
       "role": {
         "id": 64356012,
@@ -220,7 +256,7 @@
     {
       "id": 16765240,
       "name": "Game Indo",
-      "memberCount": 3911184,
+      "memberCount": 3947505,
       "hasVerifiedBadge": true,
       "role": {
         "id": 93552816,
@@ -232,7 +268,7 @@
     {
       "id": 7923838,
       "name": "Miminers",
-      "memberCount": 314812,
+      "memberCount": 315691,
       "hasVerifiedBadge": false,
       "role": {
         "id": 49260194,
@@ -244,7 +280,7 @@
     {
       "id": 6613107,
       "name": "aFz Team Indonesia",
-      "memberCount": 642402,
+      "memberCount": 645637,
       "hasVerifiedBadge": true,
       "role": {
         "id": 42391024,
@@ -256,10 +292,10 @@
     {
       "id": 13301770,
       "name": "Indo Hangout",
-      "memberCount": 122425,
+      "memberCount": 124463,
       "hasVerifiedBadge": true,
       "role": {
-        "id": 76252138,
+        "id": 12884901889,
         "name": "Member",
         "rank": 1
       },
@@ -268,7 +304,7 @@
     {
       "id": 832676,
       "name": "Asosiasi Komunitas Roblox Indonesia",
-      "memberCount": 462101,
+      "memberCount": 463408,
       "hasVerifiedBadge": true,
       "role": {
         "id": 5106958,
@@ -282,27 +318,27 @@
     {
       "id": 86500008,
       "name": "Man Torso",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-b00fe663767400cd833edb9413c61149/150/150/Torso/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-75f515a5e5b4339f149381f1f8ea9f05/150/150/Torso/Png/noFilter"
     },
     {
       "id": 86500036,
       "name": "Man Right Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-17f0caac846c5544e24cf0af75b630f8/150/150/RightArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2d39121417a01dc06b1e74d9f9d195eb/150/150/RightArm/Png/noFilter"
     },
     {
       "id": 86500054,
       "name": "Man Left Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-aaaa3624543203def3e7a7ce923cac6c/150/150/LeftArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d7dbfdbb043cdd1fcd8633f8b043c877/150/150/LeftArm/Png/noFilter"
     },
     {
       "id": 86500064,
       "name": "Man Left Leg",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ffe05e98a747fd24b4c921c9e23247c/150/150/LeftLeg/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-14d10e3cb278bbdd42f7e7f8eeaf701d/150/150/LeftLeg/Png/noFilter"
     },
     {
       "id": 86500078,
       "name": "Man Right Leg",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-939daf47e103b18178ab2be94af0f077/150/150/RightLeg/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e85935f025bc03cb88fcfc8e0958a55e/150/150/RightLeg/Png/noFilter"
     },
     {
       "id": 144076760,
@@ -312,12 +348,12 @@
     {
       "id": 607702162,
       "name": "Roblox Baseball Cap",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16f1aec1c5df1d078d2c65e4df786d91/150/150/Hat/Png/noFilter"
     },
     {
       "id": 607785314,
       "name": "ROBLOX Jacket",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/150/150/Shirt/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89c5ecf4531e4fbf962025e8a688f594/150/150/Shirt/Png/noFilter"
     },
     {
       "id": 2510230574,
@@ -347,12 +383,12 @@
     {
       "id": 10638267973,
       "name": "Stevie Standard - Head",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5547b8e2e5ecb9cd97b7685d4130ad12/150/150/DynamicHead/Png/noFilter"
     },
     {
       "id": 10647852134,
-      "name": "Default Fall Back Mood",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-76ac7918980f3be793fb76f136b19138/150/150/MoodAnimation/Png/noFilter"
     },
     {
       "id": 14131515346,
@@ -367,7 +403,7 @@
     {
       "id": 16266380460,
       "name": "Black Gamer Headphones",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-534de0afbaeaeaf1292c825d1f2e23fa/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e812de598c9d4e284d9a0f35058d9ccc/150/150/Hat/Png/noFilter"
     },
     {
       "id": 18538146480,
@@ -390,9 +426,19 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-389fc5b32f7749853c560d26dea23d4f/150/150/FallAnimation/Png/noFilter"
     },
     {
-      "id": 102833621122272,
-      "name": "Musical Mindset Aura",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-095489bd49cbd0180b933eef86877295/150/150/Hat/Png/noFilter"
+      "id": 91149654602236,
+      "name": "The Hunt: Roblox 20 Badge",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b3f87a2577a21dca0b86727eb13038a5/150/150/FrontAccessory/Png/noFilter"
+    },
+    {
+      "id": 122767014368218,
+      "name": "Dueling Defenses",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-27cea79340038bcd81ba53dae94e65b3/150/150/WaistAccessory/Png/noFilter"
+    },
+    {
+      "id": 126300691030381,
+      "name": "Crown of RIVALS",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-42ef1a3fdb84d61da6ec1962b7c01073/150/150/Hat/Png/noFilter"
     },
     {
       "id": 130085563806536,
@@ -407,6 +453,14 @@
   ],
   "favoriteGames": [
     {
+      "id": 1125307892,
+      "name": "In Area 51 [ALPHA]",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-67955541655aef580796f2b78b0f3850/150/150/Image/Png/noFilter"
+    },
+    {
       "id": 10338952197,
       "name": "Grow a Chicken Fighter",
       "placeId": null,
@@ -420,7 +474,7 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-9f3bea104a7cb403041cddbd76eb45fc/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-076fa0b396f5eac77ef9bb004dac1842/150/150/Image/Png/noFilter"
     },
     {
       "id": 8854479740,
@@ -464,11 +518,11 @@
     },
     {
       "id": 13058,
-      "name": "Classic: Crossroads",
+      "name": "Crossroads",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-03529af97a21dcc29156c5384cc1b01b/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-672284ae50f6bece92ce3c92c1ea6067/150/150/Image/Png/noFilter"
     },
     {
       "id": 1686885941,
@@ -476,15 +530,15 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-18a8ad6e9d17d2fa2a0abae01b5ab648/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-43d4bb37a6510ac613989cefb77168fd/150/150/Image/Png/noFilter"
     },
     {
       "id": 7326934954,
-      "name": "[🪶] 99 Nights in the Forest 🔦",
+      "name": "[💎x2] 99 Nights in the Forest 🔦",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad2dcbc33cd533a2b5780606c6bb45eb/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c9d4c39ab73b4cf8519f48d3d753eb29/150/150/Image/Png/noFilter"
     },
     {
       "id": 65241,
@@ -492,7 +546,7 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac1c764a99cfae201fd4fe916170a218/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1af257ea3e4aca23d64ee8cf38903f61/150/150/Image/Png/noFilter"
     }
   ],
   "creations": [
@@ -507,6 +561,6 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-51cfa4376c221971db26e8b72d2b4c57/150/150/Image/Png/noFilter"
     }
   ],
-  "copiedAt": "2026-09-01T14:00:00.000Z",
-  "arsip-sebelum": "2026-02-16"
+  "copiedAt": "2026-09-21T12:27:19.866Z",
+  "arsip-sebelum": "2026-09-01"
 }

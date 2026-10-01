@@ -1,0 +1,108 @@
+{
+  "description": "Welcome to the Roblox profile! This is where you can check out the newest items in the catalog, and get a jumpstart on exploring and building on our Imagination Platform. If you want news on updates to the roblox platform, or great new experiences to play with friends, check out blog.roblox.com. Please note, this is an automated account. If you need to reach Roblox for any customer service needs find help at www.roblox.com/help",
+  "created": "2006-02-27T21:06:40.3Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 1,
+  "name": "Roblox",
+  "displayName": "Roblox",
+  "imageUrl": "https://t.rbxcdn.com/30DAY-Avatar-310966282D3529E36976BF6B07B1DC90-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://t.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 8320715,
+  "followingCount": 0,
+  "communities": [
+    {
+      "id": 127081,
+      "name": "Roblox Wiki",
+      "memberCount": 14061,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 676373,
+        "name": "Wiki System Operator",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-022bf1c24a1fda248bdd055c2c751b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7,
+      "name": "Roblox",
+      "memberCount": 158673,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 200,
+        "name": "Owner",
+        "rank": 254
+      },
+      "imageUrl": "https://t.rbxcdn.com/180DAY-dd8f9bac6a0aea7a85478428ab845d87/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 301811432,
+      "name": "Oakley Pants",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-9ecd4a4f5a3b561b78c9f2d032213656/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 607785314,
+      "name": "ROBLOX Jacket",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 12995014400,
+      "name": "Man - Left Arm",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-8e1687efa8836a4bcbd96e80bf832fa8/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 12995015868,
+      "name": "Man - Left Leg",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-3300dd19a138363d753991175ae9d255/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 12995017412,
+      "name": "Man - Right Arm",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-f53f1811649b60f46538d69171e999c7/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 12995018829,
+      "name": "Man - Right Leg",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-52da9787eeed2de5176da603a61464d4/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 12995020128,
+      "name": "Man - Torso",
+      "imageUrl": "https://t.rbxcdn.com/180DAY-a1a88b44a2ad74cc36e41040cb423528/150/150/Torso/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": [
+    {
+      "id": 295594,
+      "name": "Chaos Canyon",
+      "description": "Experience Chaos Canyon - Escape from Desolation Valley, explore the ruins on the cliffs, walk on the Sky Bridge and hold the Battle Cube from invaders! This map features models created by the community, including: PilotLuke, tingc222, and Yahoo.\n\nChaos Canyon is a classic Brick Battle game, and was one of Roblox's first \"official arena maps\". In pure Roblox fashion, the places could be edited by anyone. (This game will be available to tinker with after The Hunt: Roblox 20).\n\n\"One thing we at Roblox have been thinking hard about is how to make sure users can find fun maps on Roblox when they want to play a quick game. In the past this has not been a problem since we didn’t have all that many users... Recently, the number of users who are proficient builders has exploded... If you go to the “Browse Places” tab, you’ll now get exactly 100 pages of places (as of this writing). That’s 1000 places.\" ~ Shedletsky, December 11th, 2006, The Roblox Blog\n\n4eb4-808f-5bf5d4cb7757",
+      "placeId": 14403,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2017-05-19T21:48:00.33Z",
+      "imageUrl": ""
+    },
+    {
+      "id": 13058,
+      "name": "Classic: Crossroads",
+      "description": "The classic ROBLOX level is back!",
+      "placeId": 1818,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2017-04-03T00:05:22.203Z",
+      "imageUrl": ""
+    }
+  ],
+  "copiedAt": "2022-08-14T00:01:59.000Z",
+  "arsip-sebelum": "2021-08-01"
+}
