@@ -1,0 +1,1369 @@
+/* =========================
+   RESET
+========================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f4f6f8;
+    color:#17191d;
+}
+
+
+/* =========================
+   PROFIL
+========================= */
+
+.profil{
+    width:100%;
+    max-width:720px;
+    margin:0 auto 12px;
+    background:#fff;
+    overflow:hidden;
+    border-radius:16px;
+}
+
+
+/* =========================
+   FOTO AVATAR UTAMA
+========================= */
+
+.banner{
+    width:100%;
+    height:360px;
+    overflow:hidden;
+}
+
+.banner img{
+    height:100%;
+    margin:0 auto 12px;
+    object-fit:cover;
+    display:block;
+    transition:transform .3s ease;
+}
+
+
+/* =========================
+   AVATAR BULAT
+========================= */
+
+.avatar{
+    position:relative;
+    margin-top:-125px;
+    margin-left:5px;
+    width:1px;
+    height:120px;
+    z-index:2;
+}
+
+.avatar img{
+    width:120px;
+    height:120px;
+    display:block;
+    object-fit:cover;
+    border:3px solid #fff;
+    background-image:url(/img/background.png);
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    border-radius:50%;
+    box-shadow:
+        0 4px 14px rgba(0,0,0,.20);
+}
+
+
+/* =========================
+   INFORMASI
+========================= */
+
+.info{
+    padding: 10px 20px 20px;
+}
+
+.info h2{
+    font-size:25px;
+    line-height:1.2;
+    margin-bottom:5px;
+    color:#17191d;
+}
+
+.info p{
+    color:#6b7280;
+    font-size:14px;
+    line-height:1.5;
+    margin-bottom:16px;
+}
+
+
+/* =========================
+   STATISTIK
+========================= */
+
+.statistik{
+    display:flex;
+    width:100%;
+    margin:18px 0;
+    padding:14px 0;
+    border-top:1px solid #edf0f2;
+    border-bottom:1px solid #edf0f2;
+}
+
+.statistik > div{
+    flex:1;
+    text-align:center;
+    border-right:1px solid #edf0f2;
+}
+
+.statistik > div:last-child{
+    border-right:none;
+}
+
+.statistik b{
+    display:block;
+    font-size:19px;
+    font-weight:700;
+    color:#20242a;
+    margin-bottom:3px;
+}
+
+.statistik span{
+    color:#8a919a;
+    font-size:12px;
+}
+
+
+/* =========================
+   TOMBOL
+========================= */
+
+.tombol{
+    display:flex;
+    gap:10px;
+    margin-top:12px;
+}
+
+.tombol button{
+    flex:1;
+    height:44px;
+    padding:0 15px;
+    border:1px solid #dfe3e8;
+    border-radius:10px;
+    background:#f1f3f5;
+    color:#30343a;
+    font-size:14px;
+    font-weight:650;
+    cursor:pointer;
+    transition:.2s;
+}
+
+.tombol button:hover{
+    background:#e6e9ec;
+    border-color:#d2d7dd;
+    transform:translateY(-1px);
+}
+
+.tombol button:active{
+    transform:scale(.98);
+}
+
+
+/* =========================
+   TAB
+========================= */
+
+.tab{
+    display:flex;
+    width:100%;
+    background:#fff;
+    border-top:1px solid #edf0f2;
+    border-bottom:1px solid #ddd;
+}
+
+.tab button{
+    position:relative;
+    flex:1;
+    height:50px;
+    border:none;
+    background:#fff;
+    color:#737a83;
+    font-size:14px;
+    font-weight:650;
+    cursor:pointer;
+    transition:.2s;
+}
+
+.tab button:hover{
+    background:#f7f8f9;
+    color:#20242a;
+}
+
+.tab button.active{
+    color:#00a2ff;
+}
+
+.tab button.active::after{
+    content:"";
+    position:absolute;
+    left:20%;
+    right:20%;
+    bottom:0;
+    height:3px;
+    border-radius:5px 5px 0 0;
+    background:#00a2ff;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:600px){
+
+    body{
+        background:#fff;
+    }
+
+    .profil{
+        max-width:none;
+        margin:0;
+        border-radius:0;
+        box-shadow:none;
+    }
+
+    .banner{
+        height:360px;
+    }
+
+    .avatar{
+        width:80px;
+        height:80px;
+        margin-top:-85px;
+        margin-left:5px;
+    }
+
+    .avatar img{
+        width:100px;
+        height:100px;
+        border-width:2px;
+    }
+
+    .info{
+        padding:12px 15px 18px;
+    }
+
+    .info h2{
+        font-size:23px;
+    }
+
+    .info p{
+        font-size:13px;
+    }
+
+    .statistik{
+        margin:15px 0;
+        padding:13px 0;
+    }
+
+    .statistik b{
+        font-size:17px;
+    }
+
+    .statistik span{
+        font-size:11px;
+    }
+
+    .tombol{
+        gap:8px;
+    }
+
+    .tombol button{
+        height:42px;
+        font-size:13px;
+    }
+
+    .tab button{
+        height:48px;
+        font-size:13px;
+    }
+}
+
+
+/* =========================
+   HP KECIL
+========================= */
+
+@media(max-width:380px){
+    .background{
+        width:100%;
+        height:25px;
+    }
+    .banner{
+        height:100%;
+    }
+    .banner img{
+        width:100%;
+        height:100%;
+        margin:0 auto 1px;
+
+    }
+
+    .avatar{
+        width:90px;
+        height:80px;
+        margin-top:-85px;
+    }
+
+    .avatar img{
+        width:90px;
+        height:90px;
+    }
+
+    .info h2{
+        font-size:21px;
+    }
+}
+
+
+section{
+    background:#fff;
+    padding:10px;
+}
+
+section h3{
+    margin-bottom:12px;
+}
+
+#tentang {
+    width: 100%;
+}
+
+#memakai,
+#favorit,
+#komunitas,
+#Simpan-Halaman {
+    display: flex;
+    gap: 12px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    padding: 10px;
+
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+
+    -webkit-overflow-scrolling: touch;
+
+    scrollbar-width: thin;
+}
+
+/* Setiap item di dalam container */
+#memakai > *,
+#favorit > *,
+#komunitas > *,
+#Simpan-Halaman > * {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+}
+
+/* Scrollbar Chrome / Android */
+#memakai::-webkit-scrollbar,
+#favorit::-webkit-scrollbar,
+#komunitas::-webkit-scrollbar,
+#Simpan-Halaman::-webkit-scrollbar {
+    height: 6px;
+}
+
+#memakai::-webkit-scrollbar-thumb,
+#favorit::-webkit-scrollbar-thumb,
+#komunitas::-webkit-scrollbar-thumb,
+#Simpan-Halaman::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+}
+
+{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(90px,1fr));
+    gap:12px;
+}
+
+.card{
+    background:#fafafa;
+    border:1px solid #e5e5e5;
+    border-radius:10px;
+    padding:8px;
+    text-align:center;
+    transition:.2s;
+    width:100px;
+    flex:0 0 100px;
+}
+
+.card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 4px 12px rgba(0,0,0,.12);
+}
+
+.card img{
+    width:100%;
+    height:84px;
+    object-fit:cover;
+    border-radius:8px;
+}
+
+.card p{
+    margin-top:6px;
+    font-size:13px;
+}
+
+@media(max-width:480px){
+
+.info h2{
+    font-size:22px;
+}
+
+.avatar img{
+    width:80px;
+    height:80px;
+}
+
+.banner img{
+    height:100%;
+}
+
+}
+
+.background{
+    width:100%;
+    height:360px;
+    background-image:url("/img/background.png");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    border-radius:16px;
+    display:block;
+    overflow:hidden;
+    vertical-align:middle;
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+}
+    .back {
+        width:100%;
+        height:360px;
+        margin-left: 0px;        
+        top: auto;        
+        bottom: 0;
+        border-radius:4%;                                        
+    }
+
+    .back1 {
+        top: 0;
+        left: 0;
+        pointer-events: none;
+        width: 100%;
+        height: 360px;
+        background-size: 100% 100%;
+        -webkit-backdrop-filter: blur(40px);
+        backdrop-filter: blur(40px);
+        -webkit-mask-image: linear-gradient(#000, transparent);
+        mask-image: linear-gradient(#000, transparent);
+        animation: placeholderShimmer 1.7s linear infinite;
+    }
+
+    .back1 {
+        background: linear-gradient(
+            90deg,
+            transparent 0%,
+            rgba(18,18,21,.3) 50%,
+            transparent 100%
+        );
+        background-size: 100% 100%;
+    }
+
+    @keyframes placeholderShimmer{
+        0%{
+            background-position:-468px 0;
+        }
+        100%{
+            background-position:468px 0;
+        }
+    }
+
+  .hscroll{
+    display:flex;
+    gap:12px;
+    overflow-x:auto;
+    padding-bottom:4px;
+    scrollbar-width:none;
+  }
+  .hscroll::-webkit-scrollbar{display:none;}
+  
+/* =========================
+   KREASI
+========================= */
+#kreasi[hidden] {
+    display: none !important;
+}
+
+#tentang {
+    display: block;
+}
+
+#tentang[hidden] {
+    display: none !important;
+}
+
+#gameList{
+    display:flex;
+    gap:12px;
+
+    overflow-x:auto;
+    overflow-y:hidden;
+
+    padding:10px 4px 14px;
+
+    scroll-behavior:smooth;
+    scroll-snap-type:x mandatory;
+
+    -webkit-overflow-scrolling:touch;
+    scrollbar-width:thin;
+}
+
+#gameList > *{
+    flex:0 0 auto;
+    scroll-snap-align:start;
+}
+
+/* Kartu Kreasi */
+.kreasi-item{
+    width:160px;
+    flex:0 0 160px;
+
+    background:#fafafa;
+    border:1px solid #e5e5e5;
+    border-radius:12px;
+
+    overflow:hidden;
+
+    transition:.2s;
+}
+
+.kreasi-item:hover{
+    transform:translateY(-3px);
+    box-shadow:0 4px 12px rgba(0,0,0,.12);
+}
+
+/* Gambar game */
+.kreasi-item img{
+    width:160px;
+    height:160px;
+
+    object-fit:cover;
+    display:block;
+}
+
+/* Informasi */
+.kreasi-info{
+    padding:10px;
+}
+
+.kreasi-info strong{
+    display:block;
+
+    font-size:14px;
+    line-height:18px;
+
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.kreasi-info p{
+    margin:6px 0;
+
+    color:#777;
+    font-size:12px;
+    line-height:16px;
+
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+}
+
+/* Statistik game */
+.kreasi-stats{
+    font-size:11px;
+    color:#888;
+}
+
+/* Scrollbar */
+#gameList::-webkit-scrollbar{
+    height:6px;
+}
+
+#gameList::-webkit-scrollbar-thumb{
+    border-radius:10px;
+}
+
+/* =========================
+   POPUP EDIT PROFIL
+========================= */
+
+.card1{
+  width:100%;
+  min-width:120px;
+  max-width:440px;
+
+  background:#ffffff;
+  border-radius:18px;
+
+  box-shadow:
+    0 20px 60px rgba(0,0,0,.22),
+    0 4px 15px rgba(0,0,0,.08);
+
+  overflow:hidden;
+  box-sizing:border-box;
+}
+
+
+/* =========================
+   BACKDROP
+========================= */
+
+.popup{
+  position:fixed;
+  inset:0;
+
+  width:100%;
+  height:100%;
+
+  display:none;
+  justify-content:center;
+  align-items:center;
+
+  padding:20px;
+  box-sizing:border-box;
+
+  background:rgba(15,18,25,.60);
+
+  backdrop-filter:blur(6px);
+  -webkit-backdrop-filter:blur(6px);
+
+  z-index:9999;
+}
+
+
+/* =========================
+   CARD CONTENT
+========================= */
+
+.popup .card1{
+  padding:25px;
+  max-height:90vh;
+  overflow-y:auto;
+
+  animation:popupShow .22s ease;
+}
+
+@keyframes popupShow{
+  from{
+    opacity:0;
+    transform:translateY(15px) scale(.98);
+  }
+
+  to{
+    opacity:1;
+    transform:translateY(0) scale(1);
+  }
+}
+
+
+/* =========================
+   TITLE
+========================= */
+
+.popup h2{
+  margin:0 0 6px;
+
+  font-size:24px;
+  font-weight:750;
+
+  color:#17191d;
+  letter-spacing:-.4px;
+}
+
+.popup h2 + p{
+  margin:0 0 20px;
+
+  padding:11px 13px;
+
+  border-radius:10px;
+
+  background:#fff7e5;
+  border:1px solid #f5d38a;
+
+  color:#986600;
+
+  font-size:12px;
+  line-height:1.5;
+}
+
+
+/* =========================
+   INPUT
+========================= */
+
+.popup input,
+.popup textarea{
+  width:100%;
+
+  box-sizing:border-box;
+
+  padding:13px 14px;
+  margin-bottom:12px;
+
+  border:1px solid #dfe3e8;
+  border-radius:11px;
+
+  outline:none;
+
+  background:#fafbfc;
+
+  color:#222;
+
+  font-family:inherit;
+  font-size:14px;
+
+  transition:
+    border-color .2s ease,
+    background .2s ease,
+    box-shadow .2s ease;
+}
+
+
+/* Hover */
+
+.popup input:hover,
+.popup textarea:hover{
+  border-color:#c7cdd4;
+}
+
+
+/* Focus */
+
+.popup input:focus,
+.popup textarea:focus{
+  background:#fff;
+  border-color:#00a2ff;
+
+  box-shadow:
+    0 0 0 3px rgba(0,162,255,.10);
+}
+
+
+/* Placeholder */
+
+.popup input::placeholder,
+.popup textarea::placeholder{
+  color:#9aa1aa;
+}
+
+
+/* =========================
+   TEXTAREA
+========================= */
+
+.popup textarea{
+  height:100px;
+
+  resize:vertical;
+
+  min-height:80px;
+  max-height:180px;
+}
+
+
+/* =========================
+   NUMBER INPUT
+========================= */
+
+.popup input[type="number"]{
+  appearance:textfield;
+  -moz-appearance:textfield;
+}
+
+.popup input[type="number"]::-webkit-inner-spin-button,
+.popup input[type="number"]::-webkit-outer-spin-button{
+  opacity:.5;
+}
+
+
+/* =========================
+   CHECKBOX AREA
+========================= */
+
+.popup label{
+  display:flex;
+  align-items:center;
+
+  gap:9px;
+
+  margin:7px 0;
+
+  padding:11px 13px;
+
+  border:1px solid #e4e7eb;
+  border-radius:11px;
+
+  background:#fafbfc;
+
+  color:#3d4249;
+
+  font-size:14px;
+  font-weight:600;
+
+  cursor:pointer;
+
+  transition:.2s;
+}
+
+.popup label:hover{
+  background:#f5f9fc;
+  border-color:#cbd5df;
+}
+
+
+/* Checkbox */
+
+.popup label input[type="checkbox"]{
+  width:18px;
+  height:18px;
+
+  margin:0;
+
+  padding:0;
+
+  accent-color:#00a2ff;
+
+  cursor:pointer;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+.popup button{
+  width:100%;
+  height:45px;
+
+  margin-top:8px;
+
+  border:0;
+  border-radius:11px;
+
+  font-family:inherit;
+  font-size:14px;
+  font-weight:650;
+
+  cursor:pointer;
+
+  transition:
+    transform .15s ease,
+    box-shadow .15s ease,
+    background .15s ease;
+}
+
+
+/* =========================
+   SIMPAN
+========================= */
+
+#saveProfil{
+  background:linear-gradient(
+    135deg,
+    #00a2ff,
+    #0078e8
+  );
+
+  color:#fff;
+
+  box-shadow:
+    0 5px 15px rgba(0,140,240,.22);
+}
+
+#saveProfil:hover{
+  background:linear-gradient(
+    135deg,
+    #0095ee,
+    #006fda
+  );
+
+  transform:translateY(-1px);
+
+  box-shadow:
+    0 7px 18px rgba(0,140,240,.28);
+}
+
+#saveProfil:active{
+  transform:scale(.98);
+}
+
+
+/* =========================
+   BATAL
+========================= */
+
+#closeProfil{
+  background:#eef0f2;
+  color:#555b63;
+}
+
+#closeProfil:hover{
+  background:#e2e5e8;
+}
+
+#closeProfil:active{
+  transform:scale(.98);
+}
+
+
+/* =========================
+   SCROLLBAR
+========================= */
+
+.popup .card1::-webkit-scrollbar{
+  width:5px;
+}
+
+.popup .card1::-webkit-scrollbar-track{
+  background:transparent;
+}
+
+.popup .card1::-webkit-scrollbar-thumb{
+  background:#d3d7dc;
+  border-radius:10px;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:480px){
+
+  .popup{
+    padding:12px;
+    align-items:flex-end;
+  }
+
+  .popup .card1{
+    padding:20px;
+
+    max-height:92vh;
+
+    border-radius:18px 18px 14px 14px;
+  }
+
+  .popup h2{
+    font-size:21px;
+  }
+
+  .popup input,
+  .popup textarea{
+    font-size:14px;
+    padding:12px;
+  }
+
+  .popup button{
+    height:44px;
+  }
+}
+
+/* =========================
+   PILIH DATA PROFIL
+========================= */
+
+.pilih-data{
+    width:100%;
+    padding:12px;
+
+    background:#fafafa;
+    border:1px solid #e5e5e5;
+    border-radius:12px;
+}
+
+.pilih-data label{
+    display:block;
+
+    margin-bottom:10px;
+
+    font-size:13px;
+    font-weight:650;
+
+    color:#555;
+}
+
+
+/* =========================
+   PREVIEW DATA
+========================= */
+
+.preview-data{
+    display:flex;
+    align-items:center;
+
+    gap:12px;
+
+    width:100%;
+
+    margin-bottom:10px;
+
+    padding:8px;
+
+    background:#fff;
+
+    border:1px solid #e5e5e5;
+    border-radius:10px;
+
+    overflow:hidden;
+}
+
+.preview-data img{
+    width:70px;
+    height:70px;
+
+    flex:0 0 70px;
+
+    object-fit:cover;
+
+    border-radius:8px;
+
+    background:#eee;
+}
+
+.preview-info{
+    min-width:0;
+
+    display:flex;
+    flex-direction:column;
+
+    gap:5px;
+}
+
+.preview-info strong{
+    display:block;
+
+    font-size:14px;
+
+    color:#20242a;
+
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.preview-info span{
+    display:block;
+
+    font-size:12px;
+
+    color:#858b93;
+}
+
+
+/* =========================
+   SELECT
+========================= */
+
+#tanggalData{
+    width:100%;
+
+    height:42px;
+
+    padding:0 12px;
+
+    margin-bottom:9px;
+
+    border:1px solid #dfe3e8;
+
+    border-radius:9px;
+
+    background:#fff;
+
+    color:#30343a;
+
+    font-size:13px;
+
+    outline:none;
+}
+
+#tanggalData:focus{
+    border-color:#00a2ff;
+
+    box-shadow:
+        0 0 0 3px rgba(0,162,255,.10);
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+#lihatData{
+    width:100%;
+
+    height:42px;
+
+    border:0;
+
+    border-radius:9px;
+
+    background:#20242a;
+
+    color:#fff;
+
+    font-size:13px;
+
+    font-weight:650;
+
+    cursor:pointer;
+
+    transition:.2s;
+}
+
+#lihatData:hover{
+    background:#000;
+}
+
+#lihatData:active{
+    transform:scale(.98);
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:480px){
+
+    .preview-data img{
+        width:60px;
+        height:60px;
+
+        flex-basis:60px;
+    }
+
+}
+
+/* =========================
+   SIMPAN HALAMAN
+   STYLE SEPERTI HASIL PENCARIAN
+========================= */
+
+#Simpan-Halaman{
+    width:100%;
+    padding:0;
+}
+
+#daftarDataProfil{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+
+    width:100%;
+}
+
+
+/* =========================
+   ITEM DATA
+========================= */
+
+.data-profil-item{
+    display:flex;
+    align-items:center;
+
+    width:100%;
+
+    padding:9px 10px;
+
+    background:#fff;
+
+    border:1px solid #e5e7eb;
+    border-radius:12px;
+
+    cursor:pointer;
+
+    transition:
+        background .2s,
+        border-color .2s,
+        transform .15s;
+}
+
+.data-profil-item:hover{
+    background:#f7f8fa;
+    border-color:#d7dce2;
+}
+
+.data-profil-item:active{
+    transform:scale(.99);
+}
+
+
+/* =========================
+   AVATAR
+========================= */
+
+.data-profil-avatar{
+    width:52px;
+    height:52px;
+
+    flex:0 0 52px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    background:#f0f1f3;
+
+    border:1px solid #e5e7eb;
+}
+
+
+/* =========================
+   INFORMASI
+========================= */
+
+.data-profil-info{
+    min-width:0;
+
+    flex:1;
+
+    margin-left:12px;
+}
+
+.data-profil-nama{
+    display:flex;
+    align-items:center;
+
+    gap:4px;
+
+    font-size:14px;
+    font-weight:700;
+
+    color:#17191d;
+
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.data-profil-username{
+    margin-top:3px;
+
+    font-size:12px;
+
+    color:#737a83;
+
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.data-profil-tanggal{
+    margin-top:3px;
+
+    font-size:11px;
+
+    color:#9aa0a8;
+}
+
+
+/* =========================
+   TOMBOL
+========================= */
+
+.data-profil-button{
+    flex:0 0 auto;
+
+    margin-left:8px;
+
+    padding:8px 12px;
+
+    border:1px solid #dfe3e8;
+    border-radius:9px;
+
+    background:#f1f3f5;
+
+    color:#30343a;
+
+    font-size:12px;
+    font-weight:650;
+
+    cursor:pointer;
+}
+
+.data-profil-button:hover{
+    background:#e7e9ec;
+}
+
+
+/* =========================
+   DATA AKTIF
+========================= */
+
+.data-profil-item.aktif{
+    border-color:#00a2ff;
+    background:#f4fbff;
+}
+
+.data-profil-item.aktif
+.data-profil-button{
+    background:#00a2ff;
+    border-color:#00a2ff;
+    color:#fff;
+}
+
+
+/* =========================
+   LOADING
+========================= */
+
+.data-profil-loading{
+    padding:15px;
+
+    text-align:center;
+
+    font-size:13px;
+
+    color:#858b93;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:480px){
+
+    .data-profil-avatar{
+        width:48px;
+        height:48px;
+
+        flex-basis:48px;
+    }
+
+    .data-profil-info{
+        margin-left:10px;
+    }
+
+    .data-profil-button{
+        padding:7px 9px;
+        font-size:11px;
+    }
+
+}
