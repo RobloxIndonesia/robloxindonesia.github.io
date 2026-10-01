@@ -1,0 +1,175 @@
+{
+  "description": "Welcome to the Roblox profile! This is where you can check out the newest items in the catalog, and get a jumpstart on exploring and building on our Imagination Platform. If you want news on updates to the Roblox platform, or great new experiences to play with friends, check out blog.roblox.com. Please note, this is an automated account. If you need to reach Roblox for any customer service needs find help at www.roblox.com/help",
+  "created": "2006-02-27T21:06:40.3Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 1,
+  "name": "Roblox",
+  "displayName": "Roblox",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-310966282D3529E36976BF6B07B1DC90-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 17092085,
+  "followingCount": 0,
+  "communities": [
+    {
+      "id": 127081,
+      "name": "Roblox Wiki",
+      "memberCount": 3723818,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 676373,
+        "name": "Wiki System Operator",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-022bf1c24a1fda248bdd055c2c751b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4111519,
+      "name": "Roblox Presents",
+      "memberCount": 121,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 106072807,
+        "name": "Roblox",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac9d521c8719f57213d2b26dae010a98/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7384468,
+      "name": "Roblox Arena Events",
+      "memberCount": 997,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 46417776,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2ed74622eb18392e3a56787ce7749ee2/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 301811432,
+      "name": "Oakley Pants",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ecd4a4f5a3b561b78c9f2d032213656/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16f1aec1c5df1d078d2c65e4df786d91/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 607785314,
+      "name": "ROBLOX Jacket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89c5ecf4531e4fbf962025e8a688f594/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5547b8e2e5ecb9cd97b7685d4130ad12/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-76ac7918980f3be793fb76f136b19138/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 12995014400,
+      "name": "Man - Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-909b672075581e22fc4812920f24a81e/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 12995015868,
+      "name": "Man - Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ddf16a62abeaf1c49f78cbcc5c58cacc/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 12995017412,
+      "name": "Man - Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a7dd2e4cc4741b0000bc03ddb9ccc678/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 12995018829,
+      "name": "Man - Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e06785843903ebb4d7fb1303a30b1d0f/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 12995020128,
+      "name": "Man - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4a1663cf628988cc261d51672c6de2c6/150/150/Torso/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": [
+    {
+      "id": 295594,
+      "name": "Chaos Canyon",
+      "description": "Experience Chaos Canyon - Escape from Desolation Valley, explore the ruins on the cliffs, walk on the Sky Bridge and hold the Battle Cube from invaders! This map features models created by the community, including: PilotLuke, tingc222, and Yahoo.\n\nChaos Canyon is a classic Brick Battle game, and was one of Roblox's first \"official arena maps\". In pure Roblox fashion, the places could be edited by anyone. (This game will be available to tinker with after The Hunt: Roblox 20).\n\n\"One thing we at Roblox have been thinking hard about is how to make sure users can find fun maps on Roblox when they want to play a quick game. In the past this has not been a problem since we didn’t have all that many users... Recently, the number of users who are proficient builders has exploded... If you go to the “Browse Places” tab, you’ll now get exactly 100 pages of places (as of this writing). That’s 1000 places.\" ~ Shedletsky, December 11th, 2006, The Roblox Blog\n\n4eb4-808f-5bf5d4cb7757",
+      "placeId": 14403,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2026-09-19T21:48:00.33Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-64f73b84516f656fd5dc51f86d7eca9b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 246424,
+      "name": "Rocket Arena",
+      "description": "This map goes back to the basics: Rockets, jetboots, and blowing up bridges. Out-maneuver your foes using your jetboots, cut off their escape by nuking the bridges, and rain doom down upon them using a rapid-fire rocket launcher. But don't fall in the lava - ouch!\n\nRocket Arena is a unique Brick Battle game as it focuses on some people's favorite brick battle weapon: The Rocket Launcher.\n\n\"I am working on a set of additional badges for a future release. New badges fall into one of two catagories: they are either entirely unlike any existing badge, or they are “higher level” versions of existing badges. One “higher level” badge I am thinking of making is a more difficult to get version of the Bloxxer badge. At the moment, 64 Robloxians have bloxxers. Using my January 8 post as a reference point, one can say that about 1.3 users earn Bloxxers every day on Roblox. Roughly 2% of all Robloxians have Bloxxers.\" ~ Shedletsky, Bloxxers Who Roxor, Roblox Blog, January 23rd, 2007\n",
+      "placeId": 25415,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2026-09-19T17:39:06.813Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0a86e83d24b25f76642cb4d19172b96d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13058,
+      "name": "Crossroads",
+      "description": "The classic Roblox level is back! Crossroads is Roblox's very first multiplayer game. It is a classic brick battle game with a destructible environment. All great warriors find themselves here.\n\n\"I joined the Roblox team just as they were rolling out the first multiplayer Roblox level - a very early version of Crossroads. This version featured a castle made by Erik and a white house and playground constructed by Builderman. There were two weapons: the slingshot and the rocket launcher. I remember the first time we noticed a user, “dergenx”, actually playing our game, everyone on the team got on and played with him for an hour. It was very exciting. Since the original Crossroads was published, it has been added onto many times as we push the state of the art forward.\" ~ Shedletsky, December 11th, 2006 \"Now We are 10,000\" - Celebrating the 10,000th Roblox user.",
+      "placeId": 1818,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2026-09-17T19:58:32.32Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-672284ae50f6bece92ce3c92c1ea6067/150/150/Image/Png/noFilter"
+    }
+  ],
+  "copiedAt": "2026-09-21T12:32:53.845Z",
+  "arsip-sebelum": "2026-09-01"
+}

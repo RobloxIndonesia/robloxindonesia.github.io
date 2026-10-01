@@ -226,21 +226,25 @@
         <p id="bio">Sumber Pencarian Tidak Dapat Di Temukan Tekan Kembali <a href="/users">halama utama</a> atau belum daftar tekan untuk hubungi <a href="mailto:robloxindonesia.github.io@gmail.com?subject=Minta%20Simpan%20Halaman%20Akun&body=halo%20robloxindonesia_old%20nama%20username%20kami%20akan%20membalas.">robloxindonesia.github.io@gmail.com</a>
         </p>
 
-        <div class="tombol">
+<div class="tombol">
 
-            <button id="editAvatar">
-                Roblox
-            </button>
+    <button id="editAvatar">
+        Roblox
+    </button>
 
-            <button id="editProfil">
-                Edit Profil
-            </button>
+    <button id="editProfil">
+        Edit Profil
+    </button>
 
-            <button id="menu">
-                ⋯
-            </button>
+    <button id="shareProfil">
+        Bagikan
+    </button>
 
-        </div>
+    <button id="menu">
+        ⋯
+    </button>
+
+</div>
 
     </div>
 
@@ -262,21 +266,28 @@
 
     <h3>Saat Ini Memakai</h3>
     <div id="memakai"></div>
-    
+
     <br>
 
     <h3>Favorit</h3>
     <div id="favorit"></div>
-    
+
     <br>
 
     <h3>Komunitas</h3>
     <div id="komunitas"></div>
-    
+
     <br>
-  
+
     <h3>Simpan Halaman</h3>
-    <div id="Simpan-Halaman"></div>
+
+    <div id="Simpan-Halaman">
+        <div id="daftarDataProfil">
+            <div class="data-profil-loading">
+                Mencari data profil...
+            </div>
+        </div>
+    </div>
 
 </section>
 
@@ -331,48 +342,1666 @@
 </div>
 
 <script src="/script/halaman-utama.js"></script>
+
 <script>
-const params = new URLSearchParams(window.location.search);
-const user = params.get("user");
+const params =
+new URLSearchParams(window.location.search);
+
+const user =
+params.get("user");
+
+const tanggalURL =
+params.get("date");
 
 if (user) {
 
-    fetch(`/script/users/${encodeURIComponent(user)}.json`)
-        .then(response => {
+    // ========================================
+    // FORMAT TANGGAL
+    // ========================================
 
-            if (!response.ok) {
-                throw new Error("JSON tidak ditemukan");
+    function formatTanggal(
+        tahun,
+        bulan,
+        tanggal
+    ) {
+        return (
+            tahun +
+            "-" +
+            String(bulan).padStart(2, "0") +
+            "-" +
+            String(tanggal).padStart(2, "0")
+        );
+    }
+
+
+    // ========================================
+    // DAFTAR TANGGAL ARSIP
+    // ========================================
+
+    function buatTanggalArsip() {
+
+        const sekarang =
+            new Date();
+
+        const tahun =
+            sekarang.getFullYear();
+
+        const bulan =
+            sekarang.getMonth();
+
+        const hasil = [];
+
+
+        if (
+            sekarang.getDate() >= 16
+        ) {
+
+            hasil.push(
+                formatTanggal(
+                    tahun,
+                    bulan + 1,
+                    16
+                )
+            );
+
+            hasil.push(
+                formatTanggal(
+                    tahun,
+                    bulan + 1,
+                    1
+                )
+            );
+
+        } else {
+
+            hasil.push(
+                formatTanggal(
+                    tahun,
+                    bulan + 1,
+                    1
+                )
+            );
+        }
+
+
+        for (
+            let i = 1;
+            i < 24;
+            i++
+        ) {
+
+            const totalBulan =
+                tahun * 12 +
+                bulan -
+                i;
+
+            const y =
+                Math.floor(
+                    totalBulan / 12
+                );
+
+            const m =
+                (totalBulan % 12) + 1;
+
+
+            hasil.push(
+                formatTanggal(
+                    y,
+                    m,
+                    16
+                )
+            );
+
+            hasil.push(
+                formatTanggal(
+                    y,
+                    m,
+                    1
+                )
+            );
+        }
+
+
+        return [
+            ...new Set(hasil)
+        ];
+    }
+
+
+    const tanggalArsip =
+        buatTanggalArsip();
+
+
+    // ========================================
+    // DAFTAR USERNAME
+    // ========================================
+
+    /*
+        Username pertama adalah username dari URL.
+
+        Setelah ID ditemukan,
+        usernameHistory akan ditambahkan.
+
+        Contoh:
+
+        user = RobloxIndonesia
+
+        usernameHistory:
+        [
+            "RobIox_lndo",
+            "RobloxIndonesia_old",
+            "RobloxIndonesia"
+        ]
+    */
+
+    let daftarUsername = [
+        user
+    ];
+
+
+    function tambahUsername(
+        usernameBaru
+    ) {
+
+        if (
+            !usernameBaru ||
+            typeof usernameBaru !== "string"
+        ) {
+            return;
+        }
+
+        if (
+            !daftarUsername.includes(
+                usernameBaru
+            )
+        ) {
+            daftarUsername.push(
+                usernameBaru
+            );
+        }
+    }
+
+
+    function tambahUsernameHistory(
+        history
+    ) {
+
+        if (
+            !Array.isArray(history)
+        ) {
+            return;
+        }
+
+        history.forEach(
+            usernameLama => {
+
+                tambahUsername(
+                    usernameLama
+                );
+            }
+        );
+    }
+
+
+    // ========================================
+    // URL JSON
+    // ========================================
+
+    function urlData(
+        tanggal,
+        username
+    ) {
+
+        return (
+            "/users/data/" +
+            tanggal +
+            "/" +
+            encodeURIComponent(
+                username
+            ) +
+            ".json"
+        );
+    }
+
+
+// ========================================
+// DATA YANG TERSEDIA
+// ========================================
+
+const dataTersedia = [];
+
+
+function sudahAda(
+    tanggal
+) {
+
+    return dataTersedia.some(
+        item =>
+            item.tanggal === tanggal
+    );
+}
+
+
+function tambahData(
+    tanggal,
+    data
+) {
+
+    if (
+        sudahAda(tanggal)
+    ) {
+        return;
+    }
+
+
+    dataTersedia.push({
+
+        tanggal:
+            tanggal,
+
+        data:
+            data
+
+    });
+
+
+    dataTersedia.sort(
+        (a, b) =>
+            b.tanggal.localeCompare(
+                a.tanggal
+            )
+    );
+
+
+    isiTanggal();
+}
+
+
+// ========================================
+// DAFTAR SIMPAN HALAMAN
+// ========================================
+
+function isiTanggal() {
+
+    const daftar =
+        document.getElementById(
+            "daftarDataProfil"
+        );
+
+
+    if (!daftar) {
+        return;
+    }
+
+
+    daftar.innerHTML = "";
+
+
+    if (
+        dataTersedia.length === 0
+    ) {
+
+        const loading =
+            document.createElement(
+                "div"
+            );
+
+        loading.className =
+            "data-profil-loading";
+
+        loading.textContent =
+            "Mencari data profil...";
+
+
+        daftar.appendChild(
+            loading
+        );
+
+        return;
+    }
+
+
+    dataTersedia.forEach(
+        item => {
+
+            const data =
+                item.data;
+
+
+            const div =
+                document.createElement(
+                    "div"
+                );
+
+
+            div.className =
+                "data-profil-item";
+
+
+            const aktif =
+                item.tanggal ===
+                window.__profilTanggal;
+
+
+            if (aktif) {
+
+                div.classList.add(
+                    "aktif"
+                );
             }
 
-            return response.json();
 
-        })
-        .then(json => {
+            // ========================================
+            // AVATAR
+            // ========================================
 
-            // JSON sudah berhasil dimuat
-            window.__profilData = json;
+            const avatar =
+                document.createElement(
+                    "img"
+                );
 
-            // Jalankan profil.js
-            const script = document.createElement("script");
 
-            script.src = "/script/profil.js";
+            avatar.className =
+                "data-profil-avatar";
 
-            script.onload = () => {
-                console.log("profil.js berhasil dimuat");
+
+            avatar.alt =
+                data.displayName ||
+                data.username ||
+                data.name ||
+                user;
+
+
+            // ========================================
+            // USERNAME ARSIP
+            // ========================================
+
+            const usernameArsip =
+                data.name ||
+                data.username ||
+                user;
+
+
+            // ========================================
+            // URL ROBLOX
+            // ========================================
+
+            const robloxURL =
+                data.avatarHeadshotUrl ||
+                "";
+
+
+            // ========================================
+            // URL GITHUB PAGES
+            // ========================================
+
+            const githubURL =
+                data.id &&
+                usernameArsip
+
+                    ? `https://robloxindonesia.github.io/users/data/${item.tanggal}/assets/${encodeURIComponent(usernameArsip)}/${data.id}-${encodeURIComponent(usernameArsip)}-headshot.png`
+
+                    : "";
+
+
+            // ========================================
+            // URL LOCALHOST
+            // ========================================
+
+            const localURL =
+                data.id &&
+                usernameArsip
+
+                    ? `data/${item.tanggal}/assets/${encodeURIComponent(usernameArsip)}/${data.id}-${encodeURIComponent(usernameArsip)}-headshot.png`
+
+                    : "";
+
+
+            // ========================================
+            // URL PERTAMA
+            // ========================================
+
+            if (robloxURL) {
+
+                avatar.dataset.tahap =
+                    "roblox";
+
+                avatar.src =
+                    robloxURL;
+
+            } else if (
+                githubURL
+            ) {
+
+                avatar.dataset.tahap =
+                    "github";
+
+                avatar.src =
+                    githubURL;
+
+            } else if (
+                localURL
+            ) {
+
+                avatar.dataset.tahap =
+                    "local";
+
+                avatar.src =
+                    localURL;
+
+            } else {
+
+                avatar.dataset.tahap =
+                    "gagal";
+
+                avatar.src =
+                    "/img/background.png";
+            }
+
+
+            // ========================================
+            // FALLBACK JIKA GAGAL
+            // ========================================
+
+            avatar.onerror =
+                function() {
+
+                    if (
+                        this.dataset.tahap ===
+                            "roblox" &&
+                        githubURL
+                    ) {
+
+                        this.dataset.tahap =
+                            "github";
+
+                        this.src =
+                            githubURL;
+
+                        return;
+                    }
+
+
+                    if (
+                        this.dataset.tahap ===
+                            "github" &&
+                        localURL
+                    ) {
+
+                        this.dataset.tahap =
+                            "local";
+
+                        this.src =
+                            localURL;
+
+                        return;
+                    }
+
+
+                    this.onerror = null;
+
+                    this.src =
+                        "/img/background.png";
+                };
+
+
+                // ========================================
+                // INFO
+                // ========================================
+
+                const info =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                info.className =
+                    "data-profil-info";
+
+
+                const nama =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                nama.className =
+                    "data-profil-nama";
+
+
+                nama.textContent =
+                    data.displayName ||
+                    data.name ||
+                    data.username ||
+                    user;
+
+
+                const username =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                username.className =
+                    "data-profil-username";
+
+
+                username.textContent =
+                    "@" +
+                    (
+                        data.name ||
+                        data.username ||
+                        user
+                    );
+
+
+                const tanggal =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                tanggal.className =
+                    "data-profil-tanggal";
+
+
+                tanggal.textContent =
+                    "Data " +
+                    item.tanggal;
+
+
+                info.appendChild(
+                    nama
+                );
+
+                info.appendChild(
+                    username
+                );
+
+                info.appendChild(
+                    tanggal
+                );
+
+
+                // ========================================
+                // BUTTON
+                // ========================================
+
+                const button =
+                    document.createElement(
+                        "button"
+                    );
+
+
+                button.className =
+                    "data-profil-button";
+
+
+                button.textContent =
+                    aktif
+                        ? "Aktif"
+                        : "Lihat";
+
+
+                button.onclick =
+                    function(event) {
+
+                        event.stopPropagation();
+
+                        bukaDataProfil(
+                            item.tanggal
+                        );
+                    };
+
+
+                div.appendChild(
+                    avatar
+                );
+
+                div.appendChild(
+                    info
+                );
+
+                div.appendChild(
+                    button
+                );
+
+
+                div.onclick =
+                    function() {
+
+                        bukaDataProfil(
+                            item.tanggal
+                        );
+                    };
+
+
+                daftar.appendChild(
+                    div
+                );
+            }
+        );
+    }
+
+
+    // ========================================
+    // LOAD PROFIL.JS
+    // ========================================
+
+    function muatProfilJS() {
+
+        const lama =
+            document.querySelector(
+                'script[data-profil-script="true"]'
+            );
+
+
+        if (lama) {
+            lama.remove();
+        }
+
+
+        const script =
+            document.createElement(
+                "script"
+            );
+
+
+        script.src =
+            "/script/profil.js?t=" +
+            Date.now();
+
+
+        script.dataset.profilScript =
+            "true";
+
+
+        document.body.appendChild(
+            script
+        );
+    }
+
+
+    // ========================================
+    // CARI DATA
+    // ========================================
+
+    async function ambilData(
+        tanggal,
+        username
+    ) {
+
+        try {
+
+            const response =
+                await fetch(
+                    urlData(
+                        tanggal,
+                        username
+                    ),
+                    {
+                        cache:
+                            "no-store"
+                    }
+                );
+
+
+            if (
+                !response.ok
+            ) {
+                return null;
+            }
+
+
+            return await response.json();
+
+        } catch (error) {
+
+            console.log(
+                "Tidak ditemukan:",
+                tanggal,
+                username
+            );
+
+            return null;
+        }
+    }
+
+
+    // ========================================
+    // CARI DATA ID
+    // ========================================
+
+    async function cariDataID(
+        id
+    ) {
+
+        if (!id) {
+            return null;
+        }
+
+
+        const url =
+            "/users/data/id/" +
+            encodeURIComponent(id) +
+            ".json";
+
+
+        try {
+
+            const response =
+                await fetch(
+                    url,
+                    {
+                        cache:
+                            "no-store"
+                    }
+                );
+
+
+            if (
+                !response.ok
+            ) {
+                return null;
+            }
+
+
+            return await response.json();
+
+        } catch (error) {
+
+            console.log(
+                "Data ID tidak ditemukan:",
+                id
+            );
+
+            return null;
+        }
+    }
+
+
+    // ========================================
+    // MUAT USERNAME HISTORY
+    // ========================================
+
+    async function muatUsernameHistory(
+        id
+    ) {
+
+        if (!id) {
+            return;
+        }
+
+
+        const dataID =
+            await cariDataID(id);
+
+
+        if (
+            !dataID
+        ) {
+            return;
+        }
+
+
+        if (
+            Array.isArray(
+                dataID.usernameHistory
+            )
+        ) {
+
+            window.__usernameHistory =
+                dataID.usernameHistory;
+
+
+            tambahUsernameHistory(
+                dataID.usernameHistory
+            );
+        }
+
+
+        /*
+            Simpan ID supaya tidak perlu
+            mencari ulang terus-menerus.
+        */
+
+        window.__profilID =
+            id;
+    }
+
+
+    // ========================================
+    // CARI DATA DENGAN SEMUA USERNAME
+    // ========================================
+
+    async function cariDataDenganUsername(
+        tanggal
+    ) {
+
+        /*
+            Coba semua username yang
+            sudah diketahui.
+
+            Contoh:
+
+            RobloxIndonesia
+            RobloxIndonesia_old
+            RobIox_lndo
+        */
+
+        for (
+            const usernameCari
+            of daftarUsername
+        ) {
+
+            const data =
+                await ambilData(
+                    tanggal,
+                    usernameCari
+                );
+
+
+            if (!data) {
+                continue;
+            }
+
+
+            /*
+                Kalau JSON mempunyai ID,
+                tambahkan username dari JSON
+                ke daftar.
+            */
+
+            tambahUsername(
+                data.name
+            );
+
+            tambahUsername(
+                data.username
+            );
+
+
+            return {
+                data:
+                    data,
+
+                username:
+                    usernameCari
             };
+        }
 
-            script.onerror = () => {
-                console.log("profil.js gagal dimuat");
-            };
 
-            document.body.appendChild(script);
+        return null;
+    }
 
-        })
-        .catch(error => {
-            console.error("Gagal memuat profil:", error);
-        });
+
+// ========================================
+// IKUTI RANTAI ARSIP-SEBELUM
+// ========================================
+
+async function ikutiRantaiArsip(
+    tanggalAwal,
+    dataAwal
+) {
+
+    let tanggalSekarang =
+        tanggalAwal;
+
+    let dataSekarang =
+        dataAwal;
+
+    let usernameSekarang =
+        dataAwal.name ||
+        dataAwal.username ||
+        user;
+
+    const tanggalSudahDicek =
+        new Set();
+
+
+    while (true) {
+
+        // ========================================
+        // CEGAH LOOP
+        // ========================================
+
+        if (
+            tanggalSudahDicek.has(
+                tanggalSekarang
+            )
+        ) {
+            console.log(
+                "Rantai berhenti karena tanggal sudah dicek:",
+                tanggalSekarang
+            );
+
+            break;
+        }
+
+
+        tanggalSudahDicek.add(
+            tanggalSekarang
+        );
+
+
+        // ========================================
+        // SIMPAN KE DAFTAR
+        // ========================================
+
+        tambahData(
+            tanggalSekarang,
+            dataSekarang
+        );
+
+
+        console.log(
+            "ARSIP AKTIF:",
+            tanggalSekarang,
+            usernameSekarang
+        );
+
+
+        // ========================================
+        // AMBIL ARSIP-SEBELUM
+        // ========================================
+
+        const tanggalSebelum =
+            typeof dataSekarang["arsip-sebelum"] ===
+                "string"
+                ? dataSekarang["arsip-sebelum"].trim()
+                : "";
+
+
+        console.log(
+            "ARSIP-SEBELUM:",
+            tanggalSebelum || "(tidak ada)"
+        );
+
+
+        // ========================================
+        // SUDAH TERAKHIR
+        // ========================================
+
+        if (
+            !tanggalSebelum
+        ) {
+
+            console.log(
+                "RANTAI ARSIP SELESAI"
+            );
+
+            break;
+        }
+
+
+        // ========================================
+        // VALIDASI TANGGAL
+        // ========================================
+
+        if (
+            !/^\d{4}-\d{2}-\d{2}$/.test(
+                tanggalSebelum
+            )
+        ) {
+
+            console.log(
+                "Tanggal arsip-sebelum tidak valid:",
+                tanggalSebelum
+            );
+
+            break;
+        }
+
+
+        // ========================================
+        // CEGAH TANGGAL SAMA
+        // ========================================
+
+        if (
+            tanggalSebelum ===
+            tanggalSekarang
+        ) {
+            break;
+        }
+
+
+        // ========================================
+        // SIAPKAN USERNAME YANG AKAN DICOBA
+        // ========================================
+
+        const usernameDicoba = [
+            usernameSekarang,
+            dataSekarang.name,
+            dataSekarang.username,
+            user,
+            ...daftarUsername
+        ].filter(
+            (value, index, array) =>
+                value &&
+                typeof value === "string" &&
+                array.indexOf(value) === index
+        );
+
+
+        let dataLama =
+            null;
+
+        let usernameDitemukan =
+            null;
+
+
+        // ========================================
+        // COBA SATU PER SATU
+        // ========================================
+
+        for (
+            const usernameCari
+            of usernameDicoba
+        ) {
+
+            console.log(
+                "Mencoba arsip:",
+                tanggalSebelum,
+                usernameCari
+            );
+
+
+            const data =
+                await ambilData(
+                    tanggalSebelum,
+                    usernameCari
+                );
+
+
+            if (
+                data
+            ) {
+
+                dataLama =
+                    data;
+
+                usernameDitemukan =
+                    usernameCari;
+
+                break;
+            }
+        }
+
+
+        // ========================================
+        // TIDAK DITEMUKAN
+        // ========================================
+
+        if (
+            !dataLama
+        ) {
+
+            console.log(
+                "❌ ARSIP TIDAK DITEMUKAN:",
+                tanggalSebelum
+            );
+
+            break;
+        }
+
+
+        // ========================================
+        // USERNAME DARI DATA LAMA
+        // ========================================
+
+        tambahUsername(
+            dataLama.name
+        );
+
+        tambahUsername(
+            dataLama.username
+        );
+
+
+        usernameSekarang =
+            dataLama.name ||
+            dataLama.username ||
+            usernameDitemukan;
+
+
+        // ========================================
+        // LANJUT KE ARSIP LAMA
+        // ========================================
+
+        tanggalSekarang =
+            tanggalSebelum;
+
+        dataSekarang =
+            dataLama;
+
+
+        console.log(
+            "✅ ARSIP DITEMUKAN:",
+            tanggalSekarang,
+            usernameSekarang
+        );
+    }
+}
+
+
+
+
+    // ========================================
+    // BUKA DATA TANGGAL
+    // ========================================
+
+    async function bukaDataTanggal(
+        tanggal
+    ) {
+
+        /*
+            Jangan mencari data ID
+            terlebih dahulu.
+
+            Cari arsipnya dulu.
+        */
+
+        const hasil =
+            await cariDataDenganUsername(
+                tanggal
+            );
+
+
+        if (!hasil) {
+            return false;
+        }
+
+
+        const data =
+            hasil.data;
+
+
+        // ========================================
+        // SET DATA AKTIF
+        // ========================================
+
+        window.__profilTanggal =
+            tanggal;
+
+
+        window.__profilData =
+            data;
+
+
+        window.__usernameHistory =
+            window.__usernameHistory ||
+            [];
+
+
+// ========================================
+// CARI USERNAME HISTORY TERLEBIH DAHULU
+// ========================================
+
+if (
+    data.id
+) {
+
+    await muatUsernameHistory(
+        data.id
+    );
+}
+
+
+// ========================================
+// IKUTI ARSIP-SEBELUM
+// ========================================
+
+await ikutiRantaiArsip(
+    tanggal,
+    data
+);
+
+
+// ========================================
+// TAMPILKAN DAFTAR
+// ========================================
+
+isiTanggal();
+
+
+// ========================================
+// CARI ARSIP LAIN DI BACKGROUND
+// ========================================
+
+cekTanggalLain();
+
+
+// ========================================
+// MUAT PROFIL
+// ========================================
+
+muatProfilJS();
+
+
+return true;
+}
+
+
+    // ========================================
+    // CARI DATA TERBARU
+    // ========================================
+
+    async function cariDataTerbaru() {
+
+        /*
+            Pada tahap awal daftarUsername
+            hanya berisi username dari URL.
+
+            Begitu arsip pertama ditemukan,
+            ID akan dicari dan usernameHistory
+            ditambahkan.
+        */
+
+        for (
+            const tanggal
+            of tanggalArsip
+        ) {
+
+            const berhasil =
+                await bukaDataTanggal(
+                    tanggal
+                );
+
+
+            if (berhasil) {
+
+                console.log(
+                    "Data utama:",
+                    tanggal
+                );
+
+                return tanggal;
+            }
+        }
+
+
+        return null;
+    }
+
+
+    // ========================================
+    // CARI DATA DARI URL
+    // ========================================
+
+async function cariDataURL() {
+
+    if (!tanggalURL) {
+        return false;
+    }
+
+    const [tahun, bulan, tanggal] =
+        tanggalURL
+            .split("-")
+            .map(Number);
+
+    let tanggalArsip;
+
+    if (tanggal >= 16) {
+
+        tanggalArsip =
+            formatTanggal(
+                tahun,
+                bulan,
+                16
+            );
+
+    } else {
+
+        tanggalArsip =
+            formatTanggal(
+                tahun,
+                bulan,
+                1
+            );
+    }
+
+    console.log(
+        "Tanggal URL:",
+        tanggalURL,
+        "→ folder arsip:",
+        tanggalArsip
+    );
+
+    const berhasil =
+        await bukaDataTanggal(
+            tanggalArsip
+        );
+
+    if (berhasil) {
+        return true;
+    }
+
+    console.log(
+        "Arsip tidak ditemukan:",
+        tanggalArsip
+    );
+
+    return false;
+}
+
+
+    // ========================================
+    // CARI ARSIP LAIN DI BACKGROUND
+    // ========================================
+
+    async function cekTanggalLain() {
+
+        /*
+            Ambil snapshot username.
+
+            History bisa bertambah selama
+            proses berjalan.
+        */
+
+        for (
+            const tanggal
+            of tanggalArsip
+        ) {
+
+            if (
+                sudahAda(tanggal)
+            ) {
+                continue;
+            }
+
+
+            const hasil =
+                await cariDataDenganUsername(
+                    tanggal
+                );
+
+
+            if (!hasil) {
+                continue;
+            }
+
+
+            const data =
+                hasil.data;
+
+
+            /*
+                Kalau menemukan arsip lama
+                dengan username yang belum
+                diketahui, tambahkan.
+            */
+
+            tambahUsername(
+                data.name
+            );
+
+            tambahUsername(
+                data.username
+            );
+
+
+            tambahData(
+                tanggal,
+                data
+            );
+
+
+            console.log(
+                "Arsip ditemukan:",
+                tanggal,
+                hasil.username
+            );
+        }
+    }
+
+
+    // ========================================
+    // BUKA DATA DARI DAFTAR
+    // ========================================
+
+    async function bukaDataProfil(
+        tanggal
+    ) {
+
+        if (
+            tanggal ===
+            window.__profilTanggal
+        ) {
+            return;
+        }
+
+
+        const item =
+            dataTersedia.find(
+                data =>
+                    data.tanggal ===
+                    tanggal
+            );
+
+
+        if (!item) {
+            return;
+        }
+
+
+        // ========================================
+        // SET DATA
+        // ========================================
+
+        window.__profilTanggal =
+            item.tanggal;
+
+
+        window.__profilData =
+            item.data;
+
+
+        /*
+            Pastikan username dari arsip
+            ikut dimasukkan ke daftar.
+        */
+
+        tambahUsername(
+            item.data.name
+        );
+
+        tambahUsername(
+            item.data.username
+        );
+
+
+        // ========================================
+        // URL
+        // ========================================
+
+        const url =
+            new URL(
+                window.location.href
+            );
+
+
+        url.searchParams.set(
+            "user",
+            user
+        );
+
+
+        url.searchParams.set(
+            "date",
+            tanggal
+        );
+
+
+        window.history.pushState(
+            {},
+            "",
+            url
+        );
+
+
+        // ========================================
+        // TAMPILKAN
+        // ========================================
+
+        isiTanggal();
+
+
+        muatProfilJS();
+
+
+        /*
+            History berdasarkan ID
+            tetap dipakai.
+
+            Kalau ID belum sama dengan
+            history yang sedang tersimpan,
+            ambil lagi.
+        */
+
+        if (
+            item.data.id &&
+            item.data.id !==
+                window.__profilID
+        ) {
+
+            await muatUsernameHistory(
+                item.data.id
+            );
+
+
+            muatProfilJS();
+        }
+    }
+
+
+    // ========================================
+    // MULAI
+    // ========================================
+
+    (async function() {
+
+        let tanggalUtama;
+
+
+        if (tanggalURL) {
+
+            tanggalUtama =
+                await cariDataURL();
+        }
+
+
+        if (!tanggalUtama) {
+
+            tanggalUtama =
+                await cariDataTerbaru();
+        }
+
+
+        if (tanggalUtama) {
+
+            /*
+                Arsip lain dilanjutkan
+                di background.
+            */
+
+            cekTanggalLain();
+        }
+
+    })();
 
 }
+</script>
+<script>
+
+const tombolShare =
+    document.getElementById("shareProfil");
+
+if (tombolShare) {
+
+    tombolShare.addEventListener(
+        "click",
+        async () => {
+
+            const params =
+                new URLSearchParams(
+                    window.location.search
+                );
+
+            const username =
+                params.get("user");
+
+            if (!username) {
+                return;
+            }
+
+            const url =
+                `https://rblxid.github.io/users/share/${encodeURIComponent(username)}/`;
+
+
+            // ============================
+            // WEB SHARE API
+            // ============================
+
+            if (
+                navigator.share
+            ) {
+
+                try {
+
+                    await navigator.share({
+
+                        title:
+                            `Profil Roblox ${username}`,
+
+                        url:
+                            url
+
+                    });
+
+                    return;
+
+                } catch (error) {
+
+                    // User membatalkan share
+                    if (
+                        error.name ===
+                        "AbortError"
+                    ) {
+                        return;
+                    }
+
+                }
+            }
+
+
+            // ============================
+            // FALLBACK SALIN URL
+            // ============================
+
+            try {
+
+                await navigator.clipboard.writeText(
+                    url
+                );
+
+                alert(
+                    "Link profil berhasil disalin."
+                );
+
+            } catch (error) {
+
+                prompt(
+                    "Salin link profil:",
+                    url
+                );
+
+            }
+
+        }
+    );
+
+}
+
 </script>
 </body>
 </html>

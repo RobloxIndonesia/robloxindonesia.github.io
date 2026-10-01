@@ -243,171 +243,698 @@
 <script src="/script/halaman-utama.js"></script>
 
 <script>
-const hasil = document.getElementById("hasil");
+const hasil =
+    document.getElementById("hasil");
 
 let users = [];
 let semuaUser = [];
+
 let jumlahTampil = 20;
 const perLoad = 20;
 
-// Daftar file JSON
-const fileJSON = [
-    "/script/users/roblox.json",
-    "/script/users/robloxindonesia_old.json",
-    "/script/users/builderman.json",
-    "/script/users/google.json",
-    "/script/users/al_rafasya10.json",
-    "/script/users/aping_37210.json",
-    "/script/users/robiox_lndo.json",
-    "/script/users/atharazka17.json",
-    "/script/users/faridgaming_730.json",
-    "/script/users/fatihrahman_21.json",
-    "/script/users/deden_sn.json",
-    "/script/users/frank70088.json",
-    "/script/users/kitaakanmenjaditeman.json",
-    "/script/users/limus49.json",
-    "/script/users/rasyid_cooikidd27.json",
-    "/script/users/azure7967.json",
-    "/script/users/psim094.json",
-    "/script/users/masdwi77.json",
-    "/script/users/irfanhadifgaming2.json",
-    "/script/users/expandtemplet.json",
-    "/script/users/hayo_go.json",
-    "/script/users/maulanaasgaf.json",
-    "/script/users/miminloveroblox.json",
-    "/script/users/kimonoxx.json",
-    "/script/users/zharziu.json",
-    "/script/users/raja10611.json",
-    "/script/users/zainkalkun5.json",
-    "/script/users/alya_20090101.json",
-    "/script/users/tiktok.json",
-    "/script/users/jandel.json",
-    "/script/users/instagram.json",
-    "/script/users/facebook.json",
-    "/script/users/samsung.json",
-    "/script/users/apple.json",
-    "/script/users/david.baszucki.json",
-    "/script/users/abieprogammer.json",
-    "/script/users/raragemoy19p.json",
-    "/script/users/twitter.json",
-    "/script/users/ucup3004.json",
-    "/script/users/whatsapp.json",
-    "/script/users/akudaf_6802.json"
-];
 
-// Memuat semua JSON
-Promise.all(
-    fileJSON.map(file =>
-        fetch(file)
-            .then(response => {
+// =========================
+// AMBIL DAFTAR USER
+// =========================
+
+fetch("data/users.json")
+
+    .then(response => {
+
+        console.log(
+            "Status users.json:",
+            response.status,
+            response.statusText
+        );
+
+        console.log(
+            "URL:",
+            response.url
+        );
+
+        if (!response.ok) {
+
+            throw new Error(
+                "Gagal memuat users.json: HTTP " +
+                response.status
+            );
+        }
+
+        return response.json();
+    })
+
+
+    // =========================
+    // PROSES USERS.JSON
+    // =========================
+
+    .then(data => {
+
+        console.log(
+            "Isi users.json:",
+            data
+        );
+
+
+        const daftarUsername =
+            data.users || [];
+
+
+        console.log(
+            "Jumlah username:",
+            daftarUsername.length
+        );
+
+
+        // =========================
+        // CARI FILE USER
+        // =========================
+
+        async function cariFileUser(username) {
+
+            const file =
+                `user/${encodeURIComponent(username)}.json`;
+
+
+            try {
+
+                const response =
+                    await fetch(file);
+
+
+                console.log(
+                    "Cek:",
+                    username,
+                    response.status
+                );
+
+
                 if (!response.ok) {
-                    throw new Error("Gagal memuat " + file);
+
+                    console.log(
+                        "JSON tidak ditemukan:",
+                        file
+                    );
+
+                    return null;
                 }
-                return response.json();
-            })
-    )
-)
-.then(semuaData => {
 
-    // Gabungkan semua JSON
-    users = semuaData.flat();
 
-    // Urutkan A-Z
-    users.sort((a, b) =>
-        a.displayName.localeCompare(b.displayName, "id", {
-            sensitivity: "base"
-        })
+                const data =
+                    await response.json();
+
+
+                console.log(
+                    "JSON DITEMUKAN:",
+                    username
+                );
+
+
+                return data;
+
+            } catch (error) {
+
+                console.log(
+                    "Gagal cek:",
+                    file,
+                    error
+                );
+
+                return null;
+            }
+        }
+
+
+        // =========================
+        // AMBIL SEMUA USER
+        // =========================
+
+        return Promise.all(
+
+            daftarUsername.map(
+                username =>
+                    cariFileUser(
+                        username
+                    )
+            )
+
+        );
+
+    })
+
+
+    // =========================
+    // HASIL SEMUA DATA
+    // =========================
+
+    .then(semuaData => {
+
+        console.log(
+            "Semua data:",
+            semuaData
+        );
+
+
+        // =========================
+        // HAPUS DATA GAGAL
+        // =========================
+
+        users =
+            semuaData.filter(
+                data =>
+                    data !== null
+            );
+
+
+        // =========================
+        // HAPUS DUPLIKAT ID
+        // =========================
+
+        const berdasarkanID =
+            new Map();
+
+
+        users.forEach(user => {
+
+            if (!user) {
+                return;
+            }
+
+
+            // =========================
+            // TANPA ID
+            // =========================
+
+            if (!user.id) {
+
+                const username =
+                    (
+                        user.name ||
+                        user.username ||
+                        ""
+                    ).toLowerCase();
+
+
+                berdasarkanID.set(
+                    "username:" +
+                    username,
+                    user
+                );
+
+
+                return;
+            }
+
+
+            // =========================
+            // BERDASARKAN ID ROBLOX
+            // =========================
+
+            const key =
+                String(user.id);
+
+
+            const dataLama =
+                berdasarkanID.get(
+                    key
+                );
+
+
+            if (!dataLama) {
+
+                berdasarkanID.set(
+                    key,
+                    user
+                );
+
+                return;
+            }
+
+
+            // =========================
+            // PILIH DATA TERBARU
+            // =========================
+
+            const waktuBaru =
+                user.copiedAt
+                    ? new Date(
+                        user.copiedAt
+                    ).getTime()
+                    : 0;
+
+
+            const waktuLama =
+                dataLama.copiedAt
+                    ? new Date(
+                        dataLama.copiedAt
+                    ).getTime()
+                    : 0;
+
+
+            if (
+                waktuBaru >=
+                waktuLama
+            ) {
+
+                berdasarkanID.set(
+                    key,
+                    user
+                );
+            }
+
+        });
+
+
+        // =========================
+        // HASIL AKHIR
+        // =========================
+
+        users =
+            Array.from(
+                berdasarkanID.values()
+            );
+
+
+        console.log(
+            "Jumlah user akhir:",
+            users.length
+        );
+
+
+        // =========================
+        // URUTKAN A-Z
+        // =========================
+
+        users.sort((a, b) => {
+
+            const namaA =
+                a.displayName ||
+                a.name ||
+                "";
+
+
+            const namaB =
+                b.displayName ||
+                b.name ||
+                "";
+
+
+            return namaA.localeCompare(
+                namaB,
+                "id",
+                {
+                    sensitivity:
+                        "base"
+                }
+            );
+        });
+
+
+        semuaUser =
+            users;
+
+
+        jumlahTampil =
+            20;
+
+
+        tampilAwal();
+
+    })
+
+
+    // =========================
+    // ERROR
+    // =========================
+
+    .catch(error => {
+
+        console.error(
+            "JSON:",
+            error
+        );
+
+
+        hasil.innerHTML =
+            "<p>Data pengguna gagal dimuat.</p>";
+    });
+
+// =========================
+// BUAT GAMBAR
+// =========================
+
+function buatGambar(
+    user,
+    displayName
+) {
+
+    const robloxImage =
+        user.avatarHeadshotUrl ||
+        "";
+
+
+    // =========================
+    // AMBIL TANGGAL DARI copiedAt
+    // =========================
+
+// =========================
+// AMBIL TANGGAL ARSIP
+// DARI copiedAt
+// =========================
+
+let tanggalArsip = "";
+
+if (user.copiedAt) {
+
+    const tanggal =
+        new Date(user.copiedAt);
+
+    if (!isNaN(tanggal.getTime())) {
+
+        const tahun =
+            tanggal.getUTCFullYear();
+
+        const bulan =
+            String(
+                tanggal.getUTCMonth() + 1
+            ).padStart(2, "0");
+
+        const hari =
+            tanggal.getUTCDate();
+
+        // Hari 1-15 = tanggal 01
+        // Hari 16+  = tanggal 16
+
+        const hariArsip =
+            hari >= 16
+                ? "16"
+                : "01";
+
+        tanggalArsip =
+            `${tahun}-${bulan}-${hariArsip}`;
+    }
+}
+
+
+    // =========================
+    // URL GAMBAR LOKAL
+    // =========================
+
+const localImage =
+    user.id &&
+    user.name &&
+    tanggalArsip
+
+        ? `https://robloxindonesia.github.io/users/data/${tanggalArsip}/assets/${encodeURIComponent(
+            user.name
+        )}/${user.id}-${encodeURIComponent(
+            user.name
+        )}-headshot.png`
+
+        : "";
+
+
+    console.log(
+        "Gambar lokal:",
+        localImage
     );
 
-    semuaUser = users;
 
-    tampilAwal();
+    // =========================
+    // BUAT IMG
+    // =========================
 
-})
-.catch(error => {
-    console.error("JSON:", error);
-    hasil.innerHTML = "<p>Data pengguna gagal dimuat.</p>";
-});
+    const img =
+        document.createElement(
+            "img"
+        );
+
+
+    img.className =
+        "img";
+
+
+    img.width =
+        70;
+
+
+    img.height =
+        70;
+
+
+    img.alt =
+        displayName;
+
+
+    // =========================
+    // GAMBAR UTAMA
+    // =========================
+
+    if (robloxImage) {
+
+        img.src =
+            robloxImage;
+
+    } else if (localImage) {
+
+        img.src =
+            localImage;
+    }
+
+
+    // =========================
+    // FALLBACK KE GAMBAR LOKAL
+    // =========================
+
+    img.onerror =
+        function() {
+
+            if (
+                this.src ===
+                    robloxImage &&
+                localImage
+            ) {
+
+                this.src =
+                    localImage;
+
+                return;
+            }
+
+
+            this.onerror =
+                null;
+
+
+            console.log(
+                "Gambar gagal:",
+                this.src
+            );
+        };
+
+
+    return img;
+}
+
 
 
 // =========================
 // TAMPILKAN USER
 // =========================
 
-function tampil(data, reset = true) {
+function tampil(
+    data,
+    reset = true
+) {
 
-    if (reset) hasil.innerHTML = "";
+    if (reset) {
+
+        hasil.innerHTML =
+            "";
+    }
+
 
     data.forEach(user => {
 
         const username =
             user.name || "";
 
+
         const displayName =
-            user.displayName || username;
+            user.displayName ||
+            username;
 
 
         // =========================
-        // HEADSHOT FALLBACK
+        // LINK
         // =========================
 
-        const headshotFallback =
-            user.id && user.name
-                ? `https://robloxindonesia.github.io/assets/${user.name}/${user.id}-${user.name}-headshot.png`
-                : "";
+        const link =
+            document.createElement(
+                "a"
+            );
 
 
-        const avatar =
-            user.avatarHeadshotUrl ||
-            headshotFallback ||
-            "";
+        link.href =
+            "profil.html?user=" +
+            encodeURIComponent(
+                username.toLowerCase()
+            );
+
+
+        link.style.textDecoration =
+            "none";
+
+
+        link.style.color =
+            "black";
+
+
+        // =========================
+        // USER
+        // =========================
+
+        const userElement =
+            document.createElement(
+                "div"
+            );
+
+
+        userElement.className =
+            "user";
+
+
+        // =========================
+        // GAMBAR
+        // =========================
+
+        const gambar =
+            buatGambar(
+                user,
+                displayName
+            );
+
+
+        // =========================
+        // INFO
+        // =========================
+
+        const info =
+            document.createElement(
+                "div"
+            );
+
+
+        info.className =
+            "info";
+
+
+        // =========================
+        // NAMA
+        // =========================
+
+        const h3 =
+            document.createElement(
+                "h3"
+            );
+
+
+        h3.textContent =
+            displayName;
 
 
         // =========================
         // VERIFIED
         // =========================
 
-        const verified =
-            user.hasVerifiedBadge === true
-                ? `<img src="/iconsvg/certified.svg"
-                        width="15"
-                        height="15"
-                        alt="Verified">`
-                : "";
+        if (
+            user.hasVerifiedBadge ===
+            true
+        ) {
+
+            const verified =
+                document.createElement(
+                    "img"
+                );
 
 
-        hasil.innerHTML += `
+            verified.src =
+                "/iconsvg/certified.svg";
 
-<a href="/users/profil.html?user=${encodeURIComponent(username.toLowerCase())}"
-   style="text-decoration:none;color:black;">
 
-    <div class="user">
+            verified.width =
+                15;
 
-        <img
-            class="img"
-            src="${avatar}"
-            width="70"
-            height="70"
-            alt="${displayName}"
-            onerror="this.onerror=null;this.src='${headshotFallback}'"
-        >
 
-        <div class="info">
+            verified.height =
+                15;
 
-            <h3>
-                ${displayName}
-                ${verified}
-            </h3>
 
-            <p>@${username}</p>
+            verified.alt =
+                "Verified";
 
-        </div>
 
-    </div>
+            h3.appendChild(
+                document.createTextNode(
+                    " "
+                )
+            );
 
-</a>
 
-        `;
+            h3.appendChild(
+                verified
+            );
+        }
+
+
+        // =========================
+        // USERNAME
+        // =========================
+
+        const usernameElement =
+            document.createElement(
+                "p"
+            );
+
+
+        usernameElement.textContent =
+            "@" +
+            username;
+
+
+        // =========================
+        // SUSUN
+        // =========================
+
+        info.appendChild(
+            h3
+        );
+
+
+        info.appendChild(
+            usernameElement
+        );
+
+
+        userElement.appendChild(
+            gambar
+        );
+
+
+        userElement.appendChild(
+            info
+        );
+
+
+        link.appendChild(
+            userElement
+        );
+
+
+        hasil.appendChild(
+            link
+        );
+
     });
 }
 
@@ -418,10 +945,15 @@ function tampil(data, reset = true) {
 
 function tampilAwal() {
 
-    hasil.innerHTML = "";
+    hasil.innerHTML =
+        "";
+
 
     tampil(
-        semuaUser.slice(0, jumlahTampil),
+        semuaUser.slice(
+            0,
+            jumlahTampil
+        ),
         false
     );
 }
@@ -431,48 +963,107 @@ function tampilAwal() {
 // LOAD SAAT SCROLL
 // =========================
 
-window.addEventListener("scroll", () => {
+window.addEventListener(
+    "scroll",
+    () => {
 
-    if (
-        window.innerHeight + window.scrollY >=
-        document.body.offsetHeight - 100
-    ) {
+        if (
+            window.innerHeight +
+            window.scrollY >=
+            document.body.offsetHeight -
+            100
+        ) {
 
-        if (jumlahTampil < semuaUser.length) {
+            if (
+                jumlahTampil <
+                semuaUser.length
+            ) {
 
-            const lama = jumlahTampil;
+                const lama =
+                    jumlahTampil;
 
-            jumlahTampil += perLoad;
 
-            tampil(
-                semuaUser.slice(lama, jumlahTampil),
-                false
-            );
+                jumlahTampil +=
+                    perLoad;
+
+
+                tampil(
+                    semuaUser.slice(
+                        lama,
+                        jumlahTampil
+                    ),
+                    false
+                );
+            }
         }
     }
+);
 
-});
 
-// Pencarian
-document.getElementById("search").addEventListener("input", function () {
+// =========================
+// PENCARIAN
+// =========================
 
-    const cari = this.value.toLowerCase();
+const search =
+    document.getElementById(
+        "search"
+    );
 
-    semuaUser = users.filter(user => {
 
-        const displayName = (user.displayName || "").toLowerCase();
-        const username = (user.name || "").toLowerCase();
+if (search) {
 
-        return (
-            displayName.includes(cari) ||
-            username.includes(cari)
-        );
-    });
+    search.addEventListener(
+        "input",
+        function() {
 
-    jumlahTampil = 20;
-    tampilAwal();
+            const cari =
+                this.value
+                    .toLowerCase()
+                    .trim();
 
-});
+
+            semuaUser =
+                users.filter(
+                    user => {
+
+                        const displayName =
+                            (
+                                user.displayName ||
+                                ""
+                            )
+                            .toLowerCase();
+
+
+                        const username =
+                            (
+                                user.name ||
+                                ""
+                            )
+                            .toLowerCase();
+
+
+                        return (
+                            displayName.includes(
+                                cari
+                            ) ||
+
+                            username.includes(
+                                cari
+                            )
+                        );
+                    }
+                );
+
+
+            jumlahTampil =
+                20;
+
+
+            tampilAwal();
+        }
+    );
+}
+
 </script>
 </body>
 </html>
