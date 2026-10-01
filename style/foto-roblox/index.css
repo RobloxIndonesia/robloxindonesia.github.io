@@ -1,0 +1,53 @@
+h2{
+    text-align:center;
+    padding:20px;
+}
+
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+    gap:10px;
+    padding:10px;
+}
+
+.gallery img{
+    width:100%;
+    aspect-ratio:1/1;
+    object-fit:cover;
+    border-radius:10px;
+    cursor:pointer;
+    transition:.2s;
+}
+
+.gallery img:hover{
+    transform:scale(1.05);
+}
+
+.viewer{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.9);
+    justify-content:center;
+    align-items:center;
+}
+
+.viewer img{
+    max-width:95%;
+    max-height:95%;
+}
+.pilih-foto{
+    position:fixed;
+    left:20px;
+    right:20px;
+    bottom:20px;
+    height:55px;
+    border:none;
+    border-radius:30px;
+    background:#00d26a;
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    box-shadow:0 10px 25px rgba(0,210,106,.35);
+}
