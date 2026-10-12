@@ -46,14 +46,23 @@
 
 
 <!-- =========================
-     CSS
+     CSS UTAMA
 ========================= -->
 
 <link rel="stylesheet"
-      href="/style/halaman-utama.css">
+      href="/style/home-page.css">
 
+
+<!-- =========================
+     CSS 404
+========================= -->
 
 <style>
+
+* {
+    box-sizing: border-box;
+}
+
 
 /* =========================
    HALAMAN 404
@@ -108,7 +117,7 @@
 
     font-weight: 700;
 
-    color: #fff;
+    color: #17181a;
 
 }
 
@@ -121,7 +130,7 @@
 
     line-height: 1.6;
 
-    color: #aaa;
+    color: #5d6269;
 
 }
 
@@ -146,7 +155,9 @@
 
     font-weight: 600;
 
-    transition: 0.2s;
+    transition:
+        opacity 0.2s ease,
+        transform 0.2s ease;
 
 }
 
@@ -209,180 +220,38 @@
 </style>
 
 </head>
-
-
 <body>
-
-
-<!-- =========================
-     HEADER
-========================= -->
-
+    
 <div class="header">
-
-    <div class="header1">
-
-        <button
-            class="menu-btn"
-            onclick="openMenu()">
-            ☰
-        </button>
-
-
-        <div id="logo1"></div>
-
-
-        <div class="right-icons">
-
-            <div id="profiles"></div>
-
-            <div class="search">
-                ⌕
-            </div>
-
-        </div>
-
-    </div>
-
-
-    <!-- =========================
-         NAV
-    ========================= -->
-
-    <div class="nav">
-
-        <a id="link1"></a>
-
-        <a id="link2"></a>
-
-        <a id="link3"></a>
-
-        <a id="link4"></a>
-
-    </div>
-
+  <div class="header1">
+    <button class="menu-btn" onclick="openMenu()">☰</button>
+    <div id="logo1"></div>
+    <div class="right-icons"><div id="profiles"></div><div class="search">⌕</div></div>
+  </div>
+  <div class="nav">
+    <a id="link1"></a><a id="link2"></a><a id="link3"></a><a id="link4"></a>
+  </div>
 </div>
 
-
-<!-- =========================
-     SIDEBAR
-========================= -->
-
-<div
-    id="menuDropdown"
-    class="sidebar">
-
-
-    <div class="close-btn1">
-
-        <div id="logo2"></div>
-
-        <span
-            class="close-btn"
-            onclick="closeMenu()">
-            ×
-        </span>
-
-    </div>
-
-
-    <a id="link9"></a>
-
-    <a id="link10"></a>
-
-    <a id="link11"></a>
-
-    <a id="link12"></a>
-
-    <a id="link13"></a>
-
-    <a id="link14"></a>
-
-    <a id="link15"></a>
-
-    <a id="link16"></a>
-
+<div id="menuDropdown" class="sidebar">
+  <div class="close-btn1"><div id="logo2"></div><span class="close-btn" onclick="closeMenu()">×</span></div>
+  <a id="link9"></a><a id="link10"></a><a id="link11"></a><a id="link12"></a>
+  <a id="link13"></a><a id="link14"></a><a id="link15"></a><a id="link16"></a>
 </div>
+<div class="spasi"></div>
 
+<main>
+  <div class="error-page"><div class="error-content">
+  <h1 class="error-code">404</h1><h2 class="error-title">Halaman Tidak Ditemukan</h2>
+  <p class="error-description">Maaf, halaman yang Anda cari tidak tersedia atau mungkin sudah dipindahkan.</p>
+  <a href="/home/" class="error-button">Kembali ke Beranda</a>
+  </div></div>
+</main>
 
-<!-- =========================
-     404 CONTENT
-========================= -->
-
-<div class="error-page">
-
-    <div class="error-content">
-
-
-        <h1 class="error-code">
-            404
-        </h1>
-
-
-        <h2 class="error-title">
-            Halaman Tidak Ditemukan
-        </h2>
-
-
-        <p class="error-description">
-            Maaf, halaman yang Anda cari tidak tersedia
-            atau mungkin sudah dipindahkan.
-        </p>
-
-
-        <a
-            href="/"
-            class="error-button">
-
-            Kembali ke Beranda
-
-        </a>
-
-
-    </div>
-
-</div>
-
-
-<!-- =========================
-     FOOTER
-========================= -->
-
-<div class="footer-links">
-
-    <a id="link5"></a>
-
-    <a id="link6"></a>
-
-    <a id="link7"></a>
-
-    <a id="link8"></a>
-
-</div>
-
-
+<div class="footer-links"><a id="link5"></a><a id="link6"></a><a id="link7"></a><a id="link8"></a></div>
 <hr>
+<div id="text1" class="copyright"></div><div id="text2" class="copyright"></div>
 
-
-<div
-    id="text1"
-    class="copyright">
-</div>
-
-
-<div
-    id="text2"
-    class="copyright">
-</div>
-
-
-<!-- =========================
-     JAVASCRIPT
-========================= -->
-
-<script src="/script/halaman-utama.js"></script>
-
-
+<script src="/script/home-page.js"></script>
 </body>
-
 </html>
