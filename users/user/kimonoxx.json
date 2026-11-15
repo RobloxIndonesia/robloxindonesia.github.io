@@ -3,20 +3,20 @@
   "created": "2020-04-25T22:44:46.583Z",
   "isBanned": false,
   "externalAppDisplayName": null,
-  "hasVerifiedBadge": false,
+  "hasVerifiedBadge": true,
   "id": 1591372547,
   "name": "kimonoxx",
   "displayName": "Mimin",
-  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-3488DF67E9844FC458987C7F5CD64723-Png/720/720/Avatar/Webp/noFilter",
-  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3488DF67E9844FC458987C7F5CD64723-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-11F1DC26D8CF8F44A47476353D84B43D-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F1DC26D8CF8F44A47476353D84B43D-Png/150/150/AvatarHeadshot/Png/noFilter",
   "friendsCount": 77,
-  "followersCount": 102370,
+  "followersCount": 102526,
   "followingCount": 6,
   "communities": [
     {
       "id": 789550514,
       "name": "Last Hope - Production",
-      "memberCount": 783,
+      "memberCount": 878,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -28,7 +28,7 @@
     {
       "id": 540005765,
       "name": "Studio Kaki Lima",
-      "memberCount": 307,
+      "memberCount": 321,
       "hasVerifiedBadge": false,
       "role": {
         "id": 573968003,
@@ -40,7 +40,7 @@
     {
       "id": 14984341,
       "name": "Copyrend's Community",
-      "memberCount": 6164098,
+      "memberCount": 6510409,
       "hasVerifiedBadge": true,
       "role": {
         "id": 268562199,
@@ -52,7 +52,7 @@
     {
       "id": 35590964,
       "name": "Trash :v Dev",
-      "memberCount": 1268,
+      "memberCount": 1309,
       "hasVerifiedBadge": false,
       "role": {
         "id": 274978037,
@@ -64,7 +64,7 @@
     {
       "id": 33424891,
       "name": "Undercover Studio Roblox",
-      "memberCount": 462,
+      "memberCount": 470,
       "hasVerifiedBadge": false,
       "role": {
         "id": 103235127,
@@ -88,7 +88,7 @@
     {
       "id": 13238061,
       "name": "Rifly Entertainment",
-      "memberCount": 61452,
+      "memberCount": 61699,
       "hasVerifiedBadge": true,
       "role": {
         "id": 76839172,
@@ -100,7 +100,7 @@
     {
       "id": 11381011,
       "name": "Roblox Studio Indonesia Group",
-      "memberCount": 2933,
+      "memberCount": 2937,
       "hasVerifiedBadge": false,
       "role": {
         "id": 66893544,
@@ -112,7 +112,7 @@
     {
       "id": 9514773,
       "name": "HH Games Studio",
-      "memberCount": 65439,
+      "memberCount": 65376,
       "hasVerifiedBadge": false,
       "role": {
         "id": 73393704,
@@ -136,7 +136,7 @@
     {
       "id": 7770032,
       "name": "Sejahtera Abadi",
-      "memberCount": 130457,
+      "memberCount": 130502,
       "hasVerifiedBadge": false,
       "role": {
         "id": 48451302,
@@ -148,7 +148,7 @@
     {
       "id": 7937221,
       "name": "ASA Games Studio",
-      "memberCount": 1023,
+      "memberCount": 1022,
       "hasVerifiedBadge": false,
       "role": {
         "id": 50182458,
@@ -160,7 +160,7 @@
     {
       "id": 7923838,
       "name": "Miminers",
-      "memberCount": 314836,
+      "memberCount": 316124,
       "hasVerifiedBadge": false,
       "role": {
         "id": 49260192,
@@ -172,7 +172,7 @@
     {
       "id": 6065145,
       "name": "R A M",
-      "memberCount": 113441,
+      "memberCount": 113339,
       "hasVerifiedBadge": false,
       "role": {
         "id": 39517977,
@@ -184,7 +184,7 @@
     {
       "id": 832676,
       "name": "Asosiasi Komunitas Roblox Indonesia",
-      "memberCount": 462118,
+      "memberCount": 464523,
       "hasVerifiedBadge": true,
       "role": {
         "id": 17118033,
@@ -198,12 +198,12 @@
     {
       "id": 398633812,
       "name": "Black Jeans with White Shoes",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-333997cc59ec900b41b5dd51850bfa6a/150/150/Pants/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-813702a12d2c6ba58d15701d4d548831/150/150/Pants/Png/noFilter"
     },
     {
       "id": 607702162,
       "name": "Roblox Baseball Cap",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16f1aec1c5df1d078d2c65e4df786d91/150/150/Hat/Png/noFilter"
     },
     {
       "id": 2510230574,
@@ -238,7 +238,7 @@
     {
       "id": 3670737444,
       "name": "Roblox Shirt - Simple Pattern",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-fdfe24ce27cfd8dc42697b6f48e14750/150/150/Shirt/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f5fb72c802dbd4fe734a9625ff924b8a/150/150/Shirt/Png/noFilter"
     },
     {
       "id": 5591898874,
@@ -251,22 +251,25 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-1ae16110ab974d4dc74bee1d7c71e34b/150/150/Tshirt/Png/noFilter"
     },
     {
-      "id": 12583696844,
-      "name": "Miminers Shoulder Pal",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-553c4627b56b52b2114f6717c6ddf8ce/150/150/ShoulderAccessory/Png/noFilter"
-    },
-    {
       "id": 14306702470,
       "name": "Black Cat Pocket",
       "imageUrl": "https://tr.rbxcdn.com/180DAY-583a40ae1cd5f7b674e45cc803e0b3e3/150/150/FrontAccessory/Png/noFilter"
     },
     {
-      "id": 98079085369429,
-      "name": "Cute Climbing Cat - Back",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-debea162d0b00f35a329f1836e71041d/150/150/BackAccessory/Png/noFilter"
+      "id": 95891531906747,
+      "name": "Little Plus-tergeist",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4aaf6a42f30ca692efd02d947ae5b091/150/150/ShoulderAccessory/Png/noFilter"
     }
   ],
   "favoriteGames": [
+    {
+      "id": 9534705677,
+      "name": "[🎃Event] Sniper Arena",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-758de9ceefed6ff1a1592c5ebab598ce/150/150/Image/Png/noFilter"
+    },
     {
       "id": 9414215745,
       "name": "Bad Luck Escape [BETA]",
@@ -281,7 +284,7 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-88edbd4c22e4a1b7ef17bb94d78ebde1/150/150/GameIcon12/Png/noFilter"
     },
     {
       "id": 187796008,
@@ -317,11 +320,11 @@
     },
     {
       "id": 2585430167,
-      "name": "[PAYBACK] AIMBLOX 🔵",
+      "name": "[INFECTION] AIMBLOX 🔵🎃",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-89af8cb31753b69d2ae9f3da486dec51/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f5fe02ee569b81dda6d4ff597e798018/150/150/Image/Png/noFilter"
     },
     {
       "id": 3295084723,
@@ -341,11 +344,11 @@
     },
     {
       "id": 2640407187,
-      "name": "(UPDATE!) Car Driving Indonesia",
+      "name": "Car Driving Indonesia",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-f596e61604189125ac36c215e7201d0e/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-38f5654b2ca8e57d8277dc8a26cbb3c2/150/150/Image/Png/noFilter"
     },
     {
       "id": 2714521140,
@@ -361,7 +364,7 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-85a9900216c274f656f58e3f43cb14f6/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-000d30d3e6dc41038f05b0a1a55692bd/150/150/Image/Png/noFilter"
     },
     {
       "id": 2092410051,
@@ -405,27 +408,27 @@
     },
     {
       "id": 383310974,
-      "name": "[24H⌛] Adopt Me!",
+      "name": "[🎃] Adopt Me!",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-372ef8df697eb826f7cfbf5c2e90f98d/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4dd71502e99ee8c47cbafec4c95c442d/150/150/Image/Png/noFilter"
     },
     {
       "id": 1655411599,
-      "name": "[HYPERCAR!] Project Trackday ",
+      "name": "[NEW CAR!] Project Trackday ",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-1189fe9b3207895b2296debf890bb5ea/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e3b167ebc8a415fc52fe62a79b802ad/150/150/Image/Png/noFilter"
     },
     {
       "id": 113491250,
-      "name": "Phantom Forces",
+      "name": "[Fall Weapon Remodels!] Phantom Forces",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-717f6839a37d00ddc8bcc9863e7ae6da/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d79d03fe2eb591494e27e4526149e74d/150/150/Image/Png/noFilter"
     },
     {
       "id": 2118796018,
@@ -437,11 +440,11 @@
     },
     {
       "id": 1720936166,
-      "name": "[UPD] All Star Tower Defense",
+      "name": "[OG] All Star Tower Defense",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-78528f46f165ee9ab230dd78238b9b07/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-de7de241b25963f4161d6d35578ea765/150/150/Image/Png/noFilter"
     },
     {
       "id": 169302362,
@@ -453,11 +456,11 @@
     },
     {
       "id": 1091907805,
-      "name": "[🌴] Unboxing Simulator",
+      "name": "Unboxing Simulator [UPDATE]",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-2687629ce188711e3047771d7b5a67c4/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-eacab39accdb3d5ff869b81e35466226/150/150/Image/Png/noFilter"
     },
     {
       "id": 2012508359,
@@ -512,5 +515,6 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-aac2172b2ef47796565e047d2edcecac/150/150/Image/Png/noFilter"
     }
   ],
-  "copiedAt": "2026-09-01T14:00:00.000Z"
+  "copiedAt": "2026-10-25T03:30:25.397Z",
+  "arsip-sebelum": "2026-09-01"
 }

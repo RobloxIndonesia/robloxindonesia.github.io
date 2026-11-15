@@ -7,16 +7,28 @@
   "id": 8276660560,
   "name": "FARIDgaming_730",
   "displayName": "FARID_RC",
-  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-6C6724CD5BDBFC733531C978D8E38AC4-Png/720/720/Avatar/Webp/noFilter",
-  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6C6724CD5BDBFC733531C978D8E38AC4-Png/150/150/AvatarHeadshot/Png/noFilter",
-  "friendsCount": 333,
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-CD5D85381EFB8FBA9776F256BE025AB3-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CD5D85381EFB8FBA9776F256BE025AB3-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 336,
   "followersCount": 7,
-  "followingCount": 14,
+  "followingCount": 15,
   "communities": [
+    {
+      "id": 919232836,
+      "name": "Ar Studio x Apex Games",
+      "memberCount": 562761,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 651833068,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0eabfebca5cd33c7c3334fdd953302c8/150/150/Image/Png/noFilter"
+    },
     {
       "id": 579394906,
       "name": "Flying Blocks",
-      "memberCount": 1924597,
+      "memberCount": 2246971,
       "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
@@ -28,7 +40,7 @@
     {
       "id": 140103299,
       "name": "Low Health Games",
-      "memberCount": 913925,
+      "memberCount": 929045,
       "hasVerifiedBadge": true,
       "role": {
         "id": 468500072,
@@ -40,7 +52,7 @@
     {
       "id": 16976426,
       "name": "Blu Cat Studios",
-      "memberCount": 1037194,
+      "memberCount": 1040708,
       "hasVerifiedBadge": true,
       "role": {
         "id": 94644037,
@@ -52,7 +64,7 @@
     {
       "id": 33026618,
       "name": "TRICK CLOCK",
-      "memberCount": 402674,
+      "memberCount": 545345,
       "hasVerifiedBadge": true,
       "role": {
         "id": 101118996,
@@ -64,7 +76,7 @@
     {
       "id": 703971079,
       "name": "FACEPAINTING",
-      "memberCount": 1594283,
+      "memberCount": 1778228,
       "hasVerifiedBadge": true,
       "role": {
         "id": 580122018,
@@ -76,7 +88,7 @@
     {
       "id": 35669818,
       "name": "크롱 스튜디오",
-      "memberCount": 55076461,
+      "memberCount": 57614954,
       "hasVerifiedBadge": true,
       "role": {
         "id": 290676163,
@@ -88,7 +100,7 @@
     {
       "id": 718088868,
       "name": "Towering Towers",
-      "memberCount": 10314017,
+      "memberCount": 11725438,
       "hasVerifiedBadge": true,
       "role": {
         "id": 617223222,
@@ -100,7 +112,7 @@
     {
       "id": 546696259,
       "name": "$ouline",
-      "memberCount": 1746305,
+      "memberCount": 1851391,
       "hasVerifiedBadge": false,
       "role": {
         "id": 542974129,
@@ -112,7 +124,7 @@
     {
       "id": 249174570,
       "name": "adidas x Superstar",
-      "memberCount": 85101,
+      "memberCount": 83309,
       "hasVerifiedBadge": true,
       "role": {
         "id": 624651018,
@@ -124,7 +136,7 @@
     {
       "id": 14460818,
       "name": "Logitech Song Breaker Awards",
-      "memberCount": 723245,
+      "memberCount": 738668,
       "hasVerifiedBadge": false,
       "role": {
         "id": 82010777,
@@ -136,7 +148,7 @@
     {
       "id": 137147665,
       "name": "Ninja Hub",
-      "memberCount": 482064,
+      "memberCount": 481636,
       "hasVerifiedBadge": false,
       "role": {
         "id": 541014088,
@@ -148,7 +160,7 @@
     {
       "id": 33127608,
       "name": "AR STUDIO V1",
-      "memberCount": 975114,
+      "memberCount": 974118,
       "hasVerifiedBadge": false,
       "role": {
         "id": 101643631,
@@ -160,7 +172,7 @@
     {
       "id": 10587104,
       "name": "mPhase",
-      "memberCount": 4289257,
+      "memberCount": 4415602,
       "hasVerifiedBadge": true,
       "role": {
         "id": 62899752,
@@ -172,7 +184,7 @@
     {
       "id": 15102943,
       "name": "Catalog Avatar Creator",
-      "memberCount": 40770850,
+      "memberCount": 45391955,
       "hasVerifiedBadge": true,
       "role": {
         "id": 85245797,
@@ -184,7 +196,7 @@
     {
       "id": 708526352,
       "name": "Devaste Studio",
-      "memberCount": 1224885,
+      "memberCount": 1223224,
       "hasVerifiedBadge": false,
       "role": {
         "id": 559074061,
@@ -196,7 +208,7 @@
     {
       "id": 34242037,
       "name": "Slime Time Studios",
-      "memberCount": 4521289,
+      "memberCount": 4810881,
       "hasVerifiedBadge": true,
       "role": {
         "id": 107735987,
@@ -208,8 +220,8 @@
     {
       "id": 35324876,
       "name": "The Bopes",
-      "memberCount": 5240664,
-      "hasVerifiedBadge": true,
+      "memberCount": 5444126,
+      "hasVerifiedBadge": false,
       "role": {
         "id": 253744006,
         "name": "Bopes",
@@ -220,7 +232,7 @@
     {
       "id": 84076870,
       "name": "The UGC Game",
-      "memberCount": 63290,
+      "memberCount": 68989,
       "hasVerifiedBadge": false,
       "role": {
         "id": 612266545,
@@ -232,7 +244,7 @@
     {
       "id": 35907428,
       "name": "LED’s UGC",
-      "memberCount": 50474,
+      "memberCount": 58376,
       "hasVerifiedBadge": false,
       "role": {
         "id": 358178042,
@@ -244,7 +256,7 @@
     {
       "id": 79541074,
       "name": "Christopher's Hideout",
-      "memberCount": 759275,
+      "memberCount": 812398,
       "hasVerifiedBadge": true,
       "role": {
         "id": 432820091,
@@ -256,7 +268,7 @@
     {
       "id": 36041335,
       "name": "Nectar Creations",
-      "memberCount": 2233927,
+      "memberCount": 2275115,
       "hasVerifiedBadge": true,
       "role": {
         "id": 383578256,
@@ -268,7 +280,7 @@
     {
       "id": 35683330,
       "name": "Awan Studio's",
-      "memberCount": 4734,
+      "memberCount": 4723,
       "hasVerifiedBadge": false,
       "role": {
         "id": 298876000,
@@ -280,7 +292,7 @@
     {
       "id": 32678989,
       "name": "zTECHS",
-      "memberCount": 359227,
+      "memberCount": 553407,
       "hasVerifiedBadge": false,
       "role": {
         "id": 99245248,
@@ -292,7 +304,7 @@
     {
       "id": 8275393,
       "name": "A.A Fun",
-      "memberCount": 700111,
+      "memberCount": 765097,
       "hasVerifiedBadge": false,
       "role": {
         "id": 51014734,
@@ -304,7 +316,7 @@
     {
       "id": 14887697,
       "name": "Monsta Game",
-      "memberCount": 58873,
+      "memberCount": 59036,
       "hasVerifiedBadge": false,
       "role": {
         "id": 84143695,
@@ -316,7 +328,7 @@
     {
       "id": 12121240,
       "name": "Quataun",
-      "memberCount": 17708097,
+      "memberCount": 18346617,
       "hasVerifiedBadge": true,
       "role": {
         "id": 70561179,
@@ -328,7 +340,7 @@
     {
       "id": 10669182,
       "name": "Jxiere Fan Group",
-      "memberCount": 179863,
+      "memberCount": 188012,
       "hasVerifiedBadge": false,
       "role": {
         "id": 63316530,
@@ -340,7 +352,7 @@
     {
       "id": 3104358,
       "name": "Brookhaven by Voldex",
-      "memberCount": 12006480,
+      "memberCount": 12751411,
       "hasVerifiedBadge": false,
       "role": {
         "id": 21339070,
@@ -352,7 +364,7 @@
     {
       "id": 14984341,
       "name": "Copyrend's Community",
-      "memberCount": 6162794,
+      "memberCount": 6517578,
       "hasVerifiedBadge": true,
       "role": {
         "id": 84635464,
@@ -364,7 +376,7 @@
     {
       "id": 14097003,
       "name": "haz3mn",
-      "memberCount": 618411,
+      "memberCount": 616708,
       "hasVerifiedBadge": false,
       "role": {
         "id": 80175251,
@@ -376,7 +388,7 @@
     {
       "id": 5502182,
       "name": "ZeddaxGaming",
-      "memberCount": 199548,
+      "memberCount": 199663,
       "hasVerifiedBadge": false,
       "role": {
         "id": 36377917,
@@ -388,7 +400,7 @@
     {
       "id": 7923838,
       "name": "Miminers",
-      "memberCount": 314830,
+      "memberCount": 316141,
       "hasVerifiedBadge": false,
       "role": {
         "id": 49260194,
@@ -402,7 +414,7 @@
     {
       "id": 48474356,
       "name": "ROBLOX Girl - Torso",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-c93215ae2e0f6b00c6d36edb06dbc9d6/150/150/Torso/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a01032a48aab55ab61c136e8fc6132c5/150/150/Torso/Png/noFilter"
     },
     {
       "id": 376527500,
@@ -412,47 +424,37 @@
     {
       "id": 2510230574,
       "name": "Rthro Climb",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ddbf3aab49ad275a3da60af6fbbdadb4/150/150/ClimbAnimation/Png/noFilter"
     },
     {
       "id": 2510233257,
       "name": "Rthro Fall",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a1477483ac50394642c90f94b5f9fafb/150/150/FallAnimation/Png/noFilter"
     },
     {
       "id": 2510235063,
       "name": "Rthro Idle",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7129fc1185c134f7126060215dda6d1c/150/150/IdleAnimation/Png/noFilter"
     },
     {
       "id": 2510236649,
       "name": "Rthro Jump",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-233db0a72ea1d86c24345e8f543c240e/150/150/JumpAnimation/Png/noFilter"
     },
     {
       "id": 2510238627,
       "name": "Rthro Run",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f6084101888d57a9074a1973786531fc/150/150/RunAnimation/Png/noFilter"
     },
     {
       "id": 2510240941,
       "name": "Rthro Swim",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-18cc002ff866e8eb04556af076032b95/150/150/SwimAnimation/Png/noFilter"
     },
     {
       "id": 2510242378,
       "name": "Rthro Walk",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
-    },
-    {
-      "id": 4637116155,
-      "name": "Classic Male v2 - Left Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-56fdd2c413d76811323914128b53e5d9/150/150/LeftArm/Png/noFilter"
-    },
-    {
-      "id": 4637242874,
-      "name": "Classic Male v2 - Right Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-db79ffdda90e29bf43e383a05ea4abbf/150/150/RightArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e9016bc88a7dce7177663d8d507b4da0/150/150/WalkAnimation/Png/noFilter"
     },
     {
       "id": 6445270994,
@@ -467,12 +469,12 @@
     {
       "id": 9617735276,
       "name": "Desert Boot Headphones",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-9093b123c83a94528ed3d0aa2f5cbb46/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7fe60aa3b758c1743718a412877589c9/150/150/Hat/Png/noFilter"
     },
     {
       "id": 10725826963,
       "name": "Man Face - Head",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-d237e21a97efc4b0af9fdd47c9d5fecb/150/150/DynamicHead/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-363375f7e6d3e8429a172d610289fcad/150/150/DynamicHead/Png/noFilter"
     },
     {
       "id": 10725833199,
@@ -492,17 +494,17 @@
     {
       "id": 16948958490,
       "name": "💖ˏˋ✮FF🔫⋆ ORIGINAL Angelical Red Boys † Cyber ",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-95c7554b58db728081ad164dad4ea0c6/150/150/Pants/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-66b10025318efdf828e4cff5f90c9fc7/150/150/Pants/Png/noFilter"
     },
     {
       "id": 17421121080,
       "name": "[Classic] Red & Black Jacket Transparent",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-693a8e5f5c762031bb6dc1d8c9882354/150/150/Shirt/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a97c4e74ea76460cf565a63ced8661c3/150/150/Shirt/Png/noFilter"
     },
     {
       "id": 90097144470297,
       "name": "Creepy Nuts Hoodie (Black) ",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-f21e30e7309586f400d6ab996b1b7651/150/150/SweaterAccessory/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-140e59f202e6a1672584a0357bfd0d81/150/150/SweaterAccessory/Png/noFilter"
     },
     {
       "id": 109002285829966,
@@ -512,17 +514,25 @@
     {
       "id": 127067824818661,
       "name": "Google Headphones",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0cd15c91ec94ce84c7f21f94458373bb/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ef146fc74321f92323b0248b950eade/150/150/Hat/Png/noFilter"
     }
   ],
   "favoriteGames": [
     {
-      "id": 9825607089,
-      "name": " [🌈] Stealz Lucky Blocks Brainrotz FREE OG! 💸",
+      "id": 10764527023,
+      "name": "Lucky Game",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-17c8836d1856f685cc4fd18cf3a17ed1/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-25c6a36fe20199500f276d404ebc7bde/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9825607089,
+      "name": " [🌈] Stealz Lucky Blocks Brainrotz ! 💸",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-466df8bbca0e4da25e68fcf436e2ab6a/150/150/Image/Png/noFilter"
     },
     {
       "id": 9627323159,
@@ -542,11 +552,11 @@
     },
     {
       "id": 5677613211,
-      "name": "Eat the World",
+      "name": "[🎃] Eat the World",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-adc91a1e3e45beea5a244cc1ccbfc552/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a8a34ff8a45bd60503d5ff58f1b1aeb/150/150/Image/Png/noFilter"
     },
     {
       "id": 9142917248,
@@ -602,7 +612,7 @@
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-18a8ad6e9d17d2fa2a0abae01b5ab648/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-577f3f78d1f056c80db7d2a54c8d384d/150/150/Image/Png/noFilter"
     },
     {
       "id": 3948208641,
@@ -613,17 +623,7 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-8e80c4d2f1748ca4473e9146d67165b9/150/150/Image/Png/noFilter"
     }
   ],
-  "creations": [
-    {
-      "id": 7506051857,
-      "name": "Tempat FARIDgaming_730",
-      "description": "Ini adalah kreasi Roblox pertamamu. Ayo cek lalu buat sendiri dengan Roblox Studio!",
-      "placeId": 104760044825109,
-      "playing": 0,
-      "visits": 0,
-      "updated": "2025-04-08T01:17:01.987Z",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
-    }
-  ],
-  "copiedAt": "2026-09-01T14:00:00.000Z"
+  "creations": [],
+  "copiedAt": "2026-10-26T05:42:39.937Z",
+  "arsip-sebelum": "2026-09-01"
 }

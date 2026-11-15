@@ -1,22 +1,106 @@
 {
-  "description": "haloo",
+  "description": "halo semuah perkenalkan nama aku Naya bisa panggil nay sama na ya 🙂‍↕️🙂‍↕️ semoga kita bisa berteman dengan baik 🤩",
   "created": "2025-06-18T05:07:27.697Z",
   "isBanned": false,
   "externalAppDisplayName": null,
   "hasVerifiedBadge": false,
   "id": 8704900333,
   "name": "Alya_20090101",
-  "displayName": "naya",
-  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-8D19A381B07A1D9CB74A93F449FCCFD0-Png/720/720/Avatar/Webp/noFilter",
-  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D19A381B07A1D9CB74A93F449FCCFD0-Png/150/150/AvatarHeadshot/Png/noFilter",
-  "friendsCount": 1000,
+  "displayName": "Azura",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-69DFD960648807C4CD2EA64A3B32A859-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-69DFD960648807C4CD2EA64A3B32A859-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 999,
   "followersCount": 0,
-  "followingCount": 38,
+  "followingCount": 61,
   "communities": [
+    {
+      "id": 93284906,
+      "name": "JEMO DANCE",
+      "memberCount": 1939604,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bfcde33dc958cda6adf3432b7ac82d76/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 189692141,
+      "name": "10 CCU",
+      "memberCount": 7617505,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 495034088,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9e43996a8ca35dde1c25ffe180b52b9d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 268879608,
+      "name": "ASABOY STUDIO",
+      "memberCount": 114579,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 12884901889,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-80aa94565f5712e82242d8f0299e338c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 679020384,
+      "name": "Twinkle Bloom",
+      "memberCount": 1370268,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2d1a71f4e103331aba2793317b2f97b7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2937793,
+      "name": "Team Sploshy",
+      "memberCount": 34629931,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 20063233,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fe061713d6a0d2d034b441fb27b116da/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 825735094,
+      "name": "and Collect Rare Pets",
+      "memberCount": 107490870,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6241dfc97b22e59a4c50745d434e5a23/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 105067474,
+      "name": "Squishy Butter",
+      "memberCount": 4947687,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8874f2e14c22bcb12a70be94fc5fb0cf/150/150/Image/Png/noFilter"
+    },
     {
       "id": 486606141,
       "name": "Aetherlands Studio",
-      "memberCount": 43952,
+      "memberCount": 66483,
       "hasVerifiedBadge": false,
       "role": {
         "id": 561466022,
@@ -28,8 +112,8 @@
     {
       "id": 180466034,
       "name": "Grow a Chicken Fighter",
-      "memberCount": 6957761,
-      "hasVerifiedBadge": false,
+      "memberCount": 8035273,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
         "name": "Member",
@@ -40,7 +124,7 @@
     {
       "id": 872405600,
       "name": "ACRO COMMUNITY",
-      "memberCount": 200162,
+      "memberCount": 375200,
       "hasVerifiedBadge": false,
       "role": {
         "id": 651575086,
@@ -52,7 +136,7 @@
     {
       "id": 617546607,
       "name": "Final Boss Developers",
-      "memberCount": 4330542,
+      "memberCount": 5806836,
       "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
@@ -64,7 +148,7 @@
     {
       "id": 676559512,
       "name": "next up studio",
-      "memberCount": 1111405,
+      "memberCount": 1193732,
       "hasVerifiedBadge": false,
       "role": {
         "id": 641327181,
@@ -76,7 +160,7 @@
     {
       "id": 179853653,
       "name": "Banjomeni",
-      "memberCount": 2895964,
+      "memberCount": 4136464,
       "hasVerifiedBadge": true,
       "role": {
         "id": 634299005,
@@ -88,7 +172,7 @@
     {
       "id": 494523617,
       "name": "Mukbang Corner",
-      "memberCount": 24366451,
+      "memberCount": 30951750,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -100,7 +184,7 @@
     {
       "id": 238246993,
       "name": "NomNoms World",
-      "memberCount": 395145,
+      "memberCount": 400549,
       "hasVerifiedBadge": false,
       "role": {
         "id": 612920475,
@@ -112,7 +196,7 @@
     {
       "id": 33805051,
       "name": "Nova Games Group",
-      "memberCount": 3065934,
+      "memberCount": 5477915,
       "hasVerifiedBadge": true,
       "role": {
         "id": 105297575,
@@ -124,7 +208,7 @@
     {
       "id": 35137873,
       "name": "VA Company",
-      "memberCount": 3221926,
+      "memberCount": 3617749,
       "hasVerifiedBadge": true,
       "role": {
         "id": 191340141,
@@ -136,7 +220,7 @@
     {
       "id": 143839397,
       "name": "Brhome Studio",
-      "memberCount": 3782504,
+      "memberCount": 4234921,
       "hasVerifiedBadge": true,
       "role": {
         "id": 445702066,
@@ -148,7 +232,7 @@
     {
       "id": 869813731,
       "name": "TAKLA SQUAD [V.1]",
-      "memberCount": 314368,
+      "memberCount": 320580,
       "hasVerifiedBadge": true,
       "role": {
         "id": 707901003,
@@ -160,7 +244,7 @@
     {
       "id": 718088868,
       "name": "Towering Towers",
-      "memberCount": 10368571,
+      "memberCount": 11725459,
       "hasVerifiedBadge": true,
       "role": {
         "id": 617223222,
@@ -172,7 +256,7 @@
     {
       "id": 461646009,
       "name": "Ascendera Community",
-      "memberCount": 281098,
+      "memberCount": 305578,
       "hasVerifiedBadge": false,
       "role": {
         "id": 641121013,
@@ -184,7 +268,7 @@
     {
       "id": 281407618,
       "name": "ALF Community.",
-      "memberCount": 41344,
+      "memberCount": 42885,
       "hasVerifiedBadge": false,
       "role": {
         "id": 629539106,
@@ -195,20 +279,20 @@
     },
     {
       "id": 987892233,
-      "name": "INTINYA MOUNT",
-      "memberCount": 13201,
+      "name": "XZone Community",
+      "memberCount": 13202,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
         "name": "Anggota",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-9785ed3b0b88199a505bbdea01e76417/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fac560607cbe56b5f0f8f6fbf865ddfd/150/150/Image/Png/noFilter"
     },
     {
       "id": 381524479,
       "name": "Super Fun Tower Games",
-      "memberCount": 349358,
+      "memberCount": 401535,
       "hasVerifiedBadge": false,
       "role": {
         "id": 629681147,
@@ -220,7 +304,7 @@
     {
       "id": 988742112,
       "name": "Lightning Fast Development",
-      "memberCount": 336762,
+      "memberCount": 347122,
       "hasVerifiedBadge": true,
       "role": {
         "id": 468024097,
@@ -232,7 +316,7 @@
     {
       "id": 111795611,
       "name": "Pandawa Universe",
-      "memberCount": 1083210,
+      "memberCount": 1148154,
       "hasVerifiedBadge": true,
       "role": {
         "id": 567896001,
@@ -244,7 +328,7 @@
     {
       "id": 329612760,
       "name": "Aurafire",
-      "memberCount": 516762,
+      "memberCount": 537749,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -256,7 +340,7 @@
     {
       "id": 598054678,
       "name": "OSARAMYON STUDIOS",
-      "memberCount": 207379,
+      "memberCount": 211979,
       "hasVerifiedBadge": false,
       "role": {
         "id": 540866147,
@@ -268,7 +352,7 @@
     {
       "id": 457268701,
       "name": "MAMIHVORA COMMUNITY",
-      "memberCount": 19210,
+      "memberCount": 19303,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -280,7 +364,7 @@
     {
       "id": 959433345,
       "name": "Rubicon South",
-      "memberCount": 5763554,
+      "memberCount": 6298222,
       "hasVerifiedBadge": true,
       "role": {
         "id": 559340039,
@@ -292,8 +376,8 @@
     {
       "id": 625247444,
       "name": "KokoKrunch Studios",
-      "memberCount": 585996,
-      "hasVerifiedBadge": false,
+      "memberCount": 885656,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
         "name": "Member",
@@ -304,7 +388,7 @@
     {
       "id": 444511466,
       "name": "DevNgab Studio",
-      "memberCount": 4360,
+      "memberCount": 4348,
       "hasVerifiedBadge": false,
       "role": {
         "id": 573738020,
@@ -316,7 +400,7 @@
     {
       "id": 757108902,
       "name": "NerticaL Official",
-      "memberCount": 670079,
+      "memberCount": 673528,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -328,7 +412,7 @@
     {
       "id": 945219356,
       "name": "MUKJIZAT COMMUNITY",
-      "memberCount": 196578,
+      "memberCount": 252554,
       "hasVerifiedBadge": false,
       "role": {
         "id": 617887026,
@@ -340,7 +424,7 @@
     {
       "id": 888300015,
       "name": "KAWA KAWA LIMITED",
-      "memberCount": 34724,
+      "memberCount": 37680,
       "hasVerifiedBadge": false,
       "role": {
         "id": 580462008,
@@ -352,7 +436,7 @@
     {
       "id": 503275005,
       "name": "VAGORA COMMUNITY",
-      "memberCount": 1914,
+      "memberCount": 1905,
       "hasVerifiedBadge": false,
       "role": {
         "id": 645661088,
@@ -364,7 +448,7 @@
     {
       "id": 15102943,
       "name": "Catalog Avatar Creator",
-      "memberCount": 40934122,
+      "memberCount": 45392184,
       "hasVerifiedBadge": true,
       "role": {
         "id": 85245797,
@@ -376,7 +460,7 @@
     {
       "id": 508751880,
       "name": "Lava Project",
-      "memberCount": 518772,
+      "memberCount": 1085024,
       "hasVerifiedBadge": true,
       "role": {
         "id": 499748045,
@@ -388,7 +472,7 @@
     {
       "id": 6042520,
       "name": "Grandma's Favourite Games",
-      "memberCount": 12143821,
+      "memberCount": 12643948,
       "hasVerifiedBadge": true,
       "role": {
         "id": 39395954,
@@ -400,7 +484,7 @@
     {
       "id": 354576018,
       "name": "PanCommunity",
-      "memberCount": 1823299,
+      "memberCount": 2229535,
       "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
@@ -412,7 +496,7 @@
     {
       "id": 8818124,
       "name": "VIOLENCE DISTRICT",
-      "memberCount": 586524,
+      "memberCount": 703700,
       "hasVerifiedBadge": true,
       "role": {
         "id": 53835822,
@@ -424,7 +508,7 @@
     {
       "id": 35789249,
       "name": "The Garden Game",
-      "memberCount": 19467213,
+      "memberCount": 19475061,
       "hasVerifiedBadge": false,
       "role": {
         "id": 335782025,
@@ -436,7 +520,7 @@
     {
       "id": 690327957,
       "name": "Ineremates",
-      "memberCount": 483919,
+      "memberCount": 490451,
       "hasVerifiedBadge": false,
       "role": {
         "id": 560388086,
@@ -448,7 +532,7 @@
     {
       "id": 32348325,
       "name": "NATVERSE",
-      "memberCount": 8796811,
+      "memberCount": 8934682,
       "hasVerifiedBadge": false,
       "role": {
         "id": 97463004,
@@ -460,19 +544,19 @@
     {
       "id": 865220602,
       "name": "ALZIA Community",
-      "memberCount": 351166,
+      "memberCount": 356057,
       "hasVerifiedBadge": false,
       "role": {
         "id": 557826123,
         "name": "Anggota",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0c82fc0b1fbe5439c87157209131076f/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4f43d08072daa5894876a71bce6f1e3f/150/150/Image/Png/noFilter"
     },
     {
       "id": 663011263,
       "name": "Jokers Jungle",
-      "memberCount": 7986471,
+      "memberCount": 8957436,
       "hasVerifiedBadge": true,
       "role": {
         "id": 610672000,
@@ -484,7 +568,7 @@
     {
       "id": 637515391,
       "name": "Grinding Dev",
-      "memberCount": 1119847,
+      "memberCount": 1119123,
       "hasVerifiedBadge": false,
       "role": {
         "id": 625565067,
@@ -496,8 +580,8 @@
     {
       "id": 34158776,
       "name": "Kins Fams",
-      "memberCount": 3121543,
-      "hasVerifiedBadge": false,
+      "memberCount": 3354714,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 107272519,
         "name": "Fams✨",
@@ -508,7 +592,7 @@
     {
       "id": 5693735,
       "name": "Hexagon Development Community",
-      "memberCount": 4828011,
+      "memberCount": 5545676,
       "hasVerifiedBadge": true,
       "role": {
         "id": 37471620,
@@ -520,7 +604,7 @@
     {
       "id": 15706535,
       "name": "Avatar Creator Games",
-      "memberCount": 538240,
+      "memberCount": 596363,
       "hasVerifiedBadge": true,
       "role": {
         "id": 88229818,
@@ -532,7 +616,7 @@
     {
       "id": 32374784,
       "name": "Walmart",
-      "memberCount": 343078,
+      "memberCount": 342687,
       "hasVerifiedBadge": false,
       "role": {
         "id": 101703375,
@@ -544,19 +628,19 @@
     {
       "id": 13092243,
       "name": "MrSendi Team",
-      "memberCount": 4197145,
+      "memberCount": 5368584,
       "hasVerifiedBadge": false,
       "role": {
         "id": 75217487,
         "name": "👑Spesial Fans\"",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0c56f52c51e454ec75a3ae2b2af97018/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1a0d52d39c71eb51dc15496d156c3184/150/150/Image/Png/noFilter"
     },
     {
       "id": 858495397,
       "name": "Eldiamantecarl Community",
-      "memberCount": 72746,
+      "memberCount": 72681,
       "hasVerifiedBadge": false,
       "role": {
         "id": 473710006,
@@ -568,7 +652,7 @@
     {
       "id": 491580224,
       "name": "ramenkeinyott studio",
-      "memberCount": 1221391,
+      "memberCount": 1231106,
       "hasVerifiedBadge": false,
       "role": {
         "id": 479768156,
@@ -580,7 +664,7 @@
     {
       "id": 36092131,
       "name": "Meita’s Community",
-      "memberCount": 1123075,
+      "memberCount": 1128454,
       "hasVerifiedBadge": true,
       "role": {
         "id": 406702006,
@@ -592,7 +676,7 @@
     {
       "id": 35640652,
       "name": "- sophia's close -",
-      "memberCount": 2340667,
+      "memberCount": 2535981,
       "hasVerifiedBadge": true,
       "role": {
         "id": 281304196,
@@ -604,7 +688,7 @@
     {
       "id": 340445664,
       "name": "Bocchi Space",
-      "memberCount": 3673453,
+      "memberCount": 3831423,
       "hasVerifiedBadge": true,
       "role": {
         "id": 606822028,
@@ -616,7 +700,7 @@
     {
       "id": 102552180,
       "name": "Tower Obby Productions",
-      "memberCount": 1469794,
+      "memberCount": 1613926,
       "hasVerifiedBadge": false,
       "role": {
         "id": 609706022,
@@ -628,7 +712,7 @@
     {
       "id": 645604925,
       "name": "Tim ilyas studio",
-      "memberCount": 823675,
+      "memberCount": 823388,
       "hasVerifiedBadge": false,
       "role": {
         "id": 467770129,
@@ -640,7 +724,7 @@
     {
       "id": 3104358,
       "name": "Brookhaven by Voldex",
-      "memberCount": 12025159,
+      "memberCount": 12751444,
       "hasVerifiedBadge": false,
       "role": {
         "id": 21339070,
@@ -652,7 +736,7 @@
     {
       "id": 13661896,
       "name": "Alo Yoga",
-      "memberCount": 538237,
+      "memberCount": 539325,
       "hasVerifiedBadge": true,
       "role": {
         "id": 77988715,
@@ -664,7 +748,7 @@
     {
       "id": 856617612,
       "name": "Ethernet Connection",
-      "memberCount": 60693,
+      "memberCount": 61760,
       "hasVerifiedBadge": false,
       "role": {
         "id": 573570101,
@@ -676,7 +760,7 @@
     {
       "id": 332603157,
       "name": "PAPATONG DREAMS",
-      "memberCount": 162394,
+      "memberCount": 162157,
       "hasVerifiedBadge": false,
       "role": {
         "id": 507992099,
@@ -688,7 +772,7 @@
     {
       "id": 1074557114,
       "name": "SecretVerse Studio",
-      "memberCount": 124060580,
+      "memberCount": 142000933,
       "hasVerifiedBadge": true,
       "role": {
         "id": 574302045,
@@ -700,7 +784,7 @@
     {
       "id": 269146379,
       "name": "NESE COMMUNITY",
-      "memberCount": 199896,
+      "memberCount": 203020,
       "hasVerifiedBadge": false,
       "role": {
         "id": 606516146,
@@ -712,7 +796,7 @@
     {
       "id": 1077425723,
       "name": "dewsy",
-      "memberCount": 183491,
+      "memberCount": 187484,
       "hasVerifiedBadge": false,
       "role": {
         "id": 543446012,
@@ -724,7 +808,7 @@
     {
       "id": 14365994,
       "name": "Tommy Hilfiger",
-      "memberCount": 143551,
+      "memberCount": 145204,
       "hasVerifiedBadge": false,
       "role": {
         "id": 81525525,
@@ -736,7 +820,7 @@
     {
       "id": 45474553,
       "name": "Aileenz",
-      "memberCount": 344948,
+      "memberCount": 344990,
       "hasVerifiedBadge": false,
       "role": {
         "id": 630619048,
@@ -748,19 +832,19 @@
     {
       "id": 9055927,
       "name": "Pet City RB",
-      "memberCount": 4524,
+      "memberCount": 10127,
       "hasVerifiedBadge": false,
       "role": {
-        "id": 55045723,
+        "id": 12884901889,
         "name": "Resident",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-68a7a9d45284d32575f48d9acc98df7c/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-02428fcf2367d163d6d65ee1dd720636/150/150/Image/Png/noFilter"
     },
     {
       "id": 35998478,
       "name": "Rush Entertainment!",
-      "memberCount": 4399205,
+      "memberCount": 4392907,
       "hasVerifiedBadge": true,
       "role": {
         "id": 379128051,
@@ -772,7 +856,7 @@
     {
       "id": 47387522,
       "name": "+1 Speed Animals!",
-      "memberCount": 793003,
+      "memberCount": 789670,
       "hasVerifiedBadge": false,
       "role": {
         "id": 612982858,
@@ -784,7 +868,7 @@
     {
       "id": 34459087,
       "name": "cling to me",
-      "memberCount": 536909,
+      "memberCount": 578395,
       "hasVerifiedBadge": false,
       "role": {
         "id": 112124031,
@@ -796,7 +880,7 @@
     {
       "id": 1004086370,
       "name": "Yoonguurt’s Kom",
-      "memberCount": 1249825,
+      "memberCount": 1257740,
       "hasVerifiedBadge": false,
       "role": {
         "id": 451140059,
@@ -808,7 +892,7 @@
     {
       "id": 35945460,
       "name": "Haku Games",
-      "memberCount": 312256,
+      "memberCount": 630269,
       "hasVerifiedBadge": false,
       "role": {
         "id": 362844094,
@@ -820,7 +904,7 @@
     {
       "id": 1019555790,
       "name": "Crystal Tower Studios",
-      "memberCount": 2648689,
+      "memberCount": 2799940,
       "hasVerifiedBadge": true,
       "role": {
         "id": 509002068,
@@ -832,7 +916,7 @@
     {
       "id": 41829536,
       "name": "Naanapiyo team",
-      "memberCount": 1606922,
+      "memberCount": 1613364,
       "hasVerifiedBadge": false,
       "role": {
         "id": 494498036,
@@ -844,7 +928,7 @@
     {
       "id": 940588704,
       "name": "KING MAFIA COMMUNITY",
-      "memberCount": 29351,
+      "memberCount": 29091,
       "hasVerifiedBadge": false,
       "role": {
         "id": 538624028,
@@ -856,19 +940,19 @@
     {
       "id": 36090205,
       "name": "FRIENDS IMRAN",
-      "memberCount": 7669305,
+      "memberCount": 8224163,
       "hasVerifiedBadge": true,
       "role": {
-        "id": 403994136,
-        "name": "Anggota",
-        "rank": 2
+        "id": 12884901889,
+        "name": "IMRAN FAMILY",
+        "rank": 1
       },
       "imageUrl": "https://tr.rbxcdn.com/180DAY-70b74e7cc7323508a2231582987cf7f4/150/150/Image/Png/noFilter"
     },
     {
       "id": 516967351,
       "name": "GEBOK FAMILY",
-      "memberCount": 90569,
+      "memberCount": 90820,
       "hasVerifiedBadge": false,
       "role": {
         "id": 631549004,
@@ -880,7 +964,7 @@
     {
       "id": 14243918,
       "name": "auroriies",
-      "memberCount": 1397382,
+      "memberCount": 1489573,
       "hasVerifiedBadge": true,
       "role": {
         "id": 80910106,
@@ -892,7 +976,7 @@
     {
       "id": 33645268,
       "name": "qtme",
-      "memberCount": 2312604,
+      "memberCount": 2405489,
       "hasVerifiedBadge": false,
       "role": {
         "id": 104416757,
@@ -904,19 +988,19 @@
     {
       "id": 388008162,
       "name": "Reyz's Xaj GROUP",
-      "memberCount": 23364,
+      "memberCount": 23573,
       "hasVerifiedBadge": false,
       "role": {
         "id": 602092103,
-        "name": "Anggota",
+        "name": "Good Member🎉",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0f799eccce7b39fae01a4b094d449efd/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16ede62a45f6a19aaf7206d1a9da6e9a/150/150/Image/Png/noFilter"
     },
     {
       "id": 392029156,
       "name": "Paman Butut Studio",
-      "memberCount": 1644496,
+      "memberCount": 1792789,
       "hasVerifiedBadge": false,
       "role": {
         "id": 512404068,
@@ -928,7 +1012,7 @@
     {
       "id": 35890907,
       "name": "ACIL PINKYSQUAD",
-      "memberCount": 827327,
+      "memberCount": 827751,
       "hasVerifiedBadge": false,
       "role": {
         "id": 354210185,
@@ -940,7 +1024,7 @@
     {
       "id": 340538789,
       "name": "Speedy Fun Games",
-      "memberCount": 9401090,
+      "memberCount": 9475581,
       "hasVerifiedBadge": true,
       "role": {
         "id": 612466719,
@@ -952,7 +1036,7 @@
     {
       "id": 639961379,
       "name": "Inflated Bacon",
-      "memberCount": 3737911,
+      "memberCount": 3772899,
       "hasVerifiedBadge": true,
       "role": {
         "id": 611772014,
@@ -964,7 +1048,7 @@
     {
       "id": 863838363,
       "name": "Beyond20 Studio",
-      "memberCount": 1696,
+      "memberCount": 1667,
       "hasVerifiedBadge": false,
       "role": {
         "id": 527314041,
@@ -976,7 +1060,7 @@
     {
       "id": 465621544,
       "name": "VOID COMMUNITY ID",
-      "memberCount": 2048759,
+      "memberCount": 2237301,
       "hasVerifiedBadge": false,
       "role": {
         "id": 590292029,
@@ -988,7 +1072,7 @@
     {
       "id": 35951247,
       "name": "Atta Gengs",
-      "memberCount": 107266,
+      "memberCount": 107213,
       "hasVerifiedBadge": false,
       "role": {
         "id": 364790138,
@@ -1000,7 +1084,7 @@
     {
       "id": 93562150,
       "name": "ZUUVERS",
-      "memberCount": 93541,
+      "memberCount": 94120,
       "hasVerifiedBadge": false,
       "role": {
         "id": 611610543,
@@ -1012,7 +1096,7 @@
     {
       "id": 35784502,
       "name": "LEVVONDER",
-      "memberCount": 1387457,
+      "memberCount": 1399340,
       "hasVerifiedBadge": false,
       "role": {
         "id": 330360079,
@@ -1024,7 +1108,7 @@
     {
       "id": 969165840,
       "name": "Lab Studio Games",
-      "memberCount": 1142078,
+      "memberCount": 1174073,
       "hasVerifiedBadge": false,
       "role": {
         "id": 514160001,
@@ -1036,7 +1120,7 @@
     {
       "id": 707626624,
       "name": "WINDERLES ADVENTURE",
-      "memberCount": 46136,
+      "memberCount": 54203,
       "hasVerifiedBadge": false,
       "role": {
         "id": 612334388,
@@ -1048,7 +1132,7 @@
     {
       "id": 493535382,
       "name": "Lazy Tower Studio",
-      "memberCount": 1020859,
+      "memberCount": 1021338,
       "hasVerifiedBadge": false,
       "role": {
         "id": 540980045,
@@ -1060,7 +1144,7 @@
     {
       "id": 35541084,
       "name": "/linh",
-      "memberCount": 4109722,
+      "memberCount": 5972653,
       "hasVerifiedBadge": false,
       "role": {
         "id": 269590242,
@@ -1072,7 +1156,7 @@
     {
       "id": 1002185259,
       "name": "Shadowrise Devs",
-      "memberCount": 5129121,
+      "memberCount": 5138633,
       "hasVerifiedBadge": true,
       "role": {
         "id": 589990125,
@@ -1084,7 +1168,7 @@
     {
       "id": 454321595,
       "name": "Click Clack Studio",
-      "memberCount": 1041393,
+      "memberCount": 1040345,
       "hasVerifiedBadge": true,
       "role": {
         "id": 503948011,
@@ -1096,7 +1180,7 @@
     {
       "id": 857966637,
       "name": "F3NL STUDIO",
-      "memberCount": 5160464,
+      "memberCount": 5410166,
       "hasVerifiedBadge": false,
       "role": {
         "id": 414576044,
@@ -1108,7 +1192,7 @@
     {
       "id": 33506551,
       "name": "Noonaaigo Group",
-      "memberCount": 4431459,
+      "memberCount": 5006126,
       "hasVerifiedBadge": true,
       "role": {
         "id": 103680496,
@@ -1120,7 +1204,7 @@
     {
       "id": 35137687,
       "name": "Growing Tree Development",
-      "memberCount": 3830202,
+      "memberCount": 3896328,
       "hasVerifiedBadge": true,
       "role": {
         "id": 222982011,
@@ -1132,7 +1216,7 @@
     {
       "id": 317000329,
       "name": "Swing Games!",
-      "memberCount": 10469206,
+      "memberCount": 11236470,
       "hasVerifiedBadge": false,
       "role": {
         "id": 602270063,
@@ -1144,7 +1228,7 @@
     {
       "id": 333008867,
       "name": "Nyaw Community",
-      "memberCount": 1126037,
+      "memberCount": 1126924,
       "hasVerifiedBadge": false,
       "role": {
         "id": 611596405,
@@ -1156,7 +1240,7 @@
     {
       "id": 299969527,
       "name": "Spectray Studio",
-      "memberCount": 190818,
+      "memberCount": 190731,
       "hasVerifiedBadge": false,
       "role": {
         "id": 583148052,
@@ -1168,7 +1252,7 @@
     {
       "id": 333818570,
       "name": "Kenn Community",
-      "memberCount": 493452,
+      "memberCount": 529710,
       "hasVerifiedBadge": false,
       "role": {
         "id": 589068081,
@@ -1180,7 +1264,7 @@
     {
       "id": 615561548,
       "name": "NAAHELL",
-      "memberCount": 898272,
+      "memberCount": 933545,
       "hasVerifiedBadge": false,
       "role": {
         "id": 527014038,
@@ -1192,43 +1276,43 @@
     {
       "id": 552028325,
       "name": "Shin Towers",
-      "memberCount": 8137430,
+      "memberCount": 8621272,
       "hasVerifiedBadge": true,
       "role": {
         "id": 617499118,
         "name": "Member",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-caef30689d22417429c1d44234860252/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f2fc428d1129c766207fd451eb00ef9f/150/150/Image/Png/noFilter"
     },
     {
       "id": 664076289,
-      "name": "Virtual Tower Studio",
-      "memberCount": 323132,
+      "name": "ZamsVerse",
+      "memberCount": 514156,
       "hasVerifiedBadge": false,
       "role": {
         "id": 592284090,
         "name": "✨Calon Ceo✨",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-3a4e9cf50ae546f10c7c2ae413f33d09/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f5d3e1db8efebd9c3cd99e16e7afc084/150/150/Image/Png/noFilter"
     },
     {
       "id": 825879459,
-      "name": "Low Retention Games",
-      "memberCount": 9241119,
+      "name": "Sleepy Towers Games",
+      "memberCount": 13364177,
       "hasVerifiedBadge": false,
       "role": {
         "id": 612562849,
         "name": "Owner",
         "rank": 1
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-fee2deb02e0a2677dd36a12c43b97cb2/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d553f8c8e725a144e2210a61d868e0db/150/150/Image/Png/noFilter"
     },
     {
       "id": 16813622,
-      "name": "HIYOKO COMMUNITY",
-      "memberCount": 1670464,
+      "name": "Laser Tower Experiment",
+      "memberCount": 1670526,
       "hasVerifiedBadge": false,
       "role": {
         "id": 93798139,
@@ -1240,8 +1324,8 @@
     {
       "id": 705437060,
       "name": "DEXIN SQUAD",
-      "memberCount": 6571497,
-      "hasVerifiedBadge": true,
+      "memberCount": 6873986,
+      "hasVerifiedBadge": false,
       "role": {
         "id": 601434095,
         "name": "Member",
@@ -1252,7 +1336,7 @@
     {
       "id": 843677833,
       "name": "Vincent Tristan Community",
-      "memberCount": 367934,
+      "memberCount": 368054,
       "hasVerifiedBadge": false,
       "role": {
         "id": 611852085,
@@ -1264,7 +1348,7 @@
     {
       "id": 35731596,
       "name": "Tower Mania Studio",
-      "memberCount": 1776951,
+      "memberCount": 1904996,
       "hasVerifiedBadge": true,
       "role": {
         "id": 313828176,
@@ -1276,7 +1360,7 @@
     {
       "id": 612564014,
       "name": "Anonymous Laser Community",
-      "memberCount": 6721248,
+      "memberCount": 7076256,
       "hasVerifiedBadge": true,
       "role": {
         "id": 613094480,
@@ -1288,7 +1372,7 @@
     {
       "id": 973658818,
       "name": "q4cix Community",
-      "memberCount": 754310,
+      "memberCount": 756234,
       "hasVerifiedBadge": false,
       "role": {
         "id": 611960736,
@@ -1300,7 +1384,7 @@
     {
       "id": 25,
       "name": "Plaything Games",
-      "memberCount": 2153621,
+      "memberCount": 2483935,
       "hasVerifiedBadge": true,
       "role": {
         "id": 18432491,
@@ -1312,7 +1396,7 @@
     {
       "id": 809858762,
       "name": "rachelogyy",
-      "memberCount": 3994787,
+      "memberCount": 4245566,
       "hasVerifiedBadge": false,
       "role": {
         "id": 537212137,
@@ -1324,7 +1408,7 @@
     {
       "id": 14984341,
       "name": "Copyrend's Community",
-      "memberCount": 6173675,
+      "memberCount": 6517626,
       "hasVerifiedBadge": true,
       "role": {
         "id": 84635464,
@@ -1336,7 +1420,7 @@
     {
       "id": 35688006,
       "name": "DoncelG24 and Friends",
-      "memberCount": 5106962,
+      "memberCount": 5156432,
       "hasVerifiedBadge": true,
       "role": {
         "id": 302656020,
@@ -1348,8 +1432,8 @@
     {
       "id": 35324876,
       "name": "The Bopes",
-      "memberCount": 5246641,
-      "hasVerifiedBadge": true,
+      "memberCount": 5444156,
+      "hasVerifiedBadge": false,
       "role": {
         "id": 253744006,
         "name": "Bopes",
@@ -1360,7 +1444,7 @@
     {
       "id": 240322339,
       "name": "Juan Rajawil Community",
-      "memberCount": 6744529,
+      "memberCount": 7136404,
       "hasVerifiedBadge": false,
       "role": {
         "id": 606246092,
@@ -1372,7 +1456,7 @@
     {
       "id": 16108623,
       "name": "Sleeping Dog club",
-      "memberCount": 421329,
+      "memberCount": 445309,
       "hasVerifiedBadge": true,
       "role": {
         "id": 90278093,
@@ -1384,7 +1468,7 @@
     {
       "id": 187896736,
       "name": "Syntax Error Creations",
-      "memberCount": 4042140,
+      "memberCount": 4420845,
       "hasVerifiedBadge": true,
       "role": {
         "id": 607440065,
@@ -1396,7 +1480,7 @@
     {
       "id": 33479457,
       "name": "ManiaGames",
-      "memberCount": 3485996,
+      "memberCount": 3991045,
       "hasVerifiedBadge": true,
       "role": {
         "id": 103531395,
@@ -1408,7 +1492,7 @@
     {
       "id": 35669818,
       "name": "크롱 스튜디오",
-      "memberCount": 55189918,
+      "memberCount": 57615128,
       "hasVerifiedBadge": true,
       "role": {
         "id": 290676163,
@@ -1420,7 +1504,7 @@
     {
       "id": 35864728,
       "name": "Megastar Studios",
-      "memberCount": 22676060,
+      "memberCount": 24521662,
       "hasVerifiedBadge": true,
       "role": {
         "id": 352946132,
@@ -1432,7 +1516,7 @@
     {
       "id": 631276751,
       "name": "NAVA SQUAD",
-      "memberCount": 15310,
+      "memberCount": 15316,
       "hasVerifiedBadge": false,
       "role": {
         "id": 414606109,
@@ -1444,7 +1528,7 @@
     {
       "id": 35751751,
       "name": "Im Finding Nemo",
-      "memberCount": 113708,
+      "memberCount": 113240,
       "hasVerifiedBadge": false,
       "role": {
         "id": 314932346,
@@ -1456,39 +1540,54 @@
   ],
   "currentlyWearing": [
     {
+      "id": 1639334,
+      "name": "Cyber Suit34",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-987165e0fa67d8d2b7720b0cf591917e/150/150/Tshirt/Png/noFilter"
+    },
+    {
       "id": 86499666,
       "name": "Woman Torso",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-f9236771863fe61e0fa55c97edf6ea94/150/150/Torso/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8aed62b01454138862679e7d10fe3214/150/150/Torso/Png/noFilter"
     },
     {
       "id": 86499698,
       "name": "Woman Right Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-48d39f08cb44cf1010d7b47898423a4d/150/150/RightArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0f055a22b9b4f3f56916062f3c138e3a/150/150/RightArm/Png/noFilter"
     },
     {
       "id": 86499716,
       "name": "Woman Left Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-ceacfcd8850d06bc0d666ae885c70a24/150/150/LeftArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ea9ab3dff002c34e91cdc3689d8f691/150/150/LeftArm/Png/noFilter"
     },
     {
-      "id": 301811279,
-      "name": "John Pants",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-1775f4d9f18c388e436042c42cde079b/150/150/Pants/Png/noFilter"
+      "id": 144076358,
+      "name": "Blue and Black Motorcycle Shirt",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a363b433a6b1ca1717f38c2c83e92738/150/150/Shirt/Png/noFilter"
     },
     {
-      "id": 607702162,
-      "name": "Roblox Baseball Cap",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+      "id": 301818464,
+      "name": "Lin's Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cf6fd9015a6411d64b2ede13e01973d4/150/150/HairAccessory/Png/noFilter"
     },
     {
-      "id": 10638267973,
-      "name": "Stevie Standard - Head",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+      "id": 417457461,
+      "name": "ROBLOX 'R' Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c977137e24824df9a31f4837a97fcbda/150/150/Hat/Png/noFilter"
     },
     {
-      "id": 10647852134,
-      "name": "DefaultFallBackMood",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+      "id": 3403874988,
+      "name": "The Encierro Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-169177875326c6fa1283d0aa0916187f/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 10193405910,
+      "name": "Circlet of Patience",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e5e08067cab05e9364e99bdd75cd2d6e/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 11418363533,
+      "name": "Asset 11418363533",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c12e041a07eb3e041241e8a6e38db660/150/150/Pants/Png/noFilter"
     }
   ],
   "favoriteGames": [
@@ -1518,11 +1617,11 @@
     },
     {
       "id": 6546714281,
-      "name": "[🧚New] Gabby's Dollhouse Official Tycoon",
+      "name": "[🔮New] Gabby's Dollhouse Official Tycoon",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-2c8660684b953b1072abd4ecf5c784e5/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-871dcd43f14421507d67a7e6df8769d6/150/150/Image/Png/noFilter"
     },
     {
       "id": 6801627818,
@@ -1549,17 +1648,7 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-e099f0787ef7eefb4d2ec33fe6609a88/150/150/Image/Png/noFilter"
     }
   ],
-  "creations": [
-    {
-      "id": 7939721314,
-      "name": "Alya_20090101's Place",
-      "description": "This is your very first Roblox creation. Check it out, then make it your own with Roblox Studio!",
-      "placeId": 91278049866806,
-      "playing": 0,
-      "visits": 0,
-      "updated": "2025-06-18T05:07:28.07Z",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-950708626319e299abab674f3b11816b/150/150/GameIcon11/Png/noFilter"
-    }
-  ],
-  "copiedAt": "2026-09-01T14:00:00.000Z"
+  "creations": [],
+  "copiedAt": "2026-10-26T05:49:05.213Z",
+  "arsip-sebelum": "2026-09-01"
 }

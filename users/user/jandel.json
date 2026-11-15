@@ -7,17 +7,125 @@
   "id": 10916243,
   "name": "jandel",
   "displayName": "jandel",
-  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-9F88EE25AFD35EB3F6FE55F925FAE4FC-Png/720/720/Avatar/Webp/noFilter",
-  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9F88EE25AFD35EB3F6FE55F925FAE4FC-Png/150/150/AvatarHeadshot/Png/noFilter",
-  "friendsCount": 295,
-  "followersCount": 3151115,
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-21C7AEF8690A6F4DAAAB07C4059EF48D-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21C7AEF8690A6F4DAAAB07C4059EF48D-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 298,
+  "followersCount": 3105644,
   "followingCount": 0,
   "communities": [
     {
+      "id": 76286876,
+      "name": "Stick Wars Official",
+      "memberCount": 326306,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 880895020,
+        "name": "admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aef2ee0e8093e7ca63eedf0b70ce0022/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 899633935,
+      "name": "Forever Games Co.",
+      "memberCount": 179,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-44ef1c5f5efb64ce8c322da4704670be/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 720524174,
+      "name": "Sheepz Studioz",
+      "memberCount": 21,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0e900886e28376c2c7e073d5383f42e6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 403864872,
+      "name": "Not A Stand Game",
+      "memberCount": 224603,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Students",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d2e79af4afba1705947014d0662f556c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 361099344,
+      "name": "Eggs are the coolest thing ever!",
+      "memberCount": 790490,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 885462086,
+        "name": "Jandel",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d2f6b04f0be919610660411cba8a79be/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 720893699,
+      "name": "PROJECT PORTAL",
+      "memberCount": 36990,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c97f3c5f415ad8b4f81034fb2722e025/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 833578051,
+      "name": "Johns and Jimmys games",
+      "memberCount": 8,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 869629028,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a70c6b7cd75fcabfb28a794526eec7ef/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 223928772,
+      "name": "The Cozy Chefs",
+      "memberCount": 14,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Chefs",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a0ffca852d3f296d557c557d06611d76/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 281831224,
+      "name": "Huss Valley Official",
+      "memberCount": 163657,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bc41536c3bbdfc1a5e2687a0da4f2387/150/150/Image/Png/noFilter"
+    },
+    {
       "id": 180466034,
       "name": "Grow a Chicken Fighter",
-      "memberCount": 6955547,
-      "hasVerifiedBadge": false,
+      "memberCount": 8035249,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 12884901889,
         "name": "Member",
@@ -28,19 +136,19 @@
     {
       "id": 416091513,
       "name": "(学乱) Gakuran",
-      "memberCount": 7583043,
+      "memberCount": 7538061,
       "hasVerifiedBadge": true,
       "role": {
         "id": 583144041,
         "name": "Students",
         "rank": 2
       },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-1332cc8e0453378e9d63491fde8b9249/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0136d90c8c3025fa0245db4983207e77/150/150/Image/Png/noFilter"
     },
     {
       "id": 34492682,
       "name": "Skandi Studios",
-      "memberCount": 1715268,
+      "memberCount": 1861238,
       "hasVerifiedBadge": true,
       "role": {
         "id": 732177103,
@@ -52,7 +160,7 @@
     {
       "id": 148691510,
       "name": "SO MUCH SPEED",
-      "memberCount": 32294,
+      "memberCount": 34761,
       "hasVerifiedBadge": false,
       "role": {
         "id": 773948077,
@@ -62,21 +170,9 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-c73c6fab89a1437a416a2bbd24124402/150/150/Image/Png/noFilter"
     },
     {
-      "id": 7358272,
-      "name": "Sable Digital",
-      "memberCount": 88093,
-      "hasVerifiedBadge": true,
-      "role": {
-        "id": 46280766,
-        "name": "PoptartNoahh",
-        "rank": 255
-      },
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e642eaaf5ac98fb0324d9b85bdbd59bf/150/150/Image/Png/noFilter"
-    },
-    {
       "id": 714708242,
       "name": "Driftwood Creative",
-      "memberCount": 10,
+      "memberCount": 11,
       "hasVerifiedBadge": false,
       "role": {
         "id": 744601002,
@@ -88,7 +184,7 @@
     {
       "id": 126178198,
       "name": "Splitting Point | Block Games",
-      "memberCount": 363889,
+      "memberCount": 519476,
       "hasVerifiedBadge": true,
       "role": {
         "id": 719331061,
@@ -100,7 +196,7 @@
     {
       "id": 1101483791,
       "name": "Masked Up Studios",
-      "memberCount": 21,
+      "memberCount": 23,
       "hasVerifiedBadge": false,
       "role": {
         "id": 12884901889,
@@ -112,7 +208,7 @@
     {
       "id": 35916263,
       "name": "Dropping a Banger",
-      "memberCount": 2187122,
+      "memberCount": 2224863,
       "hasVerifiedBadge": true,
       "role": {
         "id": 360234057,
@@ -124,19 +220,19 @@
     {
       "id": 635601940,
       "name": "totally not secret games",
-      "memberCount": 722268,
+      "memberCount": 722634,
       "hasVerifiedBadge": true,
       "role": {
-        "id": 683441000,
-        "name": "Analytic",
-        "rank": 8
+        "id": 468500031,
+        "name": "Crying Souls",
+        "rank": 1
       },
       "imageUrl": "https://tr.rbxcdn.com/180DAY-2ab4654e0ab2038349a877b9a70982f3/150/150/Image/Png/noFilter"
     },
     {
       "id": 1066523035,
       "name": "Game Noob Studio",
-      "memberCount": 1203414,
+      "memberCount": 1220880,
       "hasVerifiedBadge": true,
       "role": {
         "id": 646249110,
@@ -148,7 +244,7 @@
     {
       "id": 114515609,
       "name": "Splendid Games Playing Group",
-      "memberCount": 7346,
+      "memberCount": 7673,
       "hasVerifiedBadge": false,
       "role": {
         "id": 641783133,
@@ -160,7 +256,7 @@
     {
       "id": 432538536,
       "name": "Strawberreh Squad",
-      "memberCount": 2077868,
+      "memberCount": 2081986,
       "hasVerifiedBadge": true,
       "role": {
         "id": 627323020,
@@ -172,7 +268,7 @@
     {
       "id": 16797548,
       "name": "Elevon_gg",
-      "memberCount": 5581291,
+      "memberCount": 5767062,
       "hasVerifiedBadge": true,
       "role": {
         "id": 93715984,
@@ -184,7 +280,7 @@
     {
       "id": 962144394,
       "name": "Dev Hatch",
-      "memberCount": 152598,
+      "memberCount": 153061,
       "hasVerifiedBadge": true,
       "role": {
         "id": 478570062,
@@ -196,7 +292,7 @@
     {
       "id": 506851313,
       "name": "RVQT",
-      "memberCount": 576035,
+      "memberCount": 577350,
       "hasVerifiedBadge": true,
       "role": {
         "id": 467016053,
@@ -208,7 +304,7 @@
     {
       "id": 35899282,
       "name": "Witch Pot",
-      "memberCount": 5604266,
+      "memberCount": 5614419,
       "hasVerifiedBadge": true,
       "role": {
         "id": 359034193,
@@ -220,7 +316,7 @@
     {
       "id": 876852426,
       "name": "Johnny Lava",
-      "memberCount": 19357213,
+      "memberCount": 19388552,
       "hasVerifiedBadge": true,
       "role": {
         "id": 616989185,
@@ -232,7 +328,7 @@
     {
       "id": 35958846,
       "name": "Lunmei",
-      "memberCount": 456241,
+      "memberCount": 454293,
       "hasVerifiedBadge": false,
       "role": {
         "id": 366988008,
@@ -244,7 +340,7 @@
     {
       "id": 935689446,
       "name": "Fish In The Waters",
-      "memberCount": 274084,
+      "memberCount": 274633,
       "hasVerifiedBadge": true,
       "role": {
         "id": 555032059,
@@ -256,7 +352,7 @@
     {
       "id": 1053386149,
       "name": "Bye Bye Games",
-      "memberCount": 1373454,
+      "memberCount": 1444418,
       "hasVerifiedBadge": true,
       "role": {
         "id": 438084086,
@@ -268,7 +364,7 @@
     {
       "id": 361078446,
       "name": "AFS: Endless",
-      "memberCount": 978043,
+      "memberCount": 969588,
       "hasVerifiedBadge": true,
       "role": {
         "id": 612450145,
@@ -280,7 +376,7 @@
     {
       "id": 32902707,
       "name": "Studio 8K",
-      "memberCount": 399929,
+      "memberCount": 398896,
       "hasVerifiedBadge": false,
       "role": {
         "id": 100454523,
@@ -292,7 +388,7 @@
     {
       "id": 95076810,
       "name": "One-Shot",
-      "memberCount": 204350,
+      "memberCount": 210479,
       "hasVerifiedBadge": true,
       "role": {
         "id": 494914012,
@@ -304,7 +400,7 @@
     {
       "id": 16660065,
       "name": "flipsy's games",
-      "memberCount": 978555,
+      "memberCount": 1072284,
       "hasVerifiedBadge": true,
       "role": {
         "id": 319620037,
@@ -316,7 +412,7 @@
     {
       "id": 35061735,
       "name": "Anime Fruits [Alan International Studios]",
-      "memberCount": 959599,
+      "memberCount": 953648,
       "hasVerifiedBadge": false,
       "role": {
         "id": 183066097,
@@ -328,7 +424,7 @@
     {
       "id": 34488916,
       "name": "low-fidelity",
-      "memberCount": 37902,
+      "memberCount": 37863,
       "hasVerifiedBadge": false,
       "role": {
         "id": 494154126,
@@ -340,7 +436,7 @@
     {
       "id": 34869880,
       "name": "Splitting Point - PVB",
-      "memberCount": 9934254,
+      "memberCount": 9917361,
       "hasVerifiedBadge": false,
       "role": {
         "id": 141714251,
@@ -352,7 +448,7 @@
     {
       "id": 472296619,
       "name": "Wreck Team",
-      "memberCount": 404467,
+      "memberCount": 407394,
       "hasVerifiedBadge": true,
       "role": {
         "id": 503834002,
@@ -364,7 +460,7 @@
     {
       "id": 468645764,
       "name": "Do Little",
-      "memberCount": 98114,
+      "memberCount": 99892,
       "hasVerifiedBadge": true,
       "role": {
         "id": 512772120,
@@ -376,7 +472,7 @@
     {
       "id": 35595896,
       "name": "High Quality Games!",
-      "memberCount": 590781,
+      "memberCount": 592521,
       "hasVerifiedBadge": true,
       "role": {
         "id": 274640138,
@@ -388,7 +484,7 @@
     {
       "id": 36015593,
       "name": "HZ DEV",
-      "memberCount": 1630674,
+      "memberCount": 1641362,
       "hasVerifiedBadge": false,
       "role": {
         "id": 381796031,
@@ -400,7 +496,7 @@
     {
       "id": 402939533,
       "name": "D1 Studio",
-      "memberCount": 26274,
+      "memberCount": 26136,
       "hasVerifiedBadge": false,
       "role": {
         "id": 467380137,
@@ -412,7 +508,7 @@
     {
       "id": 3385385,
       "name": "Frosted Studio",
-      "memberCount": 3878790,
+      "memberCount": 4028816,
       "hasVerifiedBadge": true,
       "role": {
         "id": 23343471,
@@ -424,7 +520,7 @@
     {
       "id": 173546965,
       "name": "Arena Zombies",
-      "memberCount": 13560,
+      "memberCount": 13774,
       "hasVerifiedBadge": true,
       "role": {
         "id": 479726125,
@@ -436,7 +532,7 @@
     {
       "id": 35558055,
       "name": "Budget Gaming",
-      "memberCount": 495811,
+      "memberCount": 518583,
       "hasVerifiedBadge": false,
       "role": {
         "id": 273138178,
@@ -448,7 +544,7 @@
     {
       "id": 193446929,
       "name": "Splitting Point | Battle",
-      "memberCount": 146495,
+      "memberCount": 146306,
       "hasVerifiedBadge": false,
       "role": {
         "id": 424468009,
@@ -460,7 +556,7 @@
     {
       "id": 1022151908,
       "name": "Splitting Point Quest",
-      "memberCount": 501,
+      "memberCount": 500,
       "hasVerifiedBadge": false,
       "role": {
         "id": 419634047,
@@ -472,7 +568,7 @@
     {
       "id": 35912310,
       "name": "Blox ER Responders",
-      "memberCount": 101299,
+      "memberCount": 101249,
       "hasVerifiedBadge": false,
       "role": {
         "id": 403196119,
@@ -484,7 +580,7 @@
     {
       "id": 33768122,
       "name": "TJim's Studio",
-      "memberCount": 803544,
+      "memberCount": 804846,
       "hasVerifiedBadge": true,
       "role": {
         "id": 105260999,
@@ -496,7 +592,7 @@
     {
       "id": 33113739,
       "name": "Adyssey Studio",
-      "memberCount": 9163,
+      "memberCount": 8947,
       "hasVerifiedBadge": false,
       "role": {
         "id": 101576701,
@@ -508,7 +604,7 @@
     {
       "id": 35789249,
       "name": "The Garden Game",
-      "memberCount": 19467207,
+      "memberCount": 19475060,
       "hasVerifiedBadge": false,
       "role": {
         "id": 334688035,
@@ -520,7 +616,7 @@
     {
       "id": 34671275,
       "name": "Blue Lock Rivals Unofficial Fans",
-      "memberCount": 32567404,
+      "memberCount": 32809859,
       "hasVerifiedBadge": false,
       "role": {
         "id": 168106012,
@@ -532,7 +628,7 @@
     {
       "id": 35538533,
       "name": "Drifty Cars",
-      "memberCount": 1667,
+      "memberCount": 1666,
       "hasVerifiedBadge": false,
       "role": {
         "id": 273116062,
@@ -544,7 +640,7 @@
     {
       "id": 33384332,
       "name": "Mega Studiosᅠ",
-      "memberCount": 351052,
+      "memberCount": 361297,
       "hasVerifiedBadge": true,
       "role": {
         "id": 348086052,
@@ -556,7 +652,7 @@
     {
       "id": 34160477,
       "name": "Ghoul : // RE",
-      "memberCount": 218808,
+      "memberCount": 219779,
       "hasVerifiedBadge": false,
       "role": {
         "id": 107281619,
@@ -568,7 +664,7 @@
     {
       "id": 35019647,
       "name": "Developer One Studios",
-      "memberCount": 50255,
+      "memberCount": 50058,
       "hasVerifiedBadge": false,
       "role": {
         "id": 322350093,
@@ -580,7 +676,7 @@
     {
       "id": 35594856,
       "name": "Boxing Fighters Legend",
-      "memberCount": 341547,
+      "memberCount": 348626,
       "hasVerifiedBadge": true,
       "role": {
         "id": 275802106,
@@ -592,7 +688,7 @@
     {
       "id": 35471020,
       "name": "Roblox Workers HQ",
-      "memberCount": 426246,
+      "memberCount": 439584,
       "hasVerifiedBadge": false,
       "role": {
         "id": 257504029,
@@ -604,8 +700,8 @@
     {
       "id": 9907275,
       "name": "BADJUJU",
-      "memberCount": 39431,
-      "hasVerifiedBadge": false,
+      "memberCount": 43222,
+      "hasVerifiedBadge": true,
       "role": {
         "id": 59848612,
         "name": "Test boy",
@@ -616,7 +712,7 @@
     {
       "id": 34152117,
       "name": "studio rng",
-      "memberCount": 24768,
+      "memberCount": 24720,
       "hasVerifiedBadge": true,
       "role": {
         "id": 107234672,
@@ -628,7 +724,7 @@
     {
       "id": 35585880,
       "name": "Build a Car to Kill Zombies",
-      "memberCount": 35661,
+      "memberCount": 35861,
       "hasVerifiedBadge": true,
       "role": {
         "id": 278092018,
@@ -640,7 +736,7 @@
     {
       "id": 33859442,
       "name": "Anime RoyaIe",
-      "memberCount": 151337,
+      "memberCount": 150294,
       "hasVerifiedBadge": false,
       "role": {
         "id": 105600616,
@@ -652,7 +748,7 @@
     {
       "id": 35311322,
       "name": "Anime: Showdown",
-      "memberCount": 1135373,
+      "memberCount": 1130249,
       "hasVerifiedBadge": false,
       "role": {
         "id": 234646016,
@@ -664,7 +760,7 @@
     {
       "id": 35236843,
       "name": "NoExt Punch",
-      "memberCount": 125878,
+      "memberCount": 125532,
       "hasVerifiedBadge": false,
       "role": {
         "id": 219680003,
@@ -676,7 +772,7 @@
     {
       "id": 34412944,
       "name": "C4 Studios x Circle Game",
-      "memberCount": 28983,
+      "memberCount": 29069,
       "hasVerifiedBadge": true,
       "role": {
         "id": 108693899,
@@ -688,7 +784,7 @@
     {
       "id": 16295931,
       "name": "Flame Inc...",
-      "memberCount": 63521,
+      "memberCount": 63411,
       "hasVerifiedBadge": false,
       "role": {
         "id": 140868290,
@@ -700,7 +796,7 @@
     {
       "id": 34725763,
       "name": "Grandmaster Room",
-      "memberCount": 54641,
+      "memberCount": 55652,
       "hasVerifiedBadge": false,
       "role": {
         "id": 121026115,
@@ -712,7 +808,7 @@
     {
       "id": 34509613,
       "name": "Alien TD",
-      "memberCount": 52839,
+      "memberCount": 52333,
       "hasVerifiedBadge": false,
       "role": {
         "id": 109234258,
@@ -724,7 +820,7 @@
     {
       "id": 12115267,
       "name": "Tycoon RNG 99",
-      "memberCount": 90374,
+      "memberCount": 90113,
       "hasVerifiedBadge": true,
       "role": {
         "id": 70532956,
@@ -736,7 +832,7 @@
     {
       "id": 33202922,
       "name": "Certified Monkey Business",
-      "memberCount": 17883,
+      "memberCount": 18036,
       "hasVerifiedBadge": true,
       "role": {
         "id": 102041332,
@@ -748,7 +844,7 @@
     {
       "id": 33361383,
       "name": "ATARAXIAAA",
-      "memberCount": 919,
+      "memberCount": 913,
       "hasVerifiedBadge": false,
       "role": {
         "id": 102888770,
@@ -760,7 +856,7 @@
     {
       "id": 34121350,
       "name": "Small World Games x Anime Defenders",
-      "memberCount": 4761021,
+      "memberCount": 4755627,
       "hasVerifiedBadge": true,
       "role": {
         "id": 108109135,
@@ -772,7 +868,7 @@
     {
       "id": 34088454,
       "name": "| Munching Macaws |",
-      "memberCount": 150487,
+      "memberCount": 148975,
       "hasVerifiedBadge": false,
       "role": {
         "id": 106880619,
@@ -784,7 +880,7 @@
     {
       "id": 14948237,
       "name": "2000Dolls",
-      "memberCount": 186729,
+      "memberCount": 186551,
       "hasVerifiedBadge": false,
       "role": {
         "id": 84451200,
@@ -796,7 +892,7 @@
     {
       "id": 14306116,
       "name": "Pull a Friend",
-      "memberCount": 70150,
+      "memberCount": 70573,
       "hasVerifiedBadge": false,
       "role": {
         "id": 106669046,
@@ -808,7 +904,7 @@
     {
       "id": 33097934,
       "name": "Jandel's Road Trip",
-      "memberCount": 6985387,
+      "memberCount": 7337091,
       "hasVerifiedBadge": true,
       "role": {
         "id": 101494924,
@@ -820,7 +916,7 @@
     {
       "id": 17011223,
       "name": "Brawl Saga",
-      "memberCount": 365,
+      "memberCount": 360,
       "hasVerifiedBadge": false,
       "role": {
         "id": 94824560,
@@ -832,7 +928,7 @@
     {
       "id": 32547458,
       "name": "cheeseburgerscats",
-      "memberCount": 6018,
+      "memberCount": 6101,
       "hasVerifiedBadge": false,
       "role": {
         "id": 98532813,
@@ -844,7 +940,7 @@
     {
       "id": 33179786,
       "name": "Joyable Games",
-      "memberCount": 71622,
+      "memberCount": 71507,
       "hasVerifiedBadge": false,
       "role": {
         "id": 101917947,
@@ -856,7 +952,7 @@
     {
       "id": 3059674,
       "name": "Badimo",
-      "memberCount": 3452075,
+      "memberCount": 3507714,
       "hasVerifiedBadge": true,
       "role": {
         "id": 102465568,
@@ -892,7 +988,7 @@
     {
       "id": 32973901,
       "name": "Anythings Studios",
-      "memberCount": 3000,
+      "memberCount": 2991,
       "hasVerifiedBadge": false,
       "role": {
         "id": 100837592,
@@ -904,7 +1000,7 @@
     {
       "id": 32892151,
       "name": "Anime Force TEAM",
-      "memberCount": 104996,
+      "memberCount": 104497,
       "hasVerifiedBadge": true,
       "role": {
         "id": 100609105,
@@ -916,7 +1012,7 @@
     {
       "id": 17020222,
       "name": "Judd Posting Studios",
-      "memberCount": 42409,
+      "memberCount": 42416,
       "hasVerifiedBadge": true,
       "role": {
         "id": 101793089,
@@ -928,7 +1024,7 @@
     {
       "id": 32305181,
       "name": "TBlox Mini",
-      "memberCount": 1589407,
+      "memberCount": 1585576,
       "hasVerifiedBadge": true,
       "role": {
         "id": 98965825,
@@ -940,7 +1036,7 @@
     {
       "id": 32836652,
       "name": "Jandel's Silly Obby",
-      "memberCount": 505,
+      "memberCount": 504,
       "hasVerifiedBadge": false,
       "role": {
         "id": 100100081,
@@ -952,7 +1048,7 @@
     {
       "id": 32381513,
       "name": "Nixe Studios",
-      "memberCount": 49120,
+      "memberCount": 48861,
       "hasVerifiedBadge": false,
       "role": {
         "id": 97638120,
@@ -964,7 +1060,7 @@
     {
       "id": 14351803,
       "name": "BaCkaw",
-      "memberCount": 210829,
+      "memberCount": 210080,
       "hasVerifiedBadge": true,
       "role": {
         "id": 81452470,
@@ -976,7 +1072,7 @@
     {
       "id": 32657476,
       "name": "Jandel's Anime Projects",
-      "memberCount": 2991,
+      "memberCount": 2987,
       "hasVerifiedBadge": false,
       "role": {
         "id": 99128619,
@@ -988,7 +1084,7 @@
     {
       "id": 7735467,
       "name": "Starcap Games",
-      "memberCount": 345240,
+      "memberCount": 344746,
       "hasVerifiedBadge": true,
       "role": {
         "id": 48269033,
@@ -1000,7 +1096,7 @@
     {
       "id": 9729817,
       "name": "Metsu Entertainment",
-      "memberCount": 40320,
+      "memberCount": 40243,
       "hasVerifiedBadge": false,
       "role": {
         "id": 63218139,
@@ -1012,7 +1108,7 @@
     {
       "id": 6537733,
       "name": "Pixel Piece_",
-      "memberCount": 115463,
+      "memberCount": 115214,
       "hasVerifiedBadge": true,
       "role": {
         "id": 41998482,
@@ -1024,7 +1120,7 @@
     {
       "id": 32022184,
       "name": "Arcane Anime Group",
-      "memberCount": 8703,
+      "memberCount": 8623,
       "hasVerifiedBadge": false,
       "role": {
         "id": 96915899,
@@ -1036,7 +1132,7 @@
     {
       "id": 13110803,
       "name": "Untitled Unmastered",
-      "memberCount": 108364,
+      "memberCount": 108103,
       "hasVerifiedBadge": false,
       "role": {
         "id": 75308892,
@@ -1048,7 +1144,7 @@
     {
       "id": 12938748,
       "name": "Paradise 4",
-      "memberCount": 445,
+      "memberCount": 449,
       "hasVerifiedBadge": false,
       "role": {
         "id": 74473694,
@@ -1060,7 +1156,7 @@
     {
       "id": 17367870,
       "name": "Soul Cultivation",
-      "memberCount": 285,
+      "memberCount": 288,
       "hasVerifiedBadge": false,
       "role": {
         "id": 96566419,
@@ -1072,7 +1168,7 @@
     {
       "id": 16957197,
       "name": "Sesame Workshop",
-      "memberCount": 34922,
+      "memberCount": 37328,
       "hasVerifiedBadge": true,
       "role": {
         "id": 94541847,
@@ -1084,7 +1180,7 @@
     {
       "id": 16390946,
       "name": "+1 Pet Per Second",
-      "memberCount": 87940,
+      "memberCount": 87178,
       "hasVerifiedBadge": false,
       "role": {
         "id": 91687543,
@@ -1096,7 +1192,7 @@
     {
       "id": 16460559,
       "name": "Simply Games Studios!",
-      "memberCount": 403301,
+      "memberCount": 402604,
       "hasVerifiedBadge": false,
       "role": {
         "id": 92056510,
@@ -1108,7 +1204,7 @@
     {
       "id": 16529535,
       "name": "Aqualemon studios",
-      "memberCount": 3104,
+      "memberCount": 3113,
       "hasVerifiedBadge": false,
       "role": {
         "id": 92417634,
@@ -1120,7 +1216,7 @@
     {
       "id": 16921403,
       "name": "Sesame Workshop Official",
-      "memberCount": 439,
+      "memberCount": 446,
       "hasVerifiedBadge": false,
       "role": {
         "id": 94357247,
@@ -1132,7 +1228,7 @@
     {
       "id": 16336856,
       "name": "steep steps",
-      "memberCount": 131640,
+      "memberCount": 131356,
       "hasVerifiedBadge": true,
       "role": {
         "id": 91405900,
@@ -1144,7 +1240,7 @@
     {
       "id": 15699300,
       "name": "Jandel's Games",
-      "memberCount": 175413,
+      "memberCount": 175318,
       "hasVerifiedBadge": true,
       "role": {
         "id": 88192882,
@@ -1156,7 +1252,7 @@
     {
       "id": 15257742,
       "name": "SILLY SATURDAYS",
-      "memberCount": 1392,
+      "memberCount": 1391,
       "hasVerifiedBadge": false,
       "role": {
         "id": 86042232,
@@ -1168,7 +1264,7 @@
     {
       "id": 13702351,
       "name": "Roblox Fall Flat",
-      "memberCount": 454,
+      "memberCount": 452,
       "hasVerifiedBadge": false,
       "role": {
         "id": 78188681,
@@ -1180,7 +1276,7 @@
     {
       "id": 11913117,
       "name": "Little Family Games",
-      "memberCount": 931,
+      "memberCount": 937,
       "hasVerifiedBadge": false,
       "role": {
         "id": 69544836,
@@ -1192,7 +1288,7 @@
     {
       "id": 10960525,
       "name": "Whacky Wizards",
-      "memberCount": 1129369,
+      "memberCount": 1133916,
       "hasVerifiedBadge": true,
       "role": {
         "id": 64741662,
@@ -1204,7 +1300,7 @@
     {
       "id": 10375028,
       "name": "Wizardly Wizards",
-      "memberCount": 805,
+      "memberCount": 801,
       "hasVerifiedBadge": false,
       "role": {
         "id": 61811443,
@@ -1216,7 +1312,7 @@
     {
       "id": 8316504,
       "name": "Junkbot Alpha Squad",
-      "memberCount": 19680,
+      "memberCount": 19644,
       "hasVerifiedBadge": false,
       "role": {
         "id": 51238136,
@@ -1228,7 +1324,7 @@
     {
       "id": 8136094,
       "name": "Captain Grumpy Games",
-      "memberCount": 1155773,
+      "memberCount": 1155058,
       "hasVerifiedBadge": false,
       "role": {
         "id": 50272881,
@@ -1240,7 +1336,7 @@
     {
       "id": 6042520,
       "name": "Grandma's Favourite Games",
-      "memberCount": 12143726,
+      "memberCount": 12643931,
       "hasVerifiedBadge": true,
       "role": {
         "id": 43815148,
@@ -1252,7 +1348,7 @@
     {
       "id": 6029207,
       "name": "fliminco dev get noob",
-      "memberCount": 71496,
+      "memberCount": 71374,
       "hasVerifiedBadge": false,
       "role": {
         "id": 39324766,
@@ -1288,7 +1384,7 @@
     {
       "id": 2868472,
       "name": "Roblox Interns",
-      "memberCount": 521,
+      "memberCount": 520,
       "hasVerifiedBadge": false,
       "role": {
         "id": 19490800,
@@ -1300,7 +1396,7 @@
     {
       "id": 5175768,
       "name": "Totally Unique Games.",
-      "memberCount": 104307,
+      "memberCount": 104179,
       "hasVerifiedBadge": false,
       "role": {
         "id": 34466654,
@@ -1312,7 +1408,7 @@
     {
       "id": 5171192,
       "name": "Splitting Point Devs",
-      "memberCount": 435,
+      "memberCount": 434,
       "hasVerifiedBadge": false,
       "role": {
         "id": 34438476,
@@ -1324,7 +1420,7 @@
     {
       "id": 3336691,
       "name": "The Flamingo Fan Club",
-      "memberCount": 9877499,
+      "memberCount": 9878371,
       "hasVerifiedBadge": false,
       "role": {
         "id": 34302591,
@@ -1336,7 +1432,7 @@
     {
       "id": 3529365,
       "name": "Gunfight Studio",
-      "memberCount": 685222,
+      "memberCount": 687180,
       "hasVerifiedBadge": true,
       "role": {
         "id": 24256016,
@@ -1348,7 +1444,7 @@
     {
       "id": 4491593,
       "name": "Splitting Point Studios",
-      "memberCount": 718369,
+      "memberCount": 726236,
       "hasVerifiedBadge": true,
       "role": {
         "id": 30203577,
@@ -1360,7 +1456,7 @@
     {
       "id": 4121917,
       "name": "Bad Skeleton",
-      "memberCount": 111358,
+      "memberCount": 111282,
       "hasVerifiedBadge": true,
       "role": {
         "id": 27909359,
@@ -1372,7 +1468,7 @@
     {
       "id": 4021800,
       "name": "Robloxian Military Game",
-      "memberCount": 515,
+      "memberCount": 516,
       "hasVerifiedBadge": false,
       "role": {
         "id": 27287911,
@@ -1384,7 +1480,7 @@
     {
       "id": 3938943,
       "name": "Allied Airborne 1940's",
-      "memberCount": 5648,
+      "memberCount": 5647,
       "hasVerifiedBadge": false,
       "role": {
         "id": 26778296,
@@ -1396,7 +1492,7 @@
     {
       "id": 3909848,
       "name": "ShoutOut Club Army",
-      "memberCount": 1474,
+      "memberCount": 1479,
       "hasVerifiedBadge": false,
       "role": {
         "id": 26601029,
@@ -1408,7 +1504,7 @@
     {
       "id": 3628174,
       "name": "Flip Flop Crew",
-      "memberCount": 1158,
+      "memberCount": 1156,
       "hasVerifiedBadge": false,
       "role": {
         "id": 24878982,
@@ -1432,29 +1528,24 @@
   ],
   "currentlyWearing": [
     {
-      "id": 6552812,
-      "name": "Golden Top Hat of Bling Bling",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-578055c5723ceaa8efffbb477a21c20e/150/150/Hat/Png/noFilter"
-    },
-    {
       "id": 13700820,
       "name": "Silly Monkey",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-839390543c99c6c3e4a7bf7e879ce2e3/150/150/Hat/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ffdf026183586ec01adfb6e540d5b0a/150/150/Hat/Png/noFilter"
     },
     {
       "id": 27112025,
       "name": "Roblox 2.0 Torso",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-271a68464e32a0d7c24c2df0869032a4/150/150/Torso/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-623004e08899fc718c79a26c27874da3/150/150/Torso/Png/noFilter"
     },
     {
       "id": 27112039,
       "name": "Roblox 2.0 Right Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-cde2fb350b1700d66307301b82354031/150/150/RightArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-366872f2f94e7b1be9dc45b44475e187/150/150/RightArm/Png/noFilter"
     },
     {
       "id": 27112052,
       "name": "Roblox 2.0 Left Arm",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-a3d37550da978952156bcee43786671a/150/150/LeftArm/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a32f99d98d732b0800715968eca8eef4/150/150/LeftArm/Png/noFilter"
     },
     {
       "id": 27112056,
@@ -1467,39 +1558,44 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-2dcb264de6d4914d887d03c433c7e2d6/150/150/RightLeg/Png/noFilter"
     },
     {
+      "id": 192477748,
+      "name": "White Banded Red Top Hat",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cff0cd2d0a018cfc49b1a48787413c6a/150/150/Hat/Png/noFilter"
+    },
+    {
       "id": 2510230574,
       "name": "Rthro Climb",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ddbf3aab49ad275a3da60af6fbbdadb4/150/150/ClimbAnimation/Png/noFilter"
     },
     {
       "id": 2510233257,
       "name": "Rthro Fall",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a1477483ac50394642c90f94b5f9fafb/150/150/FallAnimation/Png/noFilter"
     },
     {
       "id": 2510235063,
       "name": "Rthro Idle",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7129fc1185c134f7126060215dda6d1c/150/150/IdleAnimation/Png/noFilter"
     },
     {
       "id": 2510236649,
       "name": "Rthro Jump",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-233db0a72ea1d86c24345e8f543c240e/150/150/JumpAnimation/Png/noFilter"
     },
     {
       "id": 2510238627,
       "name": "Rthro Run",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f6084101888d57a9074a1973786531fc/150/150/RunAnimation/Png/noFilter"
     },
     {
       "id": 2510240941,
       "name": "Rthro Swim",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-18cc002ff866e8eb04556af076032b95/150/150/SwimAnimation/Png/noFilter"
     },
     {
       "id": 2510242378,
       "name": "Rthro Walk",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e9016bc88a7dce7177663d8d507b4da0/150/150/WalkAnimation/Png/noFilter"
     },
     {
       "id": 5618077056,
@@ -1507,27 +1603,43 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-e91736db42a4cb4c0290b77e13e78d7a/150/150/WaistAccessory/Png/noFilter"
     },
     {
-      "id": 15851204476,
-      "name": "Golden suit",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-5a21fa67093af443a447ef0efce1d544/150/150/Pants/Png/noFilter"
+      "id": 5731049064,
+      "name": "Developer Longsword",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-98c8e20da49c1e8426d14774a98e48ca/150/150/BackAccessory/Png/noFilter"
     },
     {
-      "id": 15851208497,
-      "name": "Golden suit",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-121b86ba2fcd146b4a41884021936659/150/150/Shirt/Png/noFilter"
+      "id": 5731051458,
+      "name": "Bombastic Crown of O’s",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-86cfe3d28cec21490ba7dcca82ea7c39/150/150/Hat/Png/noFilter"
     },
     {
-      "id": 18865110176,
-      "name": "Rainbow Party Wistle",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-154a17411acb755174e2c755f920e838/150/150/FaceAccessory/Png/noFilter"
+      "id": 5898342159,
+      "name": "monkey suit",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad6e7b4ea8004e810f80412366959db8/150/150/Shirt/Png/noFilter"
     },
     {
-      "id": 129835308025488,
-      "name": "New Years 2026 Black & Gold Confetti",
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-d04d6d14fdb18140f02c6fd463e565fa/150/150/BackAccessory/Png/noFilter"
+      "id": 5898343328,
+      "name": "monkey suit legs",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-de4ccf6e28acb10b30d945911da75271/150/150/Pants/Png/noFilter"
     }
   ],
   "favoriteGames": [
+    {
+      "id": 10771086863,
+      "name": "Soccer Test",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-88edbd4c22e4a1b7ef17bb94d78ebde1/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 10766240516,
+      "name": "[🎃] Shoot For Eggs",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-43e8178761f20844367bf760417d1fef/150/150/Image/Png/noFilter"
+    },
     {
       "id": 10378885079,
       "name": "[⚔️UPD] Block Wars",
@@ -1537,20 +1649,12 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-703450c4e95269a6cff43f74eacded2c/150/150/Image/Png/noFilter"
     },
     {
-      "id": 10063486378,
-      "name": "Jandel's Battlegrounds [TESTING]",
-      "placeId": null,
-      "playing": 0,
-      "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-18dd3a273317f8404850e1bb2ab000b9/150/150/Image/Png/noFilter"
-    },
-    {
       "id": 10200395747,
       "name": "Grow a Garden 2",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-9f3bea104a7cb403041cddbd76eb45fc/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-076fa0b396f5eac77ef9bb004dac1842/150/150/Image/Png/noFilter"
     },
     {
       "id": 9649298941,
@@ -1570,19 +1674,19 @@
     },
     {
       "id": 8316902627,
-      "name": "[🕵️] Plants & Brainrots 🌻",
+      "name": "[🎃] Plants & Brainrots 🌻",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-0c2ac16803c9771b0fd301b2b72f7ee6/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-abe3d338c3d5d0d9bc245c55b037381b/150/150/Image/Png/noFilter"
     },
     {
       "id": 7436755782,
-      "name": "[🌱] Grow a Garden 🌶️",
+      "name": "[🎃] Grow a Garden 🌶️",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-78bda5734a02c4ff5f0394db4dc6a641/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-00ebb900d7277c49b79a4fb89f0e8265/150/150/Image/Png/noFilter"
     },
     {
       "id": 5709370512,
@@ -1594,11 +1698,11 @@
     },
     {
       "id": 5650396773,
-      "name": "a dusty trip  [🚗CAR]",
+      "name": "a dusty trip [🎃SHOP]",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-9314ec1023c7bf4afead71883870e09b/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8fef8a252d9e27fc6ff8254373d3dd69/150/150/Image/Png/noFilter"
     },
     {
       "id": 5012222382,
@@ -1610,11 +1714,11 @@
     },
     {
       "id": 5148099079,
-      "name": "[SKINS] Bike of Hell",
+      "name": "[🎃] Bike of Hell",
       "placeId": null,
       "playing": 0,
       "visits": 0,
-      "imageUrl": "https://tr.rbxcdn.com/180DAY-b5092079cd8b70f8455ff90da586f744/150/150/Image/Png/noFilter"
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-eb88af04510786af3008376127b50475/150/150/Image/Png/noFilter"
     },
     {
       "id": 4748981356,
@@ -2335,5 +2439,6 @@
       "imageUrl": "https://tr.rbxcdn.com/180DAY-6a9ed9c31e78bb945c63c3a03e34c182/150/150/Image/Png/noFilter"
     }
   ],
-  "copiedAt": "2026-09-01T14:00:00.000Z"
+  "copiedAt": "2026-10-26T05:45:44.955Z",
+  "arsip-sebelum": "2026-09-01"
 }
