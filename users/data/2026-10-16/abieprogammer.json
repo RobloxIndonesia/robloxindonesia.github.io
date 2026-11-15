@@ -1,0 +1,382 @@
+{
+  "description": "I LOVE FREE UGC!",
+  "created": "2026-01-12T04:57:32.51Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 10329972037,
+  "name": "AbieProGammer",
+  "displayName": "Abie",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-064BCFB696312004AB78B2089C76DC8F-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-064BCFB696312004AB78B2089C76DC8F-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 53,
+  "followersCount": 1,
+  "followingCount": 12,
+  "communities": [
+    {
+      "id": 172652282,
+      "name": "MultiUGC",
+      "memberCount": 7538,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Memberrs",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fd21fb9a1f7df5c034d26e0eb96a3795/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35649866,
+      "name": "Lazer's UGC",
+      "memberCount": 109282,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 285774043,
+        "name": "[⭐] Supporters",
+        "rank": 5
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d1046abf11ec16b2535ed1e2e39e8532/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 327881029,
+      "name": "Up UGC",
+      "memberCount": 28705,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Members",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-512ec8291167ea230ed22efe13c49013/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35089854,
+      "name": "sakamotos",
+      "memberCount": 19019,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 187788025,
+        "name": "Hakase Shinonome",
+        "rank": 10
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6245aacb40260bb66111926e57b5d23d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 473313116,
+      "name": "Sinister Outfits",
+      "memberCount": 71189,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 537820088,
+        "name": "Miembro",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d6706da30393b748aea64c21d8ab4757/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 183178813,
+      "name": "Sinister Animations",
+      "memberCount": 56304,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2a20913f51c1bd7a3d427d83a50536b9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 79198172,
+      "name": "Sinister UGC's Deluxe",
+      "memberCount": 78479,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b91614ad284cf1bf9895dfdfc52a585f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 982613282,
+      "name": "Sinister UGC's Plus",
+      "memberCount": 107349,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 624481098,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-59b9fd71fa955a2c6c27e26b354ae3db/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 568550388,
+      "name": "Sinister UGC's",
+      "memberCount": 136778,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 436652050,
+        "name": "✨️ Sinister Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-120e992c9891e7630edf2f1ec1bddc6a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 25,
+      "name": "Plaything Games",
+      "memberCount": 2483928,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 18432491,
+        "name": "gamers",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ca9a11000666da6a02a59ae608e97042/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 384471972,
+      "name": "A Bundle Of Cats",
+      "memberCount": 1487636,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 592168113,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e8b1f4fb50ab2657c49fadbb723344b7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13997470,
+      "name": "Live on Roblox",
+      "memberCount": 3020219,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 79674793,
+        "name": "Music Fans",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-13951cc5acbda2731d3b9f98b95386a3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12836673,
+      "name": "Wiggity.",
+      "memberCount": 31052239,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 73986150,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-37e054187b03ff2892579de34be0642e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 469782201,
+      "name": "By Roblox Indonesia",
+      "memberCount": 107,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f1243fc35f270d193c0ca141171f9965/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 621333942,
+      "name": "Plenty of Planets",
+      "memberCount": 3897454,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 436942125,
+        "name": "earthling 🌍",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ef96684b06612dd19415b11b0a95a12/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34091161,
+      "name": "P2W Games Studio",
+      "memberCount": 2942000,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 106895453,
+        "name": "[💸] Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-431cd480b692df66d03c0882dbee8a68/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35669818,
+      "name": "크롱 스튜디오",
+      "memberCount": 57614545,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 290676163,
+        "name": "멤버",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58bdb4485dd668671e1ddbf88af8258c/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16f1aec1c5df1d078d2c65e4df786d91/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 70711524115322,
+      "name": "The Hunt: Roblox 20 Badge",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7214a38ed63a525f899b5693ba96db4c/150/150/FrontAccessory/Png/noFilter"
+    },
+    {
+      "id": 76997048714989,
+      "name": "Shirt",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d87f86b9c8b9b90a91cc87281b559afb/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 90947601297494,
+      "name": "The Beasthammer",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-136704878947fe687682648afe55f15e/150/150/BackAccessory/Png/noFilter"
+    },
+    {
+      "id": 95713843647941,
+      "name": "The Mask",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7b909e3969be24e04feb4a0746cebe38/150/150/FaceAccessory/Png/noFilter"
+    },
+    {
+      "id": 97595691448543,
+      "name": "Haunted Harvest Crown",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-26e938bb27e33b010acf103603f250f1/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 108763922926602,
+      "name": "Asset 108763922926602",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0e1bb016ac832e7ccc761cc26cff0f93/150/150/Tshirt/Png/noFilter"
+    },
+    {
+      "id": 122767014368218,
+      "name": "Dueling Defenses",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-27cea79340038bcd81ba53dae94e65b3/150/150/WaistAccessory/Png/noFilter"
+    },
+    {
+      "id": 125765831436846,
+      "name": "Crossroads Tower",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-69578a034798ebe305ffd36c890f5c15/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 133498216064543,
+      "name": "Black",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b48fbeabb67f5cebd6dde117d55530c3/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 136331462544974,
+      "name": "Phantom in the Code",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-14f52de7f2233e12aae0bcfbbfe28b35/150/150/ShoulderAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 10539411000,
+      "name": "🍂🎃 Clean all the Leaves",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b40c7a689373990de90e128eb844af26/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6331902150,
+      "name": "Forsaken",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ac77b9e9552150c8e485ddf26dac48f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 156639,
+      "name": "Sword Fights on the Heights IV",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a61acd399cd5b25a927f93d82986ab79/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5964044106,
+      "name": "The Classic",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9beb44de85ac0fea8904c8d66b4fe97d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8167549522,
+      "name": "Protect A Garden",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c33291485bff98ed5a770d7f534a14a9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9547619070,
+      "name": "Retro Obby",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a1770671b91caf34df3e04867ff4421e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6049736902,
+      "name": "Spelling Race",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ab614b6b953a55ad1f3656d756f55680/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8292068736,
+      "name": "The Block",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-879e292d30c63f2644d4322658ab972d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9035240873,
+      "name": "Prove You Are Not a Dum-Dum",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c9bd3b23a43891ce0e415766ac9de537/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9193169923,
+      "name": "Meme Animations",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0e6211dc287badd4e61d77697d9b5591/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9163172976,
+      "name": "Normal Obby",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1cd14f9a9ec1cc64d57119793910fa05/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 9547619070,
+      "name": "Retro Obby",
+      "description": "Play the Retro Obby and support this game for obby = tower",
+      "placeId": 97149814858173,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2026-08-30T08:53:50.697Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a1770671b91caf34df3e04867ff4421e/150/150/Image/Png/noFilter"
+    }
+  ],
+  "copiedAt": "2026-10-26T05:26:59.192Z",
+  "arsip-sebelum": "2026-09-01"
+}
