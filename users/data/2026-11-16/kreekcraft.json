@@ -1,0 +1,1245 @@
+{
+  "description": "did you do your chores\n\nyessirski",
+  "created": "2016-07-03T22:56:45.393Z",
+  "isBanned": true,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 140258990,
+  "name": "KreekCraft",
+  "displayName": "KreekCraft",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-D0D8178CBCA309EC314260779AC63988-Png/720/720/Avatar/Png/noFilter",
+  "avatarState": "Blocked",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D0D8178CBCA309EC314260779AC63988-Png/720/720/AvatarHeadshot/Png/noFilter",
+  "headshotState": "Blocked",
+  "friendsCount": 609,
+  "followersCount": 2740752,
+  "followingCount": 84,
+  "communities": [
+    {
+      "id": 4111519,
+      "name": "Roblox Presents",
+      "memberCount": 146,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 27844854,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac9d521c8719f57213d2b26dae010a98/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 1008902725,
+      "name": "100% ALGO SHOT",
+      "memberCount": 34240969,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 781770190,
+        "name": "Content Creator",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c68ee580a670adce80be5fa8dc08ee0a/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 432538536,
+      "name": "Strawberreh Squad",
+      "memberCount": 2081133,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 752229023,
+        "name": "Early Access",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-306d733f8e9c0ba0860ffc14dcdd0746/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 35789249,
+      "name": "The Garden Game",
+      "memberCount": 19458575,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 335782025,
+        "name": "Gardener",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-45f7217e0d6d2cdd2a6b6a58848f6a7f/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 1041977165,
+      "name": "No More Flops",
+      "memberCount": 23509120,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-609e9feb4150f39d41fac1898ac80762/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 16419897,
+      "name": "RBC Television",
+      "memberCount": 6767,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 97836477,
+        "name": "Developers",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3f9f770c84dfb000f01781a52f1c3183/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 635601940,
+      "name": "totally not secret games",
+      "memberCount": 722499,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 658357030,
+        "name": "Content Creator",
+        "rank": 7
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2ab4654e0ab2038349a877b9a70982f3/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 5268948,
+      "name": "braxworks",
+      "memberCount": 13456361,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 636893010,
+        "name": "Youtuber",
+        "rank": 225
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0a0013a143b70840bd8bcfb25360a1cf/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 12836673,
+      "name": "Wiggity.",
+      "memberCount": 31330073,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 102603665,
+        "name": "Content Creator",
+        "rank": 130
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-37e054187b03ff2892579de34be0642e/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 460048752,
+      "name": "Dawn Digital",
+      "memberCount": 4294986,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 636753061,
+        "name": "Content Creator",
+        "rank": 245
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b698b7c8ab61ce1ac230971004f0aa70/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 34898222,
+      "name": "Deep Spirit Games",
+      "memberCount": 267836,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 187350058,
+        "name": "Content Creator",
+        "rank": 12
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e976e05c69d40472932d58e785d9c007/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 380339980,
+      "name": "Tommy Tides",
+      "memberCount": 1529433,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 630641003,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8daa03a332ed1f34143ec6c1c8f81ba3/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 3461453,
+      "name": "Nosniy Games",
+      "memberCount": 59554827,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 23832227,
+        "name": "Fan",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-eb1f9327042e0cc22d666ad0a43a9e08/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 287752105,
+      "name": "Baldman Games",
+      "memberCount": 14,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 538400030,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-07daa30f4afc1f0ddad22b3e53766eb6/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 411609583,
+      "name": "Wave of Brainrots",
+      "memberCount": 5367619,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 618165048,
+        "name": "Content Creators",
+        "rank": 50
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cf87b44414cf62b420e8f090692a2305/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 699920026,
+      "name": "Blind Shot Group",
+      "memberCount": 2013076,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 611824609,
+        "name": "Content Creator",
+        "rank": 251
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-05a2244d1f09fe0f7903d75fc4621788/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 4733173,
+      "name": "Cutely Studio",
+      "memberCount": 27560,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31693348,
+        "name": "influencers",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bc3c5eacb4405c4ac8c242dd9544f418/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 10604500,
+      "name": "Da Hood Verified",
+      "memberCount": 213,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 89303439,
+        "name": "Notable",
+        "rank": 33
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-daaad7573c4b8a383a67f6762f11c5a0/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 2919215,
+      "name": "Sonar Studios",
+      "memberCount": 18888992,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 19913740,
+        "name": "🕹️ Sonarian",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-39474784218a6e568daa6364f77e0423/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 61060616,
+      "name": "Tim fan club (official)",
+      "memberCount": 10593,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 594608089,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f8f0dbdabeaad41f52572e0e2ff72a4d/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 35815907,
+      "name": "BRAZILIAN SPYDER",
+      "memberCount": 39558759,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 343282112,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ae530e20d343c8aa266c8819c35d602/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 34869880,
+      "name": "Splitting Point - PVB",
+      "memberCount": 9910078,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 141268253,
+        "name": "Yogurter",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9b8b702c717d9af71b9772336ac1165e/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 3104358,
+      "name": "Brookhaven by Voldex",
+      "memberCount": 13057791,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 552600021,
+        "name": "Content Creator",
+        "rank": 70
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9e81ca266381cba504751e909b880cc2/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 12121240,
+      "name": "Quataun",
+      "memberCount": 18493728,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 70561178,
+        "name": "Partner",
+        "rank": 4
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-096be28210d807d274b8b970bd348d72/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 35050711,
+      "name": "The Creator Awards",
+      "memberCount": 5363,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 183222004,
+        "name": "VIP",
+        "rank": 50
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-39381846328522d6f8717244650fd831/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 17264167,
+      "name": "Dress To Impress Group",
+      "memberCount": 10370059,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 96076216,
+        "name": "New Model",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fe1594578766fa642952a93a7dad2d22/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 16087003,
+      "name": "omelette prep",
+      "memberCount": 54209,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 90167884,
+        "name": "KreekCraft",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-73c5930cfde12d809b0db8399f26a372/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 3049798,
+      "name": "LSPLASH",
+      "memberCount": 24220551,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 20933341,
+        "name": "you guys",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-59c002daa82db60fe6e08cc2cb7bfbba/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 12217718,
+      "name": "Branched Realities",
+      "memberCount": 185632,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 71017766,
+        "name": "Respected",
+        "rank": 10
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0faac600e0daa2513a9921175d8c5e15/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 4544144,
+      "name": "The Smiles Family",
+      "memberCount": 569312,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 36237783,
+        "name": "Friends",
+        "rank": 238
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-67f9711e28cb6fdeb0617ea2e3b3b9ec/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 12874996,
+      "name": "Piggy: Intercity",
+      "memberCount": 311153,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 74170367,
+        "name": "Player",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-605360fce63c1fcd5f2ebc5cc5cc7314/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 6321191,
+      "name": "RB Battles Games",
+      "memberCount": 761675,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 40873404,
+        "name": "[YT] YouTubers",
+        "rank": 10
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e68e554e32055eaccdfe3074941ad004/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 7706298,
+      "name": "MiniToon's Ship",
+      "memberCount": 918084,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 48113961,
+        "name": "Supporter",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-404be86e1ed0fc65dec7b27f9226e31c/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 4749931,
+      "name": "RB Battles",
+      "memberCount": 253632,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 32053869,
+        "name": "Special Guest",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-63390667b1ffada84e43ad1e09047bbf/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 3072234,
+      "name": "KreekCraft Community",
+      "memberCount": 3011686,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 21103171,
+        "name": "KreekCraft",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7e3cb040328dd12b07aa351d4a998216/420/420/Image/Png/noFilter"
+    },
+    {
+      "id": 3059674,
+      "name": "Badimo",
+      "memberCount": 3516241,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 102465568,
+        "name": "Rocketeer",
+        "rank": 4
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8000f487d7e8751bb08ca8d5b3c12b26/420/420/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 86500008,
+      "name": "Man Torso",
+      "description": "",
+      "assetTypeId": 27,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-75f515a5e5b4339f149381f1f8ea9f05/420/420/Torso/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 86500036,
+      "name": "Man Right Arm",
+      "description": "",
+      "assetTypeId": 28,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2d39121417a01dc06b1e74d9f9d195eb/420/420/RightArm/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 86500054,
+      "name": "Man Left Arm",
+      "description": "",
+      "assetTypeId": 29,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d7dbfdbb043cdd1fcd8633f8b043c877/420/420/LeftArm/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 86500064,
+      "name": "Man Left Leg",
+      "description": "",
+      "assetTypeId": 30,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-14d10e3cb278bbdd42f7e7f8eeaf701d/420/420/LeftLeg/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 86500078,
+      "name": "Man Right Leg",
+      "description": "",
+      "assetTypeId": 31,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e85935f025bc03cb88fcfc8e0958a55e/420/420/RightLeg/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 3821195896,
+      "name": "Champion’s Swordpack",
+      "description": "To the victors, the spoils. This steel was awarded to the iron-willed winner of the 2019 RB Battles Championship.",
+      "assetTypeId": 46,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b7b21f2e762925e4becccbdd3bc2d69b/420/420/BackAccessory/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 3821198160,
+      "name": "Shield of Wisdom",
+      "description": "Choose your allies well. Victory will follow. Awarded to those who predicted the winner of the 2019 RB Battles Championship.",
+      "assetTypeId": 46,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4e2d547a666a132e5b493b003b66a262/420/420/BackAccessory/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 4604306937,
+      "name": "Brown Sideswept Hair",
+      "description": "Boy, what a dreamboat!",
+      "assetTypeId": 41,
+      "creator": "supernob123",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6dbe7922ccbcb37dbfee76d5fdb10ff8/420/420/HairAccessory/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 14532846222,
+      "name": "Skeptic - Head",
+      "description": "",
+      "assetTypeId": 79,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7d35cbbb79a5e724989fb738f07b6709/420/420/DynamicHead/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 14532855772,
+      "name": "Skeptic - Mood",
+      "description": "",
+      "assetTypeId": 78,
+      "creator": "Roblox",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-7bd0c1ead701d2dc6db5a263ac1915e6",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 14532860329,
+      "name": "Skeptic - Brows",
+      "description": "",
+      "assetTypeId": 76,
+      "creator": "Roblox",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2050d9b0a587b7fc863d55dc8f866126/420/420/EyebrowAccessory/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 86295965325303,
+      "name": "Original R15 Animation Pack (201… - Swim Animation",
+      "description": "a",
+      "assetTypeId": 54,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-4edb1272523a6250928b0a2ba0902984",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 99308826899101,
+      "name": "KreekCraft Shirt",
+      "description": "official kreekcraft shirt by @haizoopRBLX",
+      "assetTypeId": 11,
+      "creator": "KreekCraft Community",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7eef4fef597363d2efd14e2a779d91f2/420/420/Shirt/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 103141453457952,
+      "name": "Original R15 Animation Pack (201… - Jump Animation",
+      "description": "a",
+      "assetTypeId": 52,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t0.rbxcdn.com/180DAY-a3f024b81d82c698c0621fd5a03fd0fc",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 104569393799827,
+      "name": "Original R15 Animation Pack (201… - Idle Animation",
+      "description": "a",
+      "assetTypeId": 51,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t4.rbxcdn.com/180DAY-79101e833ff718e99454d871a76788ba",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 117813640679681,
+      "name": "Original R15 Animation Pack (2016) - Run Animation",
+      "description": "a",
+      "assetTypeId": 53,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t0.rbxcdn.com/180DAY-c20b06aa03abc7b983f94d792d86a77f",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 118362189197490,
+      "name": "KreekCraft Hat (Black/Rainbow) V2",
+      "description": "KreekCraft's Roblox hat but black and rainbow",
+      "assetTypeId": 8,
+      "creator": "KreekCraft Community",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-220403096ad0ee5f10e061568ea7ce99/420/420/Hat/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 127943787839575,
+      "name": "Original R15 Animation Pack (201… - Fall Animation",
+      "description": "a",
+      "assetTypeId": 50,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t0.rbxcdn.com/180DAY-d6a956cfa6cad887a03b84aa34e3bfae",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 129078082496213,
+      "name": "Original R15 Animation Pack (20… - Climb Animation",
+      "description": "a",
+      "assetTypeId": 48,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t0.rbxcdn.com/180DAY-1cc0b30ca544f6cc50f676000aba1412",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 129751901801757,
+      "name": "Original R15 Animation Pack (201… - Walk Animation",
+      "description": "a",
+      "assetTypeId": 55,
+      "creator": "Clockset's Crazy UGC Creations",
+      "imageUrl": "https://t0.rbxcdn.com/180DAY-c696aee131f555d740533b9d9d3fcd06",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 133950239855126,
+      "name": "KreekCraft Pants",
+      "description": "official kreekcraft pants by @haizoopRBLX",
+      "assetTypeId": 12,
+      "creator": "KreekCraft Community",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ef4b408b83e364476ae4ac3b09fcc01/420/420/Pants/Png/noFilter",
+      "thumbnailState": "Completed"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 10772946647,
+      "name": "Do Not Stop.",
+      "placeId": 116779912472448,
+      "description": "DO. NOT. STOP. DRIVING. at any cost, or it will catch you.\n \n\n\n\nDo Not Stop is inspired by various analog horror creatures and stories.\n\nCODES (type them in the lobby: GARAGE > CODES)\nRELEASE - 250 credits\nLASTSTOP - 250 credits\nDONOTSTOP - 200 credits\nROUTE1610 - 150 credits\nTOURNAMENT - 250 credits\nUPDATE2 - 250 credits",
+      "playing": 13318,
+      "visits": 29371146,
+      "maxPlayers": 20,
+      "creator": "make sure to drive fast",
+      "creatorType": "Group",
+      "created": "2026-10-25T14:06:37.909Z",
+      "updated": "2026-11-15T22:15:53.042Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-79fe422e0ae331a91977df95a5fd1c83/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 10624691669,
+      "name": "MONOCHROME👁️",
+      "placeId": 134208374070897,
+      "description": "!! This game is inspired by _ Boisvert, go follow his series !!\n\nearly development, expect bugs / there is now a server, join for devlogs and bug reports / suggestions\n\nYou wake up in a room with the exit sealed tight, in order to escape you'll have to navigate an abandoned network of corridors to retrieve four keys and one code .. but something's watching",
+      "playing": 1706,
+      "visits": 218909083,
+      "maxPlayers": 20,
+      "creator": "MONOCHROME_HOLDER",
+      "creatorType": "Group",
+      "created": "2026-08-03T14:39:12.2Z",
+      "updated": "2026-11-01T15:32:45.17Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-700c333503f06b627a0d41d7d24b4a35/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 4221956550,
+      "name": "The Butchery",
+      "placeId": 11928087342,
+      "description": "One night after driving down the wrong road deep in the Cottonwood Mountains, you are taken inside an old farmhouse home to two strange brothers.\n\n\n\nUPDATES:\n30/05/2026 - Part 4 and 5 released\n\nFOR THE BEST EXPERIENCE:\n- If you are playing on a computer or laptop it is recommended to use a mouse\n- Lower your graphics level if you are having trouble navigating dark spaces\n- Turn on Reduce Motion in settings to disable camera bobbing if you are prone to motion sickness\n\nCREDITS:\nThe Butchery was inspired by Resident Evil 7: Biohazard.\n\n\n\nTAGS: Horror, Adventure, Action, Puzzle, Pig, Friendship\n",
+      "playing": 667,
+      "visits": 141928753,
+      "maxPlayers": 20,
+      "creator": "chubby_baby7",
+      "creatorType": "User",
+      "created": "2022-12-26T08:25:18.3Z",
+      "updated": "2026-11-11T23:20:55.019Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-62ba11915d1e416f6a467601baf59327/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 10090256806,
+      "name": "TTK Testing [NEW PISTOL]",
+      "placeId": 120189115846709,
+      "description": "I'm excited to present PvE and elimination-based team modes for you guys soon. PvE has more mechanics and experimentation to play with.\nThis is the quickplay iteration of a game that ultimately will be intended for more intentional squad-based PvP, as well as PvE missions with roomclearing etc.\n\nWEEKLY UPDATES, AND EVEN DAILY UPDATES SOMETIMES. The game is constantly growing, so these are usually pretty serious updates rather than maintenance.\n\nThe Game Awards 2026 nominee for Best User Creation.\nInnovation Awards 2026 winner for Innovation in Tech.\n\nWant better visibility through optics? Try \"Transparent Optics\" in Settings to simulate both eyes open.\n\nhttps://devforum.roblox.com/t/ttk-our-very-early-tactical-fps/4664539\n\nControls\nFire: M1\nAim: M2\nCrouch: C\nLean left / right: Q / E\nHelmetcam: P\nSwap weapon: Number\n\nLEAD DEVS: PoptartNoahh, CanyonJack. The game only started because we found the camera and aiming system fun for us to play :)",
+      "playing": 3551,
+      "visits": 77085466,
+      "maxPlayers": 12,
+      "creator": "Sable Digital",
+      "creatorType": "Group",
+      "created": "2026-04-27T03:09:10.77Z",
+      "updated": "2026-11-18T05:02:43.938Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-80e7c73852597c0886b0f2c116c3ee7f/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 10148749921,
+      "name": "Animal Hospital (Anomaly) 🧪",
+      "placeId": 78515283254292,
+      "description": "You got hired to work the night shift at Animal Hospital, its now your job to treat the patients.\n\n\nbut some patients are acting weird...\n\n🏥 🩺 🚑  🧪",
+      "playing": 11805,
+      "visits": 2529727805,
+      "maxPlayers": 30,
+      "creator": "Animal Anomaly",
+      "creatorType": "Group",
+      "created": "2026-05-10T15:38:25.274Z",
+      "updated": "2026-11-17T12:27:59.565Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-06b6e0dc95a0b41b65a1bf6dd6e63a18/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9885372266,
+      "name": "Unseen Liminality",
+      "placeId": 82797688803922,
+      "description": "This is an Exploration Game. Explore and venture what is remembered in the endless hallways of this liminal setting and discover what lies behind the walls and possibly what lurks in the shadows.\n\"The more times it remembers something, the less it does.\"\n\nPlay on max graphics for the best experience.\nControls:\nQ - settings\nC - Crouch\nLeft Shift - Sprint\nV - Zoom\nCTRL - Mouse lock\n\nInspired by:\nPopular Liminal Images\nBeyond Liminal\nBackrooms by Kane Pixels\nOldest View by Kane Pixels\n\nSpecial Thanks to @angiealic for mall assets\n\ntags(ignore): backrooms, liminal, horror, uncanny, poolrooms, hotel, entity, creature, kane pixels, level 0, exploration, adventure, and survival\n",
+      "playing": 4824,
+      "visits": 107957802,
+      "maxPlayers": 15,
+      "creator": "The Unseen Zone",
+      "creatorType": "Group",
+      "created": "2026-03-15T03:45:50.283Z",
+      "updated": "2026-11-16T18:43:10.952Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-21d86caa51d764db04f4b7df6b4e54ee/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9659537922,
+      "name": "😤 Karen's Customer Service",
+      "placeId": 77030452227980,
+      "description": "UPDATE 7th June - TONS OF NEW CUSTOMERS ADDED\n\nYou just got hired as customer service at the mall. \nBad idea.\n\n🎮 HOW TO PLAY\n* 🧍 Talk to customers around the mall\n* 💬 Choose the right answers\n* ⚠️ Mess up… and things get worse\n* 🚪 Find the exit and escape\n\nMost importantly... DON'T MAKE KAREN ANGRY\n\n! INSPIRED BY BALDI'S BASICS !\n\n(This game is new, be sure to give constructive feedback!)\n\n",
+      "playing": 0,
+      "visits": 5057730,
+      "maxPlayers": 50,
+      "creator": "D4RKY Studios",
+      "creatorType": "Group",
+      "created": "2026-02-01T12:19:54.42Z",
+      "updated": "2026-10-14T17:50:51.487Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0aeb66f257d64383cf429227e1fda650/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9837612476,
+      "name": "[💥] Mini War",
+      "placeId": 131346454575416,
+      "description": "🪖 MINI WAR - Build your COUNTRY, grow your POWER, and command your ARMY to DOMINATE!\n\nUPDATE LOG (04.07.2026):\n• New SPECIAL INVASION WEATHER!\n• 5 New BUILDINGS! (through research!)\n• ADVANCED army and builder CONTROLS! (through research!)\n• Auto Buy OPTION!\n• Much, much more - discover it YOURSELF!\n\n⭐ HOW TO PLAY:\n• Build your city and grow your ECONOMY 🏠\n• Upgrade into advanced factories and INDUSTRY🏭\n• Train SOLDIERS and expand your ARMY 🪖\n• Unlock stronger units like TANKS, PLANES, HELICOPTERS 🚜\n• ATTACK and CAPTURE other players’ lands 🌍\n\n💡 PLAY YOUR WAY:\n• Focus on building a RICH and POWERFUL city.\n• Create a massive MILITARY empire.\n• Or balance both and become unstoppable.\n\nStart small, grow big, and take over the world!\n\n👍 If you enjoy the game, leave a thumbs up!\n🐞 Found a bug? Please report it on the Roblox Community!\n\nBeta - expect bugs.",
+      "playing": 6457,
+      "visits": 373568408,
+      "maxPlayers": 6,
+      "creator": "M&M Community",
+      "creatorType": "Group",
+      "created": "2026-03-05T12:37:02.853Z",
+      "updated": "2026-11-18T09:16:50.376Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-af2ddcd7a561fe127d2ab58b30362a14/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 10004943774,
+      "name": "Grow A Garden 2",
+      "placeId": 95204935687527,
+      "description": "🍅Welcome to Grow A Garden 2🍅\n\nThe sequel to GAG is here, with a expanded map, bigger and better gardens, guilds, new gears, new seeds, twists, and more! Buy seeds from the shop, plant them, wait for them to grow and harvest your fruits! But be careful when night comes, if you leave your garden, others will steal!\n\n[How To Plant]\n• Equip your seed you want to plant!\n• Click in your farm on the brown plots to plant!\n• Wait to see it start growing!\n• After its fully grown, it is time to harvest the goods!\n• \nRemember, your garden literally grows while you are offline🌱",
+      "playing": 0,
+      "visits": 893309,
+      "maxPlayers": 50,
+      "creator": "BMWLux",
+      "creatorType": "User",
+      "created": "2026-04-07T22:13:54.584Z",
+      "updated": "2026-06-06T04:51:00.757Z",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-26de3a6f3be928df6691f27dc32575c9",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 3508322461,
+      "name": "[🎃] Jujutsu Shenanigans",
+      "placeId": 9391468976,
+      "description": "\"what are you doing\"\n\"im doing some jujutsu shenanigans\" (tell that to your friends)\n\nM1 - melee combo\n1,2,3,4 - skills\nQ - dash (use in stun to escape)\nF - block\nR - special\nW+W - sprint (automatically avoids obstacles)\nG - awaken\n\ncombat based off many battleground games\ndestruction inspired by combat mayhem\n\nBest Action Experience RIA 2026",
+      "playing": 63747,
+      "visits": 7975935846,
+      "maxPlayers": 25,
+      "creator": "Jujutsu Shenanigans!",
+      "creatorType": "Group",
+      "created": "2022-04-17T04:51:12.57Z",
+      "updated": "2026-11-16T22:51:46.175Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d050b3c50d30c76d215accd60ddbb1c5/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 3317771874,
+      "name": "🍁 [TYCOON] Pet Simulator 99! 🍀",
+      "placeId": 8737899170,
+      "description": "Create an army of the coolest pets! They will help you get RICH!\n\n✨ Currently 3,000+ pets to collect! 🐾\n\n🧡 Thanks for playing!",
+      "playing": 42627,
+      "visits": 2714387832,
+      "maxPlayers": 10,
+      "creator": "BIG Games Pets",
+      "creatorType": "Group",
+      "created": "2022-02-05T13:30:02.357Z",
+      "updated": "2026-11-18T06:55:37.127Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b2b818bde92844d8127edf6e6b791ab4/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9584852943,
+      "name": "[S8] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "placeId": 95082159892680,
+      "description": "🎀 Join the SecretVerse Studio group to unlock FREE gift in-game!\n\n🍫 Welcome to +1 Speed Keyboard Escape | Candy & Chocolate! 🍫\n\n⚡ Every step = +1 Speed\n👟 Run, jump, and escape across a world made of candy & chocolate keyboard keys\n💪 Train your speed and unlock powerful multipliers\n👥 Race against friends and other players\n🌍 Become the FASTEST on the server\n🚀 Speed is everything… but one wrong move and you’re back at the start 😱\n\n🎧 ASMR vibes included\nSmooth movement, satisfying keyboard clicks, creamy visuals, and relaxing candy sounds for a perfect mix of speed & chill ✨",
+      "playing": 27934,
+      "visits": 6711322091,
+      "maxPlayers": 22,
+      "creator": "SecretVerse Studio",
+      "creatorType": "Group",
+      "created": "2026-01-18T17:49:45.993Z",
+      "updated": "2026-11-14T20:05:19.884Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-46749d354a0bbe1df8bbb284b2b8f1d9/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 10004244222,
+      "name": "[🕰️] Kick a Lucky Block",
+      "placeId": 89469502395769,
+      "description": "Kick a Lucky Block! 😎\n\n🍀 Kick the lucky block & Roll a brainrot\n🌊 Survive the tsunami that you've triggered!\n👷 Place the collected brainrot on your plot to earn money!\n💪 Buy weights and train your legs to kick further!\n\n🤩 Thank you for playing! Like and favorite if you enjoy the game !\n\nDo not use exploits, our anti-exploit system will detect you and ban you.",
+      "playing": 13713,
+      "visits": 1969531144,
+      "maxPlayers": 5,
+      "creator": "No More Flops",
+      "creatorType": "Group",
+      "created": "2026-04-07T17:46:03.203Z",
+      "updated": "2026-11-18T12:10:30.498Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0a9ec96323a78603f0d86e1a8fac3d6c/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9051406594,
+      "name": "[💥FINAL BOSS] Dueling Grounds ⚔️ ",
+      "placeId": 94217045453265,
+      "description": "⚔️ Fast-paced PvP fighting game where you fight with various weapons to become the strongest. Claim your place at the top!\n\nThe game is Available on PC, Mobile and Console\n\nPC CONTROLS (You can change them in settings)\n\nM1 / M2 - Light / Heavy Attack\nF - Parry / (Hold) Block\nQ or Shift - Dodge\nM3 or T - Lock to Enemy\nCtrl - Mouse Lock / Unlock\nSpace - Jump\nR - Ultimate",
+      "playing": 3568,
+      "visits": 458994215,
+      "maxPlayers": 14,
+      "creator": "Dueling Grounds",
+      "creatorType": "Group",
+      "created": "2025-10-28T12:34:05.71Z",
+      "updated": "2026-11-14T07:09:42.729Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3ead4511cc5ab659cb30932afd653be3/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 4816044149,
+      "name": "[1] A Nostalgic Game...? [REDUX]",
+      "placeId": 13892378955,
+      "description": "⚠️ THIS MAY CONTAIN FLASHING LIGHTS THAT COULD TRIGGER SEIZURES IN PEOPLE WITH PHOTOSENSITIVE EPILEPSY⚠️\n\nAudio and 7+ graphics are heavily recommended \n\nCome test the new interactive POSTMAN NPC in a nostalgic setting… apologies in advance for any “bugs” you might notice...\n\nCreated by Seeker (@OneWhoFinds) \n\nOST by Jagweezy, LUCA, and juno\n\nTHUMBNAIL ART by Cryophobia and exeluver\n\nAll other respective credits are displayed at the end of the game to avoid spoilers\n\nThis is a single-player story game.\n\nFor personal and/or developer inquiries, don't hesitate to contact me anywhere!\n\nYou can SKIP to the FACILITY if you've already earned the NOSTALGIA badge by clicking the logo in the intro of the game\n\nTHERE SHOULD BE NO POTENTIAL MUSIC COPYRIGHT CLAIM FROM RECORDING THIS EXPERIENCE",
+      "playing": 35,
+      "visits": 4760329,
+      "maxPlayers": 1,
+      "creator": "OneWhoFinds",
+      "creatorType": "User",
+      "created": "2023-06-28T17:24:04.09Z",
+      "updated": "2026-11-05T05:54:08.338Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5cba9f10ce7c1d32f4f33d796460dd7b/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9297902951,
+      "name": "Mulberry County",
+      "placeId": 104767169570582,
+      "description": "The date is 1997. You and your family live on a farm in rural Mulberry County where strange and paranormal events have been taking place. The state has issued an 8:00 p.m. curfew for all residents.\n\nDo not die.\n\nCurrent Version: 1.3.5 [ALPHA]\nVolume 2 is currently in the works!\n\n\nThis horror game is inspired by the Mandela Catalogue and liminal spaces.",
+      "playing": 171,
+      "visits": 30753814,
+      "maxPlayers": 100,
+      "creator": "Jackool Studios",
+      "creatorType": "Group",
+      "created": "2025-12-04T18:44:54.747Z",
+      "updated": "2026-11-17T19:22:40.695Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d955d2895e96a3f5b4ae94488ab02ea3/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 9676360773,
+      "name": "Sail For Brainrots!",
+      "placeId": 89046742932569,
+      "description": "Welcome to Sail For Brainrots! ⛵️\n\nRide your boat out to sea to catch Brainrots! 🛥️\nAvoid getting caught by sharks! 🦈\nUpgrade Brainrots to earn more money! 💸\nUpgrade your base to unlock more Brainrot slots! 🏗️\n\nLike the game and join the group for AWESOME UPDATES! 👍",
+      "playing": 10,
+      "visits": 16991642,
+      "maxPlayers": 6,
+      "creator": "Tommy Tides",
+      "creatorType": "Group",
+      "created": "2026-02-04T22:46:21.427Z",
+      "updated": "2026-09-02T16:14:32.153Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-08e86a10efece0243b6c26a2cfaa5273/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 572803727,
+      "name": "Egg Hunt 2018: The Great Yolktales",
+      "placeId": 1441335069,
+      "description": "Travel back in time to The Mirage where you'll be greeted by an old friend. Can you help them on their quest to find a mysterious egg!?\r\n\r\nA year following the defeat of the chaotic Dr. Deville d'Egg, an ominous threat breaks free from its eternal prison in an attempt to destroy the Eggverse. Open the mythical Eggcyclopedia and journey through unique open worlds, complete various tasks, all whilst being accompanied by your trusty companion, Booker. Will you save the world, or will its fate rest in Lord Aymor's talons? With 48 eggs for you to discover, welcome to Egg Hunt: The Great Yolktales!\r\n\r\n🏆 2019 Annual Bloxy Awards Winner for Best Art Direction and Best Original Music Score.\r\n\r\n🌍 This game is available on PC, Mac, Xbox One, Tablet, Mobile (Android and iOS).\r\nIncludes multi-platform gameplay and language support for English and Spanish.\r\n\r\n📝 The changelog can be viewed here!\r\n(https://devforum.roblox.com/t/egg-hunt-2018-the-great-yolktales-changelog/110633)",
+      "playing": 2,
+      "visits": 37613620,
+      "maxPlayers": 48,
+      "creator": "Fifteam",
+      "creatorType": "Group",
+      "created": "2018-02-20T09:33:12.597Z",
+      "updated": "2026-07-16T02:11:52.14Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5fb8c629425e3fbcfa964b8aa7cdf18b/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 4520295984,
+      "name": "Kevin's Test Place",
+      "placeId": 12919573803,
+      "description": null,
+      "playing": 0,
+      "visits": 3837,
+      "maxPlayers": 16,
+      "creator": "PXL | Pixel Playground",
+      "creatorType": "Group",
+      "created": "2023-03-27T17:27:39.027Z",
+      "updated": "2023-11-17T19:31:48.673Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-204aea8136153c1999487cb485b28615/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 4520276621,
+      "name": "DenseDad's Playground",
+      "placeId": 12919504343,
+      "description": null,
+      "playing": 0,
+      "visits": 2762,
+      "maxPlayers": 50,
+      "creator": "PXL | Pixel Playground",
+      "creatorType": "Group",
+      "created": "2023-03-27T17:19:22Z",
+      "updated": "2024-01-11T18:16:15.087Z",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-26de3a6f3be928df6691f27dc32575c9",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 3543117236,
+      "name": "Apeirophobia",
+      "placeId": 9508087919,
+      "description": null,
+      "playing": 0,
+      "visits": 110197798,
+      "maxPlayers": 100,
+      "creator": "Monochrome Studios.",
+      "creatorType": "Group",
+      "created": "2022-04-30T17:04:49.293Z",
+      "updated": "2023-06-05T14:22:52.927Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-160a34737a72a9847907825ca671f5a1/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1524193596,
+      "name": "READ DESCRIPTION FOR GAMESHOW",
+      "placeId": 4635352805,
+      "description": "NEW GAME: https://www.roblox.com/games/14123135692/BETA-GAMESHOW",
+      "playing": 0,
+      "visits": 1040311,
+      "maxPlayers": 200,
+      "creator": "The Gameshow Show",
+      "creatorType": "Group",
+      "created": "2020-01-27T00:06:30.723Z",
+      "updated": "2023-08-17T22:44:31.873Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f06f5b8d24b9bae02aa93887743d3f56/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 2191019337,
+      "name": "Piggy RP Film RolePlay",
+      "placeId": 6048391492,
+      "description": "I might update this game again.",
+      "playing": 0,
+      "visits": 169,
+      "maxPlayers": 30,
+      "creator": "FactualDev",
+      "creatorType": "User",
+      "created": "2020-12-06T00:18:52.037Z",
+      "updated": "2021-08-14T03:18:20.937Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6d076476e1c179b0f089a003d65585fd/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 2310182539,
+      "name": "✏️",
+      "placeId": 6270853847,
+      "description": null,
+      "playing": 0,
+      "visits": 218056,
+      "maxPlayers": 12,
+      "creator": "Mischiefing",
+      "creatorType": "User",
+      "created": "2021-01-19T21:08:55.793Z",
+      "updated": "2025-01-23T14:13:01.673Z",
+      "imageUrl": "https://t7.rbxcdn.com/180DAY-88edbd4c22e4a1b7ef17bb94d78ebde1",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 2054290935,
+      "name": "Lil Nas X Concert Experience",
+      "placeId": 5790039516,
+      "description": "Join Grammy-winning superstar Lil Nas X for a groundbreaking concert experience featuring some of his favorite songs, the debut performance of his new single, limited-edition items, and more! New merch is released daily leading up to the main event. Complete the in-game scavenger hunt between Friday, November 13 and Sunday, November 15 to unlock an exclusive LNX emote! This event is best experienced on the following newer devices: iPhone 11 Pro, iPad Pro, Galaxy S7+, OnePlus 5, Pixel, Windows 10.",
+      "playing": 0,
+      "visits": 36943052,
+      "maxPlayers": 50,
+      "creator": "Roblox Arena Events",
+      "creatorType": "Group",
+      "created": "2020-10-05T14:51:16.617Z",
+      "updated": "2026-03-18T22:18:12.011Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-44191afcb2176bc2fd8173f4d309f14a/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1516533665,
+      "name": "Piggy",
+      "placeId": 4623386862,
+      "description": "Do you have what it takes to escape Piggy and uncover the mysteries surrounding the beast?\n\nControls:\nPick up items / Use items - Click (Computer), Tap (Mobile) or Right Trigger (Controller)\nCrouch / Place trap - CTRL (Computer), Tap (Mobile) or B (Controller)\n\nCredits:\nIK3As - Building\nOptikk & Epic_Tank - Build Mode\nFor You to Stay © 2019 Mira K.",
+      "playing": 2741,
+      "visits": 14463672003,
+      "maxPlayers": 6,
+      "creator": "Piggy Dev Team",
+      "creatorType": "Group",
+      "created": "2020-01-23T02:11:32.343Z",
+      "updated": "2026-11-13T07:00:45.692Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b60cc8e7cc40dbf7d3feeaf94d55091e/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1725238308,
+      "name": "No Significant Harassment",
+      "placeId": 5004616172,
+      "description": "This is your very first Roblox creation. Check it out, then make it your own with Roblox Studio!",
+      "playing": 0,
+      "visits": 93657,
+      "maxPlayers": 1,
+      "creator": "41_aqd",
+      "creatorType": "User",
+      "created": "2020-05-08T23:12:43.113Z",
+      "updated": "2020-08-18T14:12:33.263Z",
+      "imageUrl": "https://t7.rbxcdn.com/180DAY-88edbd4c22e4a1b7ef17bb94d78ebde1",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1727257897,
+      "name": "Temple of the Seven Mirrors",
+      "placeId": 5008645936,
+      "description": "\r\nHeavily inspired by Realm Of the 9 Portals.\r\n\r\n-Work In Progress-",
+      "playing": 0,
+      "visits": 1980,
+      "maxPlayers": 49,
+      "creator": "Seven Red Suns",
+      "creatorType": "Group",
+      "created": "2020-05-09T20:09:48.407Z",
+      "updated": "2026-10-07T16:40:23.468Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0192172f10c8a66a2faf76c933587447/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 391390741,
+      "name": "Removed",
+      "placeId": 940509226,
+      "description": "please dislike",
+      "playing": 0,
+      "visits": 5524,
+      "maxPlayers": 100,
+      "creator": "MiniToon",
+      "creatorType": "User",
+      "created": "2017-07-26T16:38:56.983Z",
+      "updated": "2022-11-07T21:12:24.903Z",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-26de3a6f3be928df6691f27dc32575c9",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1590342918,
+      "name": "Time Travel Eggventures",
+      "placeId": 4752736749,
+      "description": "--CHANGES--\r\n- Obbies Easier\r\n- MORE LIVES\r\n\r\nWe realize our game is hard! So we have made it easier, we hope you enjoy the changes! Thanks for checking the game out!\r\n\r\nThanks everyone! Let's make this Egg-Hunt great!\r\n\r\n\r\nPLAY THE OG TIME TRAVEL ADVENTURES:\r\nhttps://www.roblox.com/games/3230548081/Time-Travel-Adventures\r\n\r\nHelp Tim retrieve the Time Travel Egg in this prequel spin-off mission for the Hit Series Time Travel Adventures!\r\n\r\nMADE BY ZOMBIEHOURS, JANDEL AND KADEN FUMBLEBOTTOM\r\n\r\n-VOICE ACTORS-\r\nKaden Fumblebottom\r\nAlbert\r\nSketchYT\r\nZombieHours\r\nTony",
+      "playing": 0,
+      "visits": 9655121,
+      "maxPlayers": 100,
+      "creator": "Splitting Point Studios",
+      "creatorType": "Group",
+      "created": "2020-03-04T21:07:21.23Z",
+      "updated": "2020-04-29T20:47:30.597Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c52b02576931fa7323a3da859dc70b62/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1484197505,
+      "name": "MURDER",
+      "placeId": 4572253581,
+      "description": null,
+      "playing": 0,
+      "visits": 42955081,
+      "maxPlayers": 15,
+      "creator": "ROLVe",
+      "creatorType": "Group",
+      "created": "2020-01-04T01:43:18.197Z",
+      "updated": "2026-04-17T18:26:47.94Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ffbdbe3e5ac1000ea27431fe32b7b6b6/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 1611103537,
+      "name": "7th Annual Bloxy Awards",
+      "placeId": 4786133739,
+      "description": "Catch the world premiere of the 7th Annual Bloxy Awards starting March 21st at 12:00 pm PDT and celebrate your favorite Roblox games and creators of 2019 with your fellow Robloxians.\r\nIf you can’t make the first showing, don’t worry. The Bloxys will be streaming right here all day, every day through March 30th. \r\n\r\nAfterwards, it will be uploaded to the official Roblox YouTube channel.\r\nGet exclusive items (available for free through March 30):\r\nhttps://rblx.co/BloxypunkTopHat\r\nhttps://rblx.co/BloxysaurusRawx\r\n\r\nSupport Make-A-Wish and Code.org with limited-edition, community-created items (special thanks to EvilArtist, Beeism, and supernob123 for their contributions!).\r\n\r\nMake-A-Wish:\r\nhttps://rblx.co/GalaxyScarf\r\nhttps://rblx.co/CosmosTopHat\r\nhttps://rblx.co/LizzysWings\r\n\r\nCode.org:\r\nhttps://rblx.co/BinaryMixingKeyboard\r\nhttps://rblx.co/HackerGoggles\r\nhttps://rblx.co/CoderWings",
+      "playing": 0,
+      "visits": 14563228,
+      "maxPlayers": 40,
+      "creator": "The Official Bloxys",
+      "creatorType": "Group",
+      "created": "2020-03-16T16:33:20.6Z",
+      "updated": "2022-10-31T18:29:38.527Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8b324fff55209c57d4a60017100a8dc6/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 245662005,
+      "name": "Jailbreak",
+      "placeId": 606849621,
+      "description": "We're happy to join Roblox for The TakeBack! Our part of the event unlocks Wednesday. Join \"The Block\" for more info, and visit our Event page below for exact timing. \n\nComing December: The 2026 Winter Update.\n\nOrganize a robbery or catch criminals! Go together or solo! And find the fastest cars to rule the server. \nProgrammed by Badcc and Epic_Tank.\nBuilt by asimo3089 & the community.\n",
+      "playing": 3475,
+      "visits": 8092465229,
+      "maxPlayers": 30,
+      "creator": "Badimo",
+      "creatorType": "Group",
+      "created": "2017-01-06T16:39:11.173Z",
+      "updated": "2026-11-16T18:51:42.198Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a47e4b9e95e4ce919d309b285078b162/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 657531326,
+      "name": "Mad City: Development",
+      "placeId": 1775735732,
+      "description": "🌟 Welcome to Mad City, where YOU write the story! 🌟\n\nBecome a hero or embrace your dark side as a villain! Unleash mayhem on the city or wear the badge and keep the peace.\nThe choice is YOURS! The heists never stop, and the thrill never ends!\n\n🔥🚀 WHAT'S NEW?! 🚀🔥\n\n📣 Updates:\n\n💎 Added Jewelry Store Revamp.\n🍂 Fall Themed Map.\n🎮 New Controller Support\n🤖 Titan now causes Self-Damage!\n🚁 Increased Buzzard Vehicle Damage.\nAnd more...\n\n🔧 Bug Fixes:\n🔧 Fixed Turret Issues for the Terminator, Blackout, and Cobra.\n💸 Fixed Prize Wheel not giving money for duplicate rewards.\n👮 Fixed Police NPC not prompting police dog.\n📢 Fixed Global Horn Sounds.\nAnd more...\n",
+      "playing": 0,
+      "visits": 120480,
+      "maxPlayers": 26,
+      "creator": "Schwifty Studios",
+      "creatorType": "Group",
+      "created": "2018-05-14T23:07:35.71Z",
+      "updated": "2025-09-23T20:09:17.147Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c627cc7c6f15c308c858c0f8f9adb3ce/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 246661510,
+      "name": "An Old Game",
+      "placeId": 608320858,
+      "description": null,
+      "playing": 0,
+      "visits": 23,
+      "maxPlayers": 10,
+      "creator": "Badimo",
+      "creatorType": "Group",
+      "created": "2017-01-11T04:01:24.817Z",
+      "updated": "2019-06-21T19:27:55.11Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3afa3e0e8e0b4b060567c6668e3027e5/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 988840839,
+      "name": "Theater | 6th Annual Bloxy Awards (Closed!)",
+      "placeId": 2736757548,
+      "description": ">>This will reopen next month when the full Bloxy Awards event launches! Stay tuned and thank you for your patience, for any questions or concerns please contact one of the developers via Twitter bellow.<<\r\n\r\nWelcome to the 6th Annual bloxys, here you can check out the theater! It's just one of several amazing maps being released for this years event!\r\n\r\nCheck out the developer's twitters! \r\nhttps://twitter.com/TrustMeImRuski \r\nhttps://twitter.com/TrustyTrus \r\nhttps://twitter.com/Spooksletsky \r\nhttps://twitter.com/awesxome3 \r\nhttps://twitter.com/_AshCraft1337_\r\n\r\nUPDATE TIMES: \r\n    - Pacific Standard Timezone (PST): \r\n        • 1 PM \r\n        • 12 AM\r\n    - Eastern Standard Timezone (EST): \r\n        • 3 PM\r\n        • 3 AM\r\n    - Greenwich Mean Timezone (GMT): \r\n        • 9 PM \r\n        • 8 AM",
+      "playing": 0,
+      "visits": 904643,
+      "maxPlayers": 35,
+      "creator": "Two Good Friends",
+      "creatorType": "Group",
+      "created": "2019-01-11T06:13:13.71Z",
+      "updated": "2019-02-04T05:04:30.763Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b3f81772f8d921b5d5d22a704a53b45b/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 64609802,
+      "name": "The Voxel Games",
+      "placeId": 2335924402,
+      "description": "",
+      "playing": 0,
+      "visits": 0,
+      "maxPlayers": 1,
+      "creator": "badcc",
+      "creatorType": "User",
+      "created": "2018-09-11T14:41:56.107Z",
+      "updated": "2018-09-11T14:41:56.123Z",
+      "imageUrl": "https://t5.rbxcdn.com/180DAY-26de3a6f3be928df6691f27dc32575c9",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 479209242,
+      "name": "hangout",
+      "placeId": 1167485352,
+      "description": "a private hangout for me and my friends i guess LOL",
+      "playing": 0,
+      "visits": 903,
+      "maxPlayers": 50,
+      "creator": "rootuhbaga",
+      "creatorType": "User",
+      "created": "2017-11-11T00:57:35.647Z",
+      "updated": "2025-07-04T19:41:59.667Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-87249609dae614261c1058785f217b72/512/512/UnapprovedImage/Png/noFilter",
+      "thumbnailState": "Blocked"
+    },
+    {
+      "id": 444313361,
+      "name": "The Grind Café V2! {11K VISITS!}",
+      "placeId": 1071069848,
+      "description": "Welcome to The Grind Café | V2!\r\n\r\n\"We offer tasty food and drinks. Our employees work super hard every day to serve and treat everyone kindly with respect. We love to see new people come down to give us a visit. Come back again knowing what abilities our cafe and employees have.\"\r\n\r\nGroup link: https://www.roblox.com/My/Groups.aspx?gid=3256120 \r\n\r\nPlease report any bugs to bIizardd or Silverful.",
+      "playing": 0,
+      "visits": 11998,
+      "maxPlayers": 50,
+      "creator": "The Grind Café",
+      "creatorType": "Group",
+      "created": "2017-09-26T16:52:09.817Z",
+      "updated": "2022-12-26T18:20:57.583Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fec59f1fc89493b41eef5a401a905945/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    },
+    {
+      "id": 471819732,
+      "name": "5th Annual Bloxy Awards Theater [Legacy]",
+      "placeId": 1147737452,
+      "description": "This is now a legacy game. The 5th Annual Bloxy Awards is over! This game will remain open for visitors.\r\n\r\nOriginal description:\r\nThis will be our biggest awards ceremony yet, with dozens of nominees competing across 38 categories. In preparation for the event, we’re also unveiling our biggest, most extravagant theater in the history of the Bloxys! \r\n\r\nA big thank you to Nocturne Entertainment for creating this magnificent build. The 5th Annual Bloxy Awards theater will fit an audience of over 5,000 Robloxians… and you could be one of them! That’s right–today we’re opening the theater tickets to the public!\r\n\r\nIf you buy a ticket, your avatar will make a LIVE appearance in the audience during the awards ceremony! There will be several seating levels available for purchase. You do not need to buy a ticket to watch the Bloxy Awards, which will be streaming on Twitch and YouTube.",
+      "playing": 0,
+      "visits": 2032977,
+      "maxPlayers": 30,
+      "creator": "Nocturne Entertainment",
+      "creatorType": "Group",
+      "created": "2017-11-01T11:33:25.69Z",
+      "updated": "2026-09-15T03:27:32.244Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-073cfd433bdac1c8a4425bae89e4f2d2/512/512/Image/Png/noFilter",
+      "thumbnailState": "Completed"
+    }
+  ],
+  "copiedAt": "2026-11-18T13:26:11.18Z"
+}
