@@ -521,7 +521,7 @@ if (banner) {
         robloxButton.onclick = () => {
 
             window.open(
-                `https://www.roblox.com/users/${data.id}/profile`,
+                `https://rblxid.github.io/link/?id=${data.id}`,
                 "_blank"
             );
 
